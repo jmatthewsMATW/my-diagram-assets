@@ -1,0 +1,1247 @@
+{
+  "products": [
+    {
+      "id": "71234626",
+      "name": "Standard 10W CO2",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Standard",
+      "subCategory": "",
+      "specs": "10.6µm | 60mm Lens | IP32",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "71234627",
+      "name": "Standard 30W CO2",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Standard",
+      "subCategory": "",
+      "specs": "10.6µm | 60mm Lens | IP32",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "71235163",
+      "name": "Configurable 10W CO2 | 10.6µm | IP54",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Configurable",
+      "subCategory": "10W",
+      "specs": "10.6µm | 100mm Lens | IP54",
+      "image": "",
+      "notes": "Includes Beam Expander",
+      "warning": ""
+    },
+    {
+      "id": "71235164",
+      "name": "Configurable 10W CO2 | 9.3µm | IP54",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Configurable",
+      "subCategory": "10W",
+      "specs": "9.3µm | 100mm Lens | IP54",
+      "image": "",
+      "notes": "Includes Beam Expander",
+      "warning": ""
+    },
+    {
+      "id": "71235166",
+      "name": "Configurable 30W CO2 | 10.6µm | IP54",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Configurable",
+      "subCategory": "30W",
+      "specs": "10.6µm | 100mm Lens | IP54",
+      "image": "",
+      "notes": "Includes Beam Expander",
+      "warning": ""
+    },
+    {
+      "id": "71235167",
+      "name": "Configurable 30W CO2 | 9.3µm | IP54",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Configurable",
+      "subCategory": "30W",
+      "specs": "9.3µm | 100mm Lens | IP54",
+      "image": "",
+      "notes": "Includes Beam Expander",
+      "warning": ""
+    },
+    {
+      "id": "71244750",
+      "name": "Configurable 30W CO2 | 10.6µm | IP65",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Configurable",
+      "subCategory": "30W",
+      "specs": "10.6µm | 100mm Lens | IP65",
+      "image": "",
+      "notes": "Includes Beam Expander",
+      "warning": ""
+    },
+    {
+      "id": "71244750",
+      "name": "Configurable 30W CO2 | 9.3µm | IP65",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Configurable",
+      "subCategory": "30W",
+      "specs": "9.3µm | 100mm Lens | IP65",
+      "image": "",
+      "notes": "Includes Beam Expander",
+      "warning": ""
+    },
+    {
+      "id": "71234759",
+      "name": "Configurable 80W CO2 | 10.6µm | IP54",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Configurable",
+      "subCategory": "80W",
+      "specs": "10.6µm | 100mm Lens | IP32",
+      "image": "",
+      "notes": "Includes Beam Expander",
+      "warning": ""
+    },
+    {
+      "id": "71234760",
+      "name": "Configurable 80W CO2 | 9.3µm | IP54",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Configurable",
+      "subCategory": "80W",
+      "specs": "9.3µm | 100mm Lens | IP32",
+      "image": "",
+      "notes": "Includes Beam Expander",
+      "warning": ""
+    },
+    {
+      "id": "71234767",
+      "name": "Configurable 80W CO2 | 10.6µm | IP65",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Configurable",
+      "subCategory": "80W",
+      "specs": "10.6µm | 100mm Lens | IP65",
+      "image": "",
+      "notes": "Includes Beam Expander",
+      "warning": ""
+    },
+    {
+      "id": "71234768",
+      "name": "Configurable 80W CO2 | 9.3µm | IP65",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Configurable",
+      "subCategory": "80W",
+      "specs": "9.3µm | 100mm Lens | IP65",
+      "image": "",
+      "notes": "Includes Beam Expander",
+      "warning": ""
+    },
+    {
+      "id": "41242942",
+      "name": "100x100mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9.3µm",
+      "specs": "WD 155mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242941",
+      "name": "60x60mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9.3µm",
+      "specs": "WD 84mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242940",
+      "name": "75x75mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9.3µm",
+      "specs": "WD 114mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242919",
+      "name": "150x150mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9.3µm",
+      "specs": "WD 229mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242918",
+      "name": "200x200mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9.3µm",
+      "specs": "WD 309mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242917",
+      "name": "250x250mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9.3µm",
+      "specs": "WD 339mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241451",
+      "name": "40x40mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 54mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241452",
+      "name": "60x60mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 84mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241453",
+      "name": "75x75mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 114mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241454",
+      "name": "150x150mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 229mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241455",
+      "name": "200x200mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 309mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241456",
+      "name": "250x250mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 339mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241457",
+      "name": "400x400mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 620mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241458",
+      "name": "500x500mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 710mm | IP32 / 54",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242955",
+      "name": "40x40mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9,3μm",
+      "specs": "WD 54mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242954",
+      "name": "60x60mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9,3μm",
+      "specs": "WD 84mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41245953",
+      "name": "75x75mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9,3μm",
+      "specs": "WD 114mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242951",
+      "name": "150x150mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9,3μm",
+      "specs": "WD 229mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242898",
+      "name": "200x200mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9,3μm",
+      "specs": "WD 309mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242896",
+      "name": "250x250mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "9,3μm",
+      "specs": "WD 339mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242963",
+      "name": "40x40mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 54mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242962",
+      "name": "60x60mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 84mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242961",
+      "name": "75x75mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 114mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242960",
+      "name": "150x150mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 229mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242959",
+      "name": "200x200mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 309mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242958",
+      "name": "400x400mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 620mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41242957",
+      "name": "500x500mm",
+      "productLine": "CO2 Laser",
+      "category": "CO2 Lenses",
+      "subCategory": "10,6μm",
+      "specs": "WD 710mm | IP65",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41243056",
+      "name": "MLDS Lite Software: Usb Memory Stick W. Software + Dongle Key + Ethernet Cable ",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Laser Software",
+      "subCategory": "MLDS",
+      "specs": "",
+      "image": "",
+      "notes": "Only Text Messages",
+      "warning": ""
+    },
+    {
+      "id": "41243058",
+      "name": "MLDS Lite Soft. USB",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Laser Software",
+      "subCategory": "MLDS",
+      "specs": "",
+      "image": "",
+      "notes": "Extra License",
+      "warning": ""
+    },
+    {
+      "id": "41243059",
+      "name": "MLDS Full Graphic Interface Package: USB Memory Stick W. Software + USB Dongle Key +Ethernet Cable ",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Laser Software",
+      "subCategory": "MLDS",
+      "specs": "",
+      "image": "",
+      "notes": "Complete Software, Default Full Package",
+      "warning": ""
+    },
+    {
+      "id": "41241325",
+      "name": "MLDS Full Soft. USB",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Laser Software",
+      "subCategory": "MLDS",
+      "specs": "",
+      "image": "",
+      "notes": "Extra License",
+      "warning": ""
+    },
+    {
+      "id": "41243140",
+      "name": "Internal Barcode Generator",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Laser Software",
+      "subCategory": "License",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41243762",
+      "name": "OPC-UA License",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Laser Software",
+      "subCategory": "License",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41243763",
+      "name": "Profinet License",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Laser Software",
+      "subCategory": "License",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41244871",
+      "name": "Ethernet/Ip License",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Laser Software",
+      "subCategory": "License",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241433",
+      "name": "Customer Connector I/O Db44-Pin (Configurable Only)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Connectors",
+      "subCategory": "DE / WD",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241393",
+      "name": "Signal Connector I/O 3-Pin M8 (Photocell)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Connectors",
+      "subCategory": "SE, DE / WD",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241412",
+      "name": "Signal Connector I/O 8-Pin M12 (Encoder)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Connectors",
+      "subCategory": "SE, DE / WD",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241434",
+      "name": "Multiconnector for DB44 (Configurable Only)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Connectors",
+      "subCategory": "DE / WD",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241435",
+      "name": "Multiconnector for DB15 (Standard Only)",
+      "productLine": "CO2 Laser",
+      "category": "Connectors",
+      "subCategory": "SE",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41244990",
+      "name": "DB15 Connector (Standard Only)",
+      "productLine": "CO2 Laser",
+      "category": "Connectors",
+      "subCategory": "SE",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41244695",
+      "name": "DB15 Connector (Standard Only)",
+      "productLine": "CO2 Laser",
+      "category": "Connectors",
+      "subCategory": "SE",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241395",
+      "name": "Photocell Kit+ Mount. Bracket (DE/WD, UV And Fiber)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Photocell",
+      "subCategory": "DE / WD",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241376",
+      "name": "Photocell Kit+ Mount. Bracket (Only Standard)",
+      "productLine": "CO2 Laser",
+      "category": "Photocell",
+      "subCategory": "SE",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241294",
+      "name": "Photocell Reflex Pnp Db9 (Only Standard)",
+      "productLine": "CO2 Laser",
+      "category": "Photocell",
+      "subCategory": "SE",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241396",
+      "name": "Shaft Encoder Kit (DE/WD, UV and Fiber)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Encoder",
+      "subCategory": "DE / WD",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241299",
+      "name": "Encoder Kit with mount and wheel (Only Standard)",
+      "productLine": "CO2 Laser",
+      "category": "Encoder",
+      "subCategory": "SE",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241397",
+      "name": "Beacon Alarm Kit",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Beacon",
+      "subCategory": "DE / WD",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241398",
+      "name": "Beacon Alarm Kit with Buzzer",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Beacon",
+      "subCategory": "DE / WD",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241392",
+      "name": "Alarm Kit for iCon & MPERIA Standard",
+      "productLine": "CO2 Laser",
+      "category": "Beacon",
+      "subCategory": "SE",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241439",
+      "name": "Diode Pointer",
+      "productLine": "CO2 Laser",
+      "category": "Diode Pointer",
+      "subCategory": "",
+      "specs": "10,6μm",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241450",
+      "name": "Diode Pointer",
+      "productLine": "CO2 Laser",
+      "category": "Diode Pointer",
+      "subCategory": "",
+      "specs": "9.3µm",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241033",
+      "name": "EMS Add-On ",
+      "productLine": "CO2 Laser",
+      "category": "Shutter",
+      "subCategory": "10W / 30W",
+      "specs": "SE / DE / WD",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241034",
+      "name": "EMS Add-On ",
+      "productLine": "CO2 Laser",
+      "category": "Shutter",
+      "subCategory": "80W",
+      "specs": "SE / DE",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41244888",
+      "name": "PL-D Kit",
+      "productLine": "CO2 Laser",
+      "category": "PL-D Kit",
+      "subCategory": "10W / 30W",
+      "specs": "SE / DE",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41244889",
+      "name": "PL-D Kit",
+      "productLine": "CO2 Laser",
+      "category": "PL-D Kit",
+      "subCategory": "80W",
+      "specs": "SE / DE / WD",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241396",
+      "name": "Laser Safety Glasses",
+      "productLine": "CO2 Laser",
+      "category": "Safety Glasses",
+      "subCategory": "",
+      "specs": "CO2",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241295",
+      "name": "Basic Support",
+      "productLine": "CO2 Laser",
+      "category": "Mounting",
+      "subCategory": "Stands",
+      "specs": "10W / 30W",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241297",
+      "name": "Stand with One Spindle",
+      "productLine": "CO2 Laser",
+      "category": "Mounting",
+      "subCategory": "Stands",
+      "specs": "10W / 30W",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241298",
+      "name": "Stand with Two Spindles",
+      "productLine": "CO2 Laser",
+      "category": "Mounting",
+      "subCategory": "Stands",
+      "specs": "10W / 30W",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241390",
+      "name": "Touchscreen Support for TSL-V3 (IP54Only)",
+      "productLine": "CO2 Laser",
+      "category": "Mounting",
+      "subCategory": "Touchscreen",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241432",
+      "name": "Touchscreen Support for TSL-V3 (IP54Only)",
+      "productLine": "CO2 Laser",
+      "category": "Mounting",
+      "subCategory": "Touchscreen",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241038",
+      "name": "Vortex Cabinet Cooler (Requires Filtered Air)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Cabinet Cooler",
+      "subCategory": "",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241039",
+      "name": "Air Filter Kit",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Cabinet Cooler",
+      "subCategory": "",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241483",
+      "name": "AD-200 Cooling Unit",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Cooling Unit",
+      "subCategory": "AD-200",
+      "specs": "220V",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241485",
+      "name": "AD-200 Cooling Unit",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Cooling Unit",
+      "subCategory": "AD-200",
+      "specs": "115V",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241486",
+      "name": "AD-350 Cooling Unit",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Cooling Unit",
+      "subCategory": "AD-350",
+      "specs": "220V",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241473",
+      "name": "AD-Access",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-Access",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41015870",
+      "name": "AD-Access",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-Access",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41016469",
+      "name": "HEPA Combined Filter for AD-Access",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-Access",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41016467",
+      "name": "Pre Filter for AD-Access",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-Access",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41039562",
+      "name": "AD-PVC iQ",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-PVC iQ",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41039755",
+      "name": "HEPA Combined filter for PVC iQ",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-PVC iQ",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41039754",
+      "name": "Pre Filter for PVC iQ",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-PVC iQ",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41039756",
+      "name": "Pad Filter for PVC iQ",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-PVC iQ",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41062565",
+      "name": "AD-Oracle",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-Oracle",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41037961",
+      "name": "HEPA Combined Filter for AD-Oracle",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-Oracle",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41062568",
+      "name": "Pre Filter for AD-Oracle",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-Oracle",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41057403",
+      "name": "AD-1000 iQ ",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-1000 iQ",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241703",
+      "name": "AD-1000 iQ ",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-1000 iQ",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41057399",
+      "name": "HEPA Combined Filter AD-1000 iQ",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-1000 iQ",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41057400",
+      "name": "Pre Filter AD-1000 iQ",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "AD-1000 iQ",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241526",
+      "name": "Hose Kit - 50mm (4m with Nozzle Assembly)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "50mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241527",
+      "name": "Hose Kit - 50mm - 75mm (4m with Nozzle Assembly)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "50mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241528",
+      "name": "Hose Kit - 75 - 100mm (3m 75mm hose, 75-100mm Boot)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "75mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241529",
+      "name": "Hose Kit - 100mm (3m)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "100mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241610",
+      "name": "Hose Kit - 50mm T-Piece (4m 50mm Hose, Nozzle assembly)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "50mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241611",
+      "name": "Hose Kit - 50mm with 50-75mm T Piece (4m 50mm Hose)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "50mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241612",
+      "name": "Hose Kit - 75mm (3m)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "75mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241613",
+      "name": "Hose Kit - 125 -100mm with T-piece",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "125mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241614",
+      "name": "Hose Kit - 1.5m 75mm",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "75mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241615",
+      "name": "Hose Kit - 125mm (2 x 150mm Hose)",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "125mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    },
+    {
+      "id": "41241616",
+      "name": "50mm Nozzle Assembly",
+      "productLine": "CO2 Laser, Fiber Laser, UV Laser",
+      "category": "Fume Extraction",
+      "subCategory": "50mm",
+      "specs": "",
+      "image": "",
+      "notes": "",
+      "warning": ""
+    }
+  ],
+  "rules": {
+    "requirements": {
+      "41016469": [
+        {
+          "id": "41016469",
+          "qty": 1,
+          "message": "Required"
+        }
+      ],
+      "41037961": [
+        {
+          "id": "41037961",
+          "qty": 1,
+          "message": "Required"
+        }
+      ],
+      "41039755": [
+        {
+          "id": "41039755",
+          "qty": 1,
+          "message": "Required"
+        }
+      ],
+      "41057399": [
+        {
+          "id": "41057399",
+          "qty": 1,
+          "message": "Required"
+        }
+      ],
+      "41241038": [
+        {
+          "id": "41241039",
+          "qty": 1,
+          "message": "Required"
+        }
+      ]
+    },
+    "suggestions": {}
+  },
+  "templates": [
+    {
+      "id": "T1",
+      "name": "Core 10W Standard Pack",
+      "productLine": "CO2 Lasers",
+      "items": {
+        "41242942": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "41243056": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "71234626": {
+          "qty": 1,
+          "customNotes": ""
+        }
+      }
+    }
+  ],
+  "settings": {
+    "imageBaseUrl": "",
+    "imageExtension": ".png"
+  },
+  "sortOrder": {
+    "productLines": [],
+    "categories": {
+      "CO2 Laser": [
+        "Cooling Unit",
+        "CO2 Standard",
+        "CO2 Configurable",
+        "CO2 Lenses",
+        "Laser Software",
+        "Connectors",
+        "Beacon",
+        "Photocell",
+        "Encoder",
+        "Diode Pointer",
+        "Shutter",
+        "PL-D Kit",
+        "Safety Glasses",
+        "Mounting",
+        "Cabinet Cooler",
+        "Fume Extraction"
+      ]
+    }
+  }
+}

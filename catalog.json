@@ -73,7 +73,19 @@
       "notes": "Includes Beam Expander"
     },
     {
-      "id": "71244751",
+      "id": "71234750",
+      "name": "Configurable 30W CO2 | 10.6µm | IP65",
+      "productLine": "CO2 Configurable",
+      "category": "CO2 Configurable",
+      "subCategory": "Laser Head",
+      "subCategory2": "30W",
+      "specs": "10.6µm | 100mm Lens | IP65",
+      "image": "",
+      "warning": "",
+      "notes": "Includes Beam Expander"
+    },
+    {
+      "id": "71234751",
       "name": "Configurable 30W CO2 | 9.3µm | IP65",
       "productLine": "CO2 Configurable",
       "category": "CO2 Configurable",
@@ -805,7 +817,7 @@
       "notes": ""
     },
     {
-      "id": "41241396",
+      "id": "TBD",
       "name": "Laser Safety Glasses",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser",
       "category": "Safety",

@@ -73,19 +73,7 @@
       "notes": "Includes Beam Expander"
     },
     {
-      "id": "71244750",
-      "name": "Configurable 30W CO2 | 10.6µm | IP65",
-      "productLine": "CO2 Configurable",
-      "category": "CO2 Configurable",
-      "subCategory": "Laser Head",
-      "subCategory2": "30W",
-      "specs": "10.6µm | 100mm Lens | IP65",
-      "image": "",
-      "warning": "",
-      "notes": "Includes Beam Expander"
-    },
-    {
-      "id": "71244750",
+      "id": "71244751",
       "name": "Configurable 30W CO2 | 9.3µm | IP65",
       "productLine": "CO2 Configurable",
       "category": "CO2 Configurable",
@@ -685,13 +673,13 @@
       "notes": ""
     },
     {
-      "id": "TBD",
-      "name": "Laser Safety Glasses",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser",
-      "category": "Safety",
-      "subCategory": "Safety Glasses",
-      "subCategory2": "",
-      "specs": "CO2",
+      "id": "41241396",
+      "name": "Shaft Encoder Kit (DE/WD, UV and Fiber)",
+      "productLine": "CO2 Configurable, Fiber Laser, UV Laser",
+      "category": "Peripherals",
+      "subCategory": "Encoder",
+      "subCategory2": "DE / WD",
+      "specs": "",
       "image": "",
       "warning": "",
       "notes": ""

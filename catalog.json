@@ -1715,7 +1715,7 @@
     }
   ],
   "settings": {
-    "imageBaseUrl": "",
+    "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/",
     "imageExtension": ".png"
   },
   "sortOrder": {

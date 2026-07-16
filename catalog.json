@@ -713,7 +713,7 @@
       "name": "Touchscreen TSL-V3 IP54",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
-      "subCategory": "Macsa",
+      "subCategory": "Controller",
       "subCategory2": "",
       "specs": "",
       "image": "",
@@ -725,7 +725,7 @@
       "name": "Touchscreen TSL-V3 IP65",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
-      "subCategory": "Macsa",
+      "subCategory": "Controller",
       "subCategory2": "",
       "specs": "",
       "image": "",
@@ -786,7 +786,7 @@
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
       "subCategory": "License",
-      "subCategory2": "",
+      "subCategory2": "Macsa",
       "specs": "",
       "image": "",
       "warning": "",
@@ -798,7 +798,7 @@
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
       "subCategory": "License",
-      "subCategory2": "",
+      "subCategory2": "Macsa",
       "specs": "",
       "image": "",
       "warning": "",
@@ -810,7 +810,7 @@
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
       "subCategory": "License",
-      "subCategory2": "",
+      "subCategory2": "Macsa",
       "specs": "",
       "image": "",
       "warning": "",
@@ -822,7 +822,7 @@
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
       "subCategory": "License",
-      "subCategory2": "",
+      "subCategory2": "Macsa",
       "specs": "",
       "image": "",
       "warning": "",
@@ -1679,6 +1679,174 @@
       "image": "",
       "warning": "",
       "notes": ""
+    },
+    {
+      "id": "71216721",
+      "name": "MPERIA® 8\"",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "Controller",
+      "subCategory2": "",
+      "specs": "8\" | IP55",
+      "image": "",
+      "warning": "",
+      "notes": "Includes power supply"
+    },
+    {
+      "id": "41204972",
+      "name": "MPERIA® Standard ",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "Controller",
+      "subCategory2": "",
+      "specs": "Aluminum | 12\" | IP40",
+      "image": "",
+      "warning": "",
+      "notes": "Includes power supply"
+    },
+    {
+      "id": "41057666",
+      "name": "MPERIA® Standard Enclosed",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "Controller",
+      "subCategory2": "",
+      "specs": "12\" | IP54",
+      "image": "",
+      "warning": "",
+      "notes": "Includes power supply"
+    },
+    {
+      "id": "41036089",
+      "name": "MPERIA® Harsh Environment (HE) ",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "Controller",
+      "subCategory2": "",
+      "specs": "Stainless Steel | 15\" | IP65",
+      "image": "",
+      "warning": "",
+      "notes": "Includes power supply"
+    },
+    {
+      "id": "86002292",
+      "name": "MPERIA® 8\" Expand ",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "License",
+      "subCategory2": "MPERIA® 8\"",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Enables support for up to four TJI cartridges, two PIJ printheads, two VIJ modules, and two Axians. This license is included when a laser is purchased, only one laser can be controlled. For LPA, the 8\" controller can only control one LPA, the expand license will not add the capability to control a second LPA."
+    },
+    {
+      "id": "86002295",
+      "name": "MPERIA® Base",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "License",
+      "subCategory2": "MPERIA® 8\"",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Enables access to MPERIA database for data management and integration"
+    },
+    {
+      "id": "86002294",
+      "name": "MPERIA® Connect",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "License",
+      "subCategory2": "MPERIA® 8\"",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Enables Ethernet connectivity for external factory network communication."
+    },
+    {
+      "id": "86002042",
+      "name": "MPERIA® Portal",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "License",
+      "subCategory2": "MPERIA® 8\", MPERIA®",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "License Key to enable VNC (Virtual Network Computing) Recommended for remote technical support of system."
+    },
+    {
+      "id": "86002043",
+      "name": "MPERIA® Select",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "License",
+      "subCategory2": "MPERIA® 8\", MPERIA®",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "License Key to enable line action protocol (Barcode Scanner message selection or simple remote communications)\r\n*Price does not include required hardware/barcode scanner."
+    },
+    {
+      "id": "86002296",
+      "name": "MPERIA® App",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "License",
+      "subCategory2": "MPERIA® 8\", MPERIA®",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "License Key (Application Specific Plug-ins) | Additional fee for plug-in development"
+    },
+    {
+      "id": "86003040",
+      "name": "MPERIA® netFolder & App License Keys",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "License",
+      "subCategory2": "MPERIA® 8\", MPERIA®",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Enables MPERIA Scripts (plug-ins) to connect to and read/write files on a Windows server or PC network folder. Includes both MPERIA Connect and the MPERIA App. | Includes license key for MPERIA® App | Additional fee for plug-in development"
+    },
+    {
+      "id": "86002041",
+      "name": "MPERIA® Standard Expand",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "License",
+      "subCategory2": "MPERIA®",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Each STD License will allow two additional devices to be run by the controller.  • Sixteen TIJ cartridges, requires 1-3 STD license depending on the printhead • Four Axian systems, requires 1 STD license • Three Lasers, requires 2 STD licenses • Three LPA Systems, requires 1 STD license • Twenty VIJ modules, requires 9 STD licenses • Twenty Piezo printheads, requires 9 STD license"
+    },
+    {
+      "id": "41039350",
+      "name": "Ethernet switch - 5 Port",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "Communication",
+      "subCategory2": "",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41039351",
+      "name": "Ethernet switch - 8 Port",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
+      "category": "User Interface",
+      "subCategory": "Communication",
+      "subCategory2": "",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
     }
   ],
   "rules": {
@@ -1711,6 +1879,13 @@
           "message": "Required"
         }
       ],
+      "41057666": [
+        {
+          "id": "41039350",
+          "qty": 1,
+          "message": "Required"
+        }
+      ],
       "41241038": [
         {
           "id": "41241039",
@@ -1721,6 +1896,20 @@
       "41243831": [
         {
           "id": "41243830, 41243832",
+          "qty": 1,
+          "message": "Required"
+        }
+      ],
+      "86002294": [
+        {
+          "id": "86002292",
+          "qty": 1,
+          "message": "Required"
+        }
+      ],
+      "86003040": [
+        {
+          "id": "86002292",
           "qty": 1,
           "message": "Required"
         }

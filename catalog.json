@@ -1177,30 +1177,6 @@
       "notes": ""
     },
     {
-      "id": "CO2 Gls",
-      "name": "Laser Safety Glasses",
-      "productLine": "CO2 Configurable, CO2 Standard",
-      "category": "Safety",
-      "subCategory": "Safety Glasses",
-      "subCategory2": "",
-      "specs": "CO2",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "Fiber Gls",
-      "name": "Laser Safety Glasses",
-      "productLine": "Fiber Laser, UV Laser, Fiber Film",
-      "category": "Safety",
-      "subCategory": "Safety Glasses",
-      "subCategory2": "",
-      "specs": "Fiber / UV",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41241459",
       "name": "40x40 PLEXIGLASS PROTECTION",
       "productLine": "CO2 Configurable, CO2 Standard",
@@ -1714,13 +1690,6 @@
       "41241038": [
         {
           "id": "41241039",
-          "qty": 1,
-          "message": "Required"
-        }
-      ],
-      "41243831": [
-        {
-          "id": "41243830, 41243832",
           "qty": 1,
           "message": "Required"
         }

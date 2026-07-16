@@ -590,7 +590,7 @@
     },
     {
       "id": "41243756",
-      "name": "60X60 FOR FIBER ",
+      "name": "60X60 FOR FIBER",
       "productLine": "Fiber Laser, Fiber Film",
       "category": "Lenses",
       "subCategory": "",
@@ -734,7 +734,7 @@
     },
     {
       "id": "41243056",
-      "name": "MLDS Lite Software: Usb Memory Stick W. Software + Dongle Key + Ethernet Cable ",
+      "name": "MLDS Lite Software: Usb Memory Stick W. Software + Dongle Key + Ethernet Cable",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
       "subCategory": "MLDS",
@@ -758,7 +758,7 @@
     },
     {
       "id": "41243059",
-      "name": "MLDS Full Graphic Interface Package: USB Memory Stick W. Software + USB Dongle Key +Ethernet Cable ",
+      "name": "MLDS Full Graphic Interface Package: USB Memory Stick W. Software + USB Dongle Key +Ethernet Cable",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
       "subCategory": "MLDS",
@@ -1502,7 +1502,7 @@
     },
     {
       "id": "41057403",
-      "name": "AD-1000 iQ ",
+      "name": "AD-1000 iQ",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
       "subCategory": "Extractors",
@@ -1514,7 +1514,7 @@
     },
     {
       "id": "41241703",
-      "name": "AD-1000 iQ ",
+      "name": "AD-1000 iQ",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
       "subCategory": "Extractors",
@@ -1694,7 +1694,7 @@
     },
     {
       "id": "41204972",
-      "name": "MPERIA® Standard ",
+      "name": "MPERIA® Standard",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
       "subCategory": "Controller",
@@ -1718,7 +1718,7 @@
     },
     {
       "id": "41036089",
-      "name": "MPERIA® Harsh Environment (HE) ",
+      "name": "MPERIA® Harsh Environment (HE)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
       "subCategory": "Controller",
@@ -1730,7 +1730,7 @@
     },
     {
       "id": "86002292",
-      "name": "MPERIA® 8\" Expand ",
+      "name": "MPERIA® 8\" Expand",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
       "subCategory": "License",
@@ -1917,23 +1917,7 @@
     },
     "suggestions": {}
   },
-  "templates": [
-    {
-      "id": "T1",
-      "name": "Core 10W Pack",
-      "productLine": "CO2 Lasers",
-      "items": {
-        "41243056": {
-          "qty": 1,
-          "customNotes": ""
-        },
-        "71234626": {
-          "qty": 1,
-          "customNotes": ""
-        }
-      }
-    }
-  ],
+  "templates": [],
   "settings": {
     "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/",
     "imageExtension": ".png"

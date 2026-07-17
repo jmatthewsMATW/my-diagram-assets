@@ -4291,13 +4291,77 @@
           "Ethernet Cables"
         ],
         "Mounting": [
+          "Stands",
           "MPERIA®",
           "Printhead",
           "V-Link",
-          "Stands",
           "40mm Tubular",
           "80/20"
         ]
+      }
+    },
+    "subCategories2": {
+      "VIJ": {
+        "Fluid Supply": {
+          "HP": [
+            "Supply Unit",
+            "Connection",
+            "Accessories",
+            "Spare Parts"
+          ],
+          "LCIS": [
+            "Supply Unit",
+            "Connection",
+            "Accessories",
+            "Spare Parts"
+          ],
+          "FlowJet": [
+            "Supply Unit",
+            "Connection",
+            "Accessories",
+            "Spare Parts"
+          ]
+        },
+        "Peripherals": {
+          "Encoder": [
+            "Standard",
+            "Heavy",
+            "High Speed",
+            "Accessories"
+          ]
+        }
+      },
+      "L-Series": {
+        "Peripherals": {
+          "Encoder": [
+            "Standard",
+            "Heavy",
+            "High Speed",
+            "Accessories"
+          ]
+        }
+      },
+      "T-Series": {
+        "Peripherals": {
+          "Encoder": [
+            "Standard",
+            "Heavy",
+            "High Speed",
+            "Accessories"
+          ]
+        }
+      },
+      "A-Series": {
+        "Peripherals": {
+          "Trigger": [
+            "Rocker",
+            "Red Beam",
+            "Diffused",
+            "Retro Reflect",
+            "Label Sensor",
+            "Fiber"
+          ]
+        }
       }
     }
   }

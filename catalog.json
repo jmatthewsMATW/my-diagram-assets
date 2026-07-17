@@ -1688,7 +1688,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "specs": "8\" | IP55",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_8.png",
       "warning": "",
       "notes": "Includes power supply"
     },
@@ -1700,7 +1700,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "specs": "Aluminum | 12\" | IP40",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_12.png",
       "warning": "",
       "notes": "Includes power supply"
     },
@@ -1712,7 +1712,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "specs": "12\" | IP54",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_Encl.png",
       "warning": "",
       "notes": "Includes power supply"
     },
@@ -1724,7 +1724,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "specs": "Stainless Steel | 15\" | IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_HE.png",
       "warning": "",
       "notes": "Includes power supply"
     },
@@ -1736,7 +1736,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "specs": "IP30 | XML or Command Line via ethernet or RS232",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_OEM.png",
       "warning": "",
       "notes": "Single production line/installation | One (1) device control | Includes: MPERIA Portal, MPERIA Edit, MPERIA Connect"
     },
@@ -1748,7 +1748,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "specs": "IP30 | XML or Command Line via ethernet or RS233",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_OEM.png",
       "warning": "",
       "notes": "Multiple production lines/installations | Up to two (2) devices | Includes: MPERIA Portal, MPERIA Edit, MPERIA Connect"
     },
@@ -1760,7 +1760,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "specs": "IP30 | XML or Command Line via ethernet or RS234",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_OEM.png",
       "warning": "",
       "notes": "Multiple production lines/installations | Up to four (4) devices | Includes: MPERIA Portal, MPERIA Edit, MPERIA Connect, MPERIA Base, MPERIA App"
     },
@@ -1772,7 +1772,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\"",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
       "notes": "Enables support for up to four TJI cartridges, two PIJ printheads, two VIJ modules, and two Axians. This license is included when a laser is purchased, only one laser can be controlled. For LPA, the 8\" controller can only control one LPA, the expand license will not add the capability to control a second LPA."
     },
@@ -1784,7 +1784,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\"",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
       "notes": "Enables access to MPERIA database for data management and integration"
     },
@@ -1796,7 +1796,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\"",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
       "notes": "Enables Ethernet connectivity for external factory network communication."
     },
@@ -1808,7 +1808,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
       "notes": "License Key to enable VNC (Virtual Network Computing) Recommended for remote technical support of system."
     },
@@ -1820,7 +1820,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
       "notes": "License Key to enable line action protocol (Barcode Scanner message selection or simple remote communications)\r\r\n*Price does not include required hardware/barcode scanner."
     },
@@ -1832,7 +1832,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
       "notes": "License Key (Application Specific Plug-ins) | Additional fee for plug-in development"
     },
@@ -1844,7 +1844,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
       "notes": "Enables MPERIA Scripts (plug-ins) to connect to and read/write files on a Windows server or PC network folder. Includes both MPERIA Connect and the MPERIA App. | Includes license key for MPERIA® App | Additional fee for plug-in development"
     },
@@ -1856,7 +1856,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA®",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
       "notes": "Each STD License will allow two additional devices to be run by the controller.  • Sixteen TIJ cartridges, requires 1-3 STD license depending on the printhead • Four Axian systems, requires 1 STD license • Three Lasers, requires 2 STD licenses • Three LPA Systems, requires 1 STD license • Twenty VIJ modules, requires 9 STD licenses • Twenty Piezo printheads, requires 9 STD license"
     },
@@ -1916,7 +1916,7 @@
       "subCategory": "Switches",
       "subCategory2": "",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Ethernet_Switch.png",
       "warning": "",
       "notes": ""
     },
@@ -1928,7 +1928,7 @@
       "subCategory": "Switches",
       "subCategory2": "",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Ethernet_Switch.png",
       "warning": "",
       "notes": ""
     },
@@ -2024,7 +2024,7 @@
       "subCategory": "",
       "subCategory2": "",
       "specs": "Includes: MPERIA® 8\" | MPERIA® V-Link | Wall/Table Mount | MPERIA® to V-Link Bracket | Install Guide",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/VLink_Bundle.png",
       "warning": "",
       "notes": "Controls up to 32 Valves (e.g. 4 x 7V, 2 x 16V, 1 x 32V) - 8000+ printheads (Maxi, Midi, Mini)"
     },
@@ -2036,7 +2036,7 @@
       "subCategory": "V-Link",
       "subCategory2": "",
       "specs": "IP53 *when mounted to instructions",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Vlink.png",
       "warning": "",
       "notes": "Supports a maximum of 32 valves | One V-Link can be used with up to two (2) photocells and two (2) speed source"
     },
@@ -2048,7 +2048,7 @@
       "subCategory": "V-Link",
       "subCategory2": "",
       "specs": "IP30 | 24VDC",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Vlink_OEM.png",
       "warning": "",
       "notes": "Supports a maximum of 32 valves | One V-Link can be used with up to two (2) photocells and two (2) speed source"
     },
@@ -2060,7 +2060,7 @@
       "subCategory": "Water Based",
       "subCategory2": "Maxi",
       "specs": "32 valve | Maxi | Water",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": ""
     },
@@ -2072,7 +2072,7 @@
       "subCategory": "Alcohol Based",
       "subCategory2": "Maxi",
       "specs": "32 valve | Maxi | Alcohol",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": ""
     },
@@ -2084,7 +2084,7 @@
       "subCategory": "Fast Dry",
       "subCategory2": "Maxi",
       "specs": "32 valve | Maxi | Fast Dry",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": ""
     },
@@ -2096,7 +2096,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "32 valve | Maxi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": "Maxi Drop FD PIGMENTED without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2108,7 +2108,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "32 valve | Maxi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": "Maxi Drop FD PIGMENTED without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2120,7 +2120,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "32 valve | Maxi | Water | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": "Maxi Drop WB PIGMENTED without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2132,7 +2132,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "33 valve | Maxi | Water | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": "Maxi Drop WB PIGMENTED without 3-way valve, for use with NON-recirculating ink supplies"
     },
@@ -2144,7 +2144,7 @@
       "subCategory": "Water Based",
       "subCategory2": "Midi",
       "specs": "32 valve | Midi | Water",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": ""
     },
@@ -2156,7 +2156,7 @@
       "subCategory": "Alcohol Based",
       "subCategory2": "Midi",
       "specs": "32 valve | Midi | Alcohol",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": ""
     },
@@ -2168,7 +2168,7 @@
       "subCategory": "Fast Dry",
       "subCategory2": "Midi",
       "specs": "32 valve | Midi | Fast Dry",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": ""
     },
@@ -2180,7 +2180,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
       "specs": "32 valve | Midi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": "Midi Drop FD PIGMENTED without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2192,7 +2192,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
       "specs": "32 valve | Midi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": "Midi Drop FD PIGMENTED with 3-way valve, for use with non-recirculating ink supplies"
     },
@@ -2204,7 +2204,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
       "specs": "32 valve | Midi | Water Based | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": "Midi Drop WB PIGMENTED with 3-way valve, for use with non-recirculating ink supplies"
     },
@@ -2216,7 +2216,7 @@
       "subCategory": "Water Based",
       "subCategory2": "Mini",
       "specs": "32 valve | Mini | Water",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": ""
     },
@@ -2228,7 +2228,7 @@
       "subCategory": "Alcohol Based",
       "subCategory2": "Mini",
       "specs": "32 valve | Mini | Alcohol",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": ""
     },
@@ -2240,7 +2240,7 @@
       "subCategory": "Fast Dry",
       "subCategory2": "Mini",
       "specs": "32 Valve | Mini | Fast Dry",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V32.png",
       "warning": "",
       "notes": ""
     },
@@ -2360,7 +2360,7 @@
       "subCategory": "Water Based",
       "subCategory2": "Maxi",
       "specs": "16 valve | Maxi | Water",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": ""
     },
@@ -2372,7 +2372,7 @@
       "subCategory": "Alcohol Based",
       "subCategory2": "Maxi",
       "specs": "16 valve | Maxi | Alcohol",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": ""
     },
@@ -2384,7 +2384,7 @@
       "subCategory": "Fast Dry",
       "subCategory2": "Maxi",
       "specs": "16 valve | Maxi | Fast Dry",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": ""
     },
@@ -2396,7 +2396,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "16 valve | Maxi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": "Maxi Drop FD PIGMENTED  without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2408,7 +2408,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "16 valve | Maxi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": "Maxi Drop FD PIGMENTED with 3-way valve, for use with non-recirculating ink supplies"
     },
@@ -2420,7 +2420,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "16 valve | Maxi | Water | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": "Maxi Drop WB PIGMENTED with 3-way valve, for use with non-recirculating ink supplies"
     },
@@ -2432,7 +2432,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "16 valve | Maxi | Water | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": "Maxi Drop WB PIGMENTED without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2444,7 +2444,7 @@
       "subCategory": "Water Based",
       "subCategory2": "Midi",
       "specs": "16 valve | Midi | Water",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": ""
     },
@@ -2456,7 +2456,7 @@
       "subCategory": "Alcohol Based",
       "subCategory2": "Midi",
       "specs": "16 valve | Midi | Alcohol",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": ""
     },
@@ -2468,7 +2468,7 @@
       "subCategory": "Fast Dry",
       "subCategory2": "Midi",
       "specs": "16 valve | Midi | Fast Dry",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": ""
     },
@@ -2480,7 +2480,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
       "specs": "16 valve | Midi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": "Midi Drop FD PIGMENTED without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2492,7 +2492,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
       "specs": "16 valve | Midi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": "Midi Drop FD PIGMENTED with 3-way valve, for use with non-recirculating ink supplies"
     },
@@ -2504,7 +2504,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
       "specs": "16 valve | Midi | Water Based | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": "Midi Drop WB PIGMENTED with 3-way valve, for use with non-recirculating ink supplies"
     },
@@ -2516,7 +2516,7 @@
       "subCategory": "Water Based",
       "subCategory2": "Mini",
       "specs": "16 valve | Mini | Water",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": ""
     },
@@ -2528,7 +2528,7 @@
       "subCategory": "Alcohol Based",
       "subCategory2": "Mini",
       "specs": "16 valve | Mini | Alcohol",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": ""
     },
@@ -2540,7 +2540,7 @@
       "subCategory": "Fast Dry",
       "subCategory2": "Mini",
       "specs": "16 Valve | Mini | Fast Dry",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V16.png",
       "warning": "",
       "notes": ""
     },
@@ -2552,7 +2552,7 @@
       "subCategory": "Water Based",
       "subCategory2": "Maxi",
       "specs": "7 valve | Maxi | Water",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": ""
     },
@@ -2564,7 +2564,7 @@
       "subCategory": "Alcohol Based",
       "subCategory2": "Maxi",
       "specs": "7 valve | Maxi | Alcohol",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": ""
     },
@@ -2576,7 +2576,7 @@
       "subCategory": "Fast Dry",
       "subCategory2": "Maxi",
       "specs": "7 valve | Maxi | Fast Dry",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": ""
     },
@@ -2588,7 +2588,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "7 valve | Maxi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": "Maxi Drop FD PIGMENTED without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2600,7 +2600,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "7 valve | Maxi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": "Maxi Drop FD PIGMENTED without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2612,7 +2612,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "7 valve | Maxi | Water | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": "Maxi Drop WB PIGMENTED without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2624,7 +2624,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
       "specs": "7 valve | Maxi | Water | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": "Maxi Drop WB PIGMENTED without 3-way valve, for use with NON-recirculating ink supplies"
     },
@@ -2636,7 +2636,7 @@
       "subCategory": "Water Based",
       "subCategory2": "Midi",
       "specs": "7 valve | Midi | Water",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": ""
     },
@@ -2648,7 +2648,7 @@
       "subCategory": "Alcohol Based",
       "subCategory2": "Midi",
       "specs": "7 valve | Midi | Alcohol",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": ""
     },
@@ -2660,7 +2660,7 @@
       "subCategory": "Fast Dry",
       "subCategory2": "Midi",
       "specs": "7 valve | Midi | Fast Dry",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": ""
     },
@@ -2672,7 +2672,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
       "specs": "7 valve | Midi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": "Midi Drop FD PIGMENTED without 3-way valve, for use with recirculating ink supplies"
     },
@@ -2684,7 +2684,7 @@
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
       "specs": "7 valve | Midi | Fast Dry | Pigmented",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": "Midi Drop FD PIGMENTED with 3-way valve, for use with non-recirculating ink supplies"
     },
@@ -2696,7 +2696,7 @@
       "subCategory": "Water Based",
       "subCategory2": "Mini",
       "specs": "7 valve | Mini | Water",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": ""
     },
@@ -2708,7 +2708,7 @@
       "subCategory": "Alcohol Based",
       "subCategory2": "Mini",
       "specs": "7 valve | Mini | Alcohol",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": ""
     },
@@ -2720,7 +2720,7 @@
       "subCategory": "Fast Dry",
       "subCategory2": "Mini",
       "specs": "7 Valve | Mini | Fast Dry",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/V7.png",
       "warning": "",
       "notes": ""
     },
@@ -2732,7 +2732,7 @@
       "subCategory": "HP",
       "subCategory2": "Supply Unit",
       "specs": "2 x 1L | 120V",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/HPP.png",
       "warning": "",
       "notes": ""
     },
@@ -2852,7 +2852,7 @@
       "subCategory": "LCIS",
       "subCategory2": "Supply Unit",
       "specs": "Both Water and Solvent based inks",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LCIS.png",
       "warning": "",
       "notes": ""
     },
@@ -2984,7 +2984,7 @@
       "subCategory": "FlowJet",
       "subCategory2": "Supply Unit",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Flowjet.png",
       "warning": "",
       "notes": ""
     },
@@ -3080,7 +3080,7 @@
       "subCategory": "Encoder",
       "subCategory2": "Standard",
       "specs": "Includes 0.2m Wheel, L- Mounting Bracket & 15 ft cable",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/TruTrac.png",
       "warning": "",
       "notes": ""
     },
@@ -3092,7 +3092,7 @@
       "subCategory": "Encoder",
       "subCategory2": "Standard",
       "specs": "Includes 0.2M wheel, Brkt, 3ft Cable",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/TruTrac.png",
       "warning": "",
       "notes": ""
     },
@@ -3104,7 +3104,7 @@
       "subCategory": "Encoder",
       "subCategory2": "Heavy",
       "specs": "With 5 m (16.5ft.) cable",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/HD_Encoder.png",
       "warning": "",
       "notes": ""
     },
@@ -3212,7 +3212,7 @@
       "subCategory": "Trigger",
       "subCategory2": "Red Beam",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Photocell%20NB.png",
       "warning": "",
       "notes": ""
     },
@@ -3224,7 +3224,7 @@
       "subCategory": "Trigger",
       "subCategory2": "Red Beam",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Photocell%20NB.png",
       "warning": "",
       "notes": ""
     },
@@ -3236,7 +3236,7 @@
       "subCategory": "Trigger",
       "subCategory2": "Red Beam",
       "specs": "",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Photocell%20NB.png",
       "warning": "",
       "notes": ""
     },
@@ -4116,7 +4116,7 @@
       ],
       "41243831": [
         {
-          "id": "41243830, 41243832",
+          "id": "41243830",
           "qty": 1,
           "message": "Required"
         }

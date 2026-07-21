@@ -5557,10 +5557,13 @@
         "Peripherals"
       ],
       "T-Series": [
+        "Printheads",
         "User Interface",
         "Communication",
         "Mounting",
-        "Peripherals"
+        "Peripherals",
+        "Parts",
+        "Ink"
       ],
       "A-Series": [
         "User Interface",

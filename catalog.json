@@ -1963,7 +1963,7 @@
     {
       "id": "71216721",
       "name": "MPERIA® 8\"",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "Controller",
       "subCategory2": "",
@@ -1977,7 +1977,7 @@
     {
       "id": "41204972",
       "name": "MPERIA® Standard",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "Controller",
       "subCategory2": "",
@@ -1991,7 +1991,7 @@
     {
       "id": "41057666",
       "name": "MPERIA® Standard Enclosed",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "Controller",
       "subCategory2": "",
@@ -2005,7 +2005,7 @@
     {
       "id": "41036089",
       "name": "MPERIA® Harsh Environment (HE)",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "Controller",
       "subCategory2": "",
@@ -2019,7 +2019,7 @@
     {
       "id": "41212763",
       "name": "MPERIA® OEM Lite",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "Controller",
       "subCategory2": "",
@@ -2033,7 +2033,7 @@
     {
       "id": "41216022",
       "name": "MPERIA® OEM Standard",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "Controller",
       "subCategory2": "",
@@ -2047,7 +2047,7 @@
     {
       "id": "41216023",
       "name": "MPERIA® OEM Advanced",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "Controller",
       "subCategory2": "",
@@ -2061,7 +2061,7 @@
     {
       "id": "86002292",
       "name": "MPERIA® 8\" Expand",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\"",
@@ -2070,12 +2070,12 @@
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
-      "notes": "Enables support for up to four TJI cartridges, two PIJ printheads, two VIJ modules, and two Axians. This license is included when a laser is purchased, only one laser can be controlled. For LPA, the 8\" controller can only control one LPA, the expand license will not add the capability to control a second LPA."
+      "notes": "Enables support for up to four TJI cartridges, two PIJ printheads, two V-Series modules, and two Axians. This license is included when a laser is purchased, only one laser can be controlled. For LPA, the 8\" controller can only control one LPA, the expand license will not add the capability to control a second LPA."
     },
     {
       "id": "86002295",
       "name": "MPERIA® Base",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\"",
@@ -2089,7 +2089,7 @@
     {
       "id": "86002294",
       "name": "MPERIA® Connect",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\"",
@@ -2103,7 +2103,7 @@
     {
       "id": "86002042",
       "name": "MPERIA® Portal",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
@@ -2117,7 +2117,7 @@
     {
       "id": "86002043",
       "name": "MPERIA® Select",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
@@ -2131,7 +2131,7 @@
     {
       "id": "86002296",
       "name": "MPERIA® App",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
@@ -2145,7 +2145,7 @@
     {
       "id": "86003040",
       "name": "MPERIA® netFolder & App License Keys",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
@@ -2159,7 +2159,7 @@
     {
       "id": "86002041",
       "name": "MPERIA® Standard Expand",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
       "subCategory": "License",
       "subCategory2": "MPERIA®",
@@ -2168,12 +2168,12 @@
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
-      "notes": "Each STD License will allow two additional devices to be run by the controller.  • Sixteen TIJ cartridges, requires 1-3 STD license depending on the printhead • Four Axian systems, requires 1 STD license • Three Lasers, requires 2 STD licenses • Three LPA Systems, requires 1 STD license • Twenty VIJ modules, requires 9 STD licenses • Twenty Piezo printheads, requires 9 STD license"
+      "notes": "Each STD License will allow two additional devices to be run by the controller.  • Sixteen TIJ cartridges, requires 1-3 STD license depending on the printhead • Four Axian systems, requires 1 STD license • Three Lasers, requires 2 STD licenses • Three LPA Systems, requires 1 STD license • Twenty V-Series modules, requires 9 STD licenses • Twenty Piezo printheads, requires 9 STD license"
     },
     {
       "id": "41039409",
       "name": "MPERIA® Controller VESA Arm Wall Mount",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Mounting",
       "subCategory": "MPERIA®",
       "subCategory2": "MPERIA® 8\", MPERIA®",
@@ -2187,7 +2187,7 @@
     {
       "id": "41039410",
       "name": "MPERIA® 8\" VESA Desk Mount",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Mounting",
       "subCategory": "MPERIA®",
       "subCategory2": "MPERIA® 8\"",
@@ -2201,7 +2201,7 @@
     {
       "id": "41038875",
       "name": "MPERIA® Controller VESA Table Top Stand",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Mounting",
       "subCategory": "MPERIA®",
       "subCategory2": "MPERIA® 8\", MPERIA®",
@@ -2215,7 +2215,7 @@
     {
       "id": "41235963",
       "name": "MPERIA® 8\" VESA Wall Mount",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Mounting",
       "subCategory": "MPERIA®",
       "subCategory2": "MPERIA® 8\"",
@@ -2229,7 +2229,7 @@
     {
       "id": "41039350",
       "name": "Ethernet switch - 5 Port",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
       "subCategory": "Switches",
       "subCategory2": "",
@@ -2243,7 +2243,7 @@
     {
       "id": "41039351",
       "name": "Ethernet switch - 8 Port",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
       "subCategory": "Switches",
       "subCategory2": "",
@@ -2257,7 +2257,7 @@
     {
       "id": "41039352",
       "name": "Ethernet Switch - Power Supply",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
       "subCategory": "Switches",
       "subCategory2": "",
@@ -2271,7 +2271,7 @@
     {
       "id": "41205003",
       "name": "Ethernet Cable - 1 Meter",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
@@ -2285,7 +2285,7 @@
     {
       "id": "41037762",
       "name": "Ethernet Cable - 7'",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
@@ -2299,7 +2299,7 @@
     {
       "id": "41037763",
       "name": "Ethernet Cable - 14'",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
@@ -2313,7 +2313,7 @@
     {
       "id": "41037764",
       "name": "Ethernet Cable - 25'",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
@@ -2327,7 +2327,7 @@
     {
       "id": "41037779",
       "name": "Ethernet Cable - 75'",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
@@ -2341,7 +2341,7 @@
     {
       "id": "41039439",
       "name": "Ethernet Cable - 100'",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
@@ -2355,7 +2355,7 @@
     {
       "id": "71229309",
       "name": "MPERIA® V-Link Controller Bundle",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Bundle",
       "subCategory": "",
       "subCategory2": "",
@@ -2369,7 +2369,7 @@
     {
       "id": "41044911",
       "name": "V-Link Module",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Communication",
       "subCategory": "V-Link",
       "subCategory2": "",
@@ -2383,7 +2383,7 @@
     {
       "id": "41214508",
       "name": "V-Link Module OEM",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Communication",
       "subCategory": "V-Link",
       "subCategory2": "",
@@ -2397,7 +2397,7 @@
     {
       "id": "41038252",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Water Based",
       "subCategory2": "Maxi",
@@ -2411,7 +2411,7 @@
     {
       "id": "41038253",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Alcohol Based",
       "subCategory2": "Maxi",
@@ -2425,7 +2425,7 @@
     {
       "id": "41038254",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Fast Dry",
       "subCategory2": "Maxi",
@@ -2439,7 +2439,7 @@
     {
       "id": "41039621",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -2453,7 +2453,7 @@
     {
       "id": "41039611",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -2467,7 +2467,7 @@
     {
       "id": "41039630",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -2481,7 +2481,7 @@
     {
       "id": "41039612",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -2495,7 +2495,7 @@
     {
       "id": "41038249",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Water Based",
       "subCategory2": "Midi",
@@ -2509,7 +2509,7 @@
     {
       "id": "41038250",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Alcohol Based",
       "subCategory2": "Midi",
@@ -2523,7 +2523,7 @@
     {
       "id": "41038251",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Fast Dry",
       "subCategory2": "Midi",
@@ -2537,7 +2537,7 @@
     {
       "id": "41039620",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
@@ -2551,7 +2551,7 @@
     {
       "id": "41039608",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
@@ -2565,7 +2565,7 @@
     {
       "id": "41039609",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
@@ -2579,7 +2579,7 @@
     {
       "id": "41038246",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Water Based",
       "subCategory2": "Mini",
@@ -2593,7 +2593,7 @@
     {
       "id": "41038247",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Alcohol Based",
       "subCategory2": "Mini",
@@ -2607,7 +2607,7 @@
     {
       "id": "41038248",
       "name": "8000+ Printhead - 32 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Fast Dry",
       "subCategory2": "Mini",
@@ -2621,7 +2621,7 @@
     {
       "id": "40000604",
       "name": "Printhead Cable, 32V",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Cables",
       "subCategory2": "32V",
@@ -2635,7 +2635,7 @@
     {
       "id": "40000605",
       "name": "Printhead Cable,32V",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Cables",
       "subCategory2": "32V",
@@ -2649,7 +2649,7 @@
     {
       "id": "40000607",
       "name": "Printhead Cable, 32V",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Cables",
       "subCategory2": "32V",
@@ -2663,7 +2663,7 @@
     {
       "id": "40000608",
       "name": "Printhead Cable, 32V",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Cables",
       "subCategory2": "32V",
@@ -2677,7 +2677,7 @@
     {
       "id": "40000207",
       "name": "Printhead Cable 7 or 16V",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Cables",
       "subCategory2": "7V or 16V",
@@ -2691,7 +2691,7 @@
     {
       "id": "40000208",
       "name": "Printhead Cable 7 or 16V",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Cables",
       "subCategory2": "7V or 16V",
@@ -2705,7 +2705,7 @@
     {
       "id": "40000209",
       "name": "Printhead Cable 7 or 16V",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Cables",
       "subCategory2": "7V or 16V",
@@ -2719,7 +2719,7 @@
     {
       "id": "40000211",
       "name": "Printhead Cable 7 or 16V",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Cables",
       "subCategory2": "7V or 16V",
@@ -2733,7 +2733,7 @@
     {
       "id": "41057909",
       "name": "Fan out cable(s)",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Cables",
       "subCategory2": "7V or 16V",
@@ -2747,7 +2747,7 @@
     {
       "id": "41038243",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Water Based",
       "subCategory2": "Maxi",
@@ -2761,7 +2761,7 @@
     {
       "id": "41038244",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Alcohol Based",
       "subCategory2": "Maxi",
@@ -2775,7 +2775,7 @@
     {
       "id": "41038245",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Fast Dry",
       "subCategory2": "Maxi",
@@ -2789,7 +2789,7 @@
     {
       "id": "41039619",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -2803,7 +2803,7 @@
     {
       "id": "41039604",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -2817,7 +2817,7 @@
     {
       "id": "41039606",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -2831,7 +2831,7 @@
     {
       "id": "41039627",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -2845,7 +2845,7 @@
     {
       "id": "41038240",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Water Based",
       "subCategory2": "Midi",
@@ -2859,7 +2859,7 @@
     {
       "id": "41038241",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Alcohol Based",
       "subCategory2": "Midi",
@@ -2873,7 +2873,7 @@
     {
       "id": "41038242",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Fast Dry",
       "subCategory2": "Midi",
@@ -2887,7 +2887,7 @@
     {
       "id": "41039618",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
@@ -2901,7 +2901,7 @@
     {
       "id": "41039601",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
@@ -2915,7 +2915,7 @@
     {
       "id": "41039602",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
@@ -2929,7 +2929,7 @@
     {
       "id": "41038237",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Water Based",
       "subCategory2": "Mini",
@@ -2943,7 +2943,7 @@
     {
       "id": "41038238",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Alcohol Based",
       "subCategory2": "Mini",
@@ -2957,7 +2957,7 @@
     {
       "id": "41038239",
       "name": "8000+ Printhead - 16 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Fast Dry",
       "subCategory2": "Mini",
@@ -2971,7 +2971,7 @@
     {
       "id": "41038233",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Water Based",
       "subCategory2": "Maxi",
@@ -2985,7 +2985,7 @@
     {
       "id": "41038235",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Alcohol Based",
       "subCategory2": "Maxi",
@@ -2999,7 +2999,7 @@
     {
       "id": "41038236",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Fast Dry",
       "subCategory2": "Maxi",
@@ -3013,7 +3013,7 @@
     {
       "id": "41039617",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -3027,7 +3027,7 @@
     {
       "id": "41039598",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -3041,7 +3041,7 @@
     {
       "id": "41039599",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -3055,7 +3055,7 @@
     {
       "id": "41039622",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Maxi",
@@ -3069,7 +3069,7 @@
     {
       "id": "41038230",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Water Based",
       "subCategory2": "Midi",
@@ -3083,7 +3083,7 @@
     {
       "id": "41038231",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Alcohol Based",
       "subCategory2": "Midi",
@@ -3097,7 +3097,7 @@
     {
       "id": "41038232",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Fast Dry",
       "subCategory2": "Midi",
@@ -3111,7 +3111,7 @@
     {
       "id": "41039614",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
@@ -3125,7 +3125,7 @@
     {
       "id": "41039595",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Pigmented",
       "subCategory2": "Midi",
@@ -3139,7 +3139,7 @@
     {
       "id": "41038227",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Water Based",
       "subCategory2": "Mini",
@@ -3153,7 +3153,7 @@
     {
       "id": "41038228",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Alcohol Based",
       "subCategory2": "Mini",
@@ -3167,7 +3167,7 @@
     {
       "id": "41038229",
       "name": "8000+ Printhead - 7 Valve",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Printhead",
       "subCategory": "Fast Dry",
       "subCategory2": "Mini",
@@ -3181,7 +3181,7 @@
     {
       "id": "40000595",
       "name": "HP Ink and Cleaner Module",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP",
       "subCategory2": "Supply Unit",
@@ -3195,7 +3195,7 @@
     {
       "id": "41010064",
       "name": "HP ISU Advanced",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP",
       "subCategory2": "Supply Unit",
@@ -3209,7 +3209,7 @@
     {
       "id": "41015733",
       "name": "HP ISU Advanced",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP",
       "subCategory2": "Supply Unit",
@@ -3223,7 +3223,7 @@
     {
       "id": "40000301",
       "name": "Standard Connection Kit",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP, LCIS, FlowJet",
       "subCategory2": "Connection",
@@ -3237,7 +3237,7 @@
     {
       "id": "40000302",
       "name": "Standard Connection Kit",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP, LCIS, FlowJet",
       "subCategory2": "Connection",
@@ -3251,7 +3251,7 @@
     {
       "id": "41002272",
       "name": "Low level ink warning kit for HP ink/cleaner module",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP",
       "subCategory2": "Accessories",
@@ -3265,7 +3265,7 @@
     {
       "id": "41003888",
       "name": "Ink Pressure Gauge",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP, LCIS",
       "subCategory2": "Accessories",
@@ -3279,7 +3279,7 @@
     {
       "id": "41010290",
       "name": "Flash Lamp",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP",
       "subCategory2": "Accessories",
@@ -3293,7 +3293,7 @@
     {
       "id": "41206373",
       "name": "HP ISU Pickup Tube",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP",
       "subCategory2": "Spare Parts",
@@ -3307,7 +3307,7 @@
     {
       "id": "41009525",
       "name": "Spare 8 micron filter",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP",
       "subCategory2": "Spare Parts",
@@ -3321,7 +3321,7 @@
     {
       "id": "40000512",
       "name": "Large Capacity Ink Systems (LCIS)",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS",
       "subCategory2": "Supply Unit",
@@ -3335,7 +3335,7 @@
     {
       "id": "40000062",
       "name": "Pick up tube assy for 5 gal. for metal pale",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS",
       "subCategory2": "Connection",
@@ -3349,7 +3349,7 @@
     {
       "id": "40000066",
       "name": "Pick up tube assy for 5 gal. for plastic pale (Legacy)",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS",
       "subCategory2": "Connection",
@@ -3363,7 +3363,7 @@
     {
       "id": "40000065",
       "name": "Pick up tube assy 5 gal. with threaded cap",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS",
       "subCategory2": "Connection",
@@ -3377,7 +3377,7 @@
     {
       "id": "40000064",
       "name": "Pick up tube assy 4 liter",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS",
       "subCategory2": "Connection",
@@ -3391,7 +3391,7 @@
     {
       "id": "40000063",
       "name": "Pick up tube assy 55 gal.",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS",
       "subCategory2": "Connection",
@@ -3405,7 +3405,7 @@
     {
       "id": "41038955",
       "name": "Pick up tube assy for 55 gallon drum",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS",
       "subCategory2": "Connection",
@@ -3419,7 +3419,7 @@
     {
       "id": "41005495",
       "name": "Pick up tube assy for 55 gallon drum",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS",
       "subCategory2": "Connection",
@@ -3433,7 +3433,7 @@
     {
       "id": "41005496",
       "name": "Pick up tube assy for 55 gallon drum",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS",
       "subCategory2": "Connection",
@@ -3447,7 +3447,7 @@
     {
       "id": "40000058",
       "name": "Eliminizer",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS, FlowJet",
       "subCategory2": "Accessories",
@@ -3461,7 +3461,7 @@
     {
       "id": "41003811",
       "name": "Filter, 8micron, output",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "LCIS",
       "subCategory2": "Spare Parts",
@@ -3475,7 +3475,7 @@
     {
       "id": "71237325",
       "name": "FlowJet Main Assembly",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "FlowJet",
       "subCategory2": "Supply Unit",
@@ -3489,7 +3489,7 @@
     {
       "id": "40000164",
       "name": "FlowJet Connection Kit",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "FlowJet",
       "subCategory2": "Connection",
@@ -3503,7 +3503,7 @@
     {
       "id": "40000165",
       "name": "FlowJet Connection Kit",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "FlowJet",
       "subCategory2": "Connection",
@@ -3517,7 +3517,7 @@
     {
       "id": "41007682",
       "name": "Pigmented Cleaner/Bypass Selector Kit",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "FlowJet",
       "subCategory2": "Connection",
@@ -3531,7 +3531,7 @@
     {
       "id": "41015221",
       "name": "Bev-a-line Tubing  (sold by ft.)",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "HP, LCIS, FlowJet",
       "subCategory2": "Spare Parts",
@@ -3545,7 +3545,7 @@
     {
       "id": "41006634",
       "name": "Ink pick up tube assembly with inline filter",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "FlowJet",
       "subCategory2": "Spare Parts",
@@ -3559,7 +3559,7 @@
     {
       "id": "41004575",
       "name": "Warning Light Assembly Blue/Yellow",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "FlowJet",
       "subCategory2": "Spare Parts",
@@ -3573,7 +3573,7 @@
     {
       "id": "41002621",
       "name": "Cleaner Pick tube assembly",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Fluid Supply",
       "subCategory": "FlowJet",
       "subCategory2": "Spare Parts",
@@ -3587,7 +3587,7 @@
     {
       "id": "41037143",
       "name": "Encoder, 5000 PPR",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Encoder",
       "subCategory2": "Standard",
@@ -3601,7 +3601,7 @@
     {
       "id": "41060169",
       "name": "Encoder, 5000 PPR",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Encoder",
       "subCategory2": "Standard",
@@ -3615,7 +3615,7 @@
     {
       "id": "41036087",
       "name": "Encoder, heavy duty, 5000 PPR",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Encoder",
       "subCategory2": "Heavy",
@@ -3629,7 +3629,7 @@
     {
       "id": "40000600",
       "name": "Spring loaded holder for heavy duty encoder",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Encoder",
       "subCategory2": "Heavy",
@@ -3643,7 +3643,7 @@
     {
       "id": "40000598",
       "name": "Wheel for 41036087 heavy duty encoder",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Encoder",
       "subCategory2": "Heavy",
@@ -3657,7 +3657,7 @@
     {
       "id": "40000599",
       "name": "Encoder Wheel - 0.5m",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Encoder",
       "subCategory2": "Heavy",
@@ -3671,7 +3671,7 @@
     {
       "id": "41012623",
       "name": "Encoder Wheel - 0.2m",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Encoder",
       "subCategory2": "Standard",
@@ -3685,7 +3685,7 @@
     {
       "id": "40000601",
       "name": "Bearing Box",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Encoder",
       "subCategory2": "Accessories",
@@ -3699,7 +3699,7 @@
     {
       "id": "41009096",
       "name": "Flexible Coupling",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Encoder",
       "subCategory2": "Accessories",
@@ -3713,7 +3713,7 @@
     {
       "id": "41227506",
       "name": "SPEED ENCODER 10k PPR",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Encoder",
       "subCategory2": "High Speed",
@@ -3727,7 +3727,7 @@
     {
       "id": "41058274",
       "name": "Rocker style start print trigger switch assy with 10\" cable",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Rocker",
@@ -3741,7 +3741,7 @@
     {
       "id": "41037759",
       "name": "Photocell, MPERIA® M18, Red Beam Sic Model, with 5m (16.5ft) Cable (includes Sensor bracket - 41001407 below) and bracket",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Red Beam",
@@ -3755,7 +3755,7 @@
     {
       "id": "41036086",
       "name": "Photocell, MPERIA® M18, Red Beam Sic Model, with 5m (16.5ft) Cable (without sensor bracket - 41001407 below)",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Red Beam",
@@ -3769,7 +3769,7 @@
     {
       "id": "41205507",
       "name": "Photocell, MPERIA® M18, Red Beam Sic Model, .5m cable  (without sensor bracket - 41001407 below)",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Red Beam",
@@ -3783,7 +3783,7 @@
     {
       "id": "41038917",
       "name": "Diffused Photocell for Floor Mount Stand, Banner Model  (without sensor bracket - 41001407 below)",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Diffused",
@@ -3797,7 +3797,7 @@
     {
       "id": "41060425",
       "name": "Photocell Assembly, Polarized Retro reflective, 2m cable, 2m sensing distance (without optional sensor backets - 41001407 and 41227044 below)",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Retro Reflect",
@@ -3811,7 +3811,7 @@
     {
       "id": "41001407",
       "name": "BRACKET,MOUNTING,PHOTOCELL, M18",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Diffused, Red Beam, Retro Reflect",
@@ -3825,7 +3825,7 @@
     {
       "id": "41227044",
       "name": "BRACKET,MOUNTING,PHOTOCELL REFLECTOR",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Retro Reflect",
@@ -3839,7 +3839,7 @@
     {
       "id": "41062892",
       "name": "SENSOR,LABEL,RED LED,4 PIN M8 CONNECTOR (requires cable 41063007)",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Label Sensor",
@@ -3853,7 +3853,7 @@
     {
       "id": "41063007",
       "name": "Cable,Label Sensor, MPERIA®,M8F-DB9M",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Label Sensor",
@@ -3867,7 +3867,7 @@
     {
       "id": "40000163",
       "name": "Through beam photocell - Fiber Optic",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Fiber",
@@ -3881,7 +3881,7 @@
     {
       "id": "41212442",
       "name": "PHOTOCELL,ASSY,DIFFUSED FIBER,MPERIA™",
-      "productLine": "VIJ, L-Series, T-Series, A-Series",
+      "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Fiber",
@@ -3895,7 +3895,7 @@
     {
       "id": "41037755",
       "name": "Fanout Cable",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Fanout",
@@ -3909,7 +3909,7 @@
     {
       "id": "41205533",
       "name": "Fanout Cable",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Fanout",
@@ -3923,7 +3923,7 @@
     {
       "id": "41205509",
       "name": "Fanout Cable",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Fanout",
@@ -3937,7 +3937,7 @@
     {
       "id": "41057905",
       "name": "Extension",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Extension",
@@ -3951,7 +3951,7 @@
     {
       "id": "41057906",
       "name": "Extension",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Extension",
@@ -3965,7 +3965,7 @@
     {
       "id": "41057907",
       "name": "Extension",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Extension",
@@ -3979,7 +3979,7 @@
     {
       "id": "41057908",
       "name": "Extension",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Extension",
@@ -3993,7 +3993,7 @@
     {
       "id": "41043546",
       "name": "Auxilliary Cable",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Auxilliary",
@@ -4007,7 +4007,7 @@
     {
       "id": "41043547",
       "name": "Auxilliary Cable",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Auxilliary",
@@ -4021,7 +4021,7 @@
     {
       "id": "41043548",
       "name": "Auxilliary Cable",
-      "productLine": "VIJ, L-Series, T-Series",
+      "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Auxilliary",
@@ -4035,7 +4035,7 @@
     {
       "id": "41037070",
       "name": "Hand Scanner RS232",
-      "productLine": "VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
       "subCategory": "Add-On",
       "subCategory2": "Scanner",
@@ -4049,7 +4049,7 @@
     {
       "id": "41037708",
       "name": "Power Supply for Hand Scanner",
-      "productLine": "VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
       "subCategory": "Add-On",
       "subCategory2": "Scanner",
@@ -4063,7 +4063,7 @@
     {
       "id": "41037709",
       "name": "Cable RJ45-DB9",
-      "productLine": "VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
       "subCategory": "Add-On",
       "subCategory2": "Scanner",
@@ -4077,7 +4077,7 @@
     {
       "id": "41224438",
       "name": "USB Bar Code Scanner Kit",
-      "productLine": "VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
       "subCategory": "Add-On",
       "subCategory2": "Scanner",
@@ -4091,7 +4091,7 @@
     {
       "id": "41224440",
       "name": "USB Bar Code Scanner",
-      "productLine": "VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
       "subCategory": "Add-On",
       "subCategory2": "Scanner",
@@ -4105,7 +4105,7 @@
     {
       "id": "41223427",
       "name": "Mount for USB Bar Code Scanner",
-      "productLine": "VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
       "subCategory": "Add-On",
       "subCategory2": "Scanner",
@@ -4119,7 +4119,7 @@
     {
       "id": "41037756",
       "name": "Warning Light",
-      "productLine": "VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
       "subCategory": "Add-On",
       "subCategory2": "Warning Light",
@@ -4133,7 +4133,7 @@
     {
       "id": "41043852",
       "name": "Warning Light Bracket",
-      "productLine": "VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
       "subCategory": "Add-On",
       "subCategory2": "Warning Light",
@@ -4147,7 +4147,7 @@
     {
       "id": "41001476",
       "name": "Spare 8000+ Printhead mounting clamp",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "Printhead",
       "subCategory2": "",
@@ -4161,7 +4161,7 @@
     {
       "id": "41002753",
       "name": "8000+ Print Head Mounting Post and Block Assy",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "Printhead",
       "subCategory2": "",
@@ -4175,7 +4175,7 @@
     {
       "id": "40000409",
       "name": "Conveyor Printhead Mount Assembly",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "Stands",
       "subCategory2": "",
@@ -4189,7 +4189,7 @@
     {
       "id": "41004828",
       "name": "Free Standing Printhead Mount Assembly",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "Stands",
       "subCategory2": "",
@@ -4203,7 +4203,7 @@
     {
       "id": "40000410",
       "name": "Free Standing Printhead Mount Assembly Kit",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "Stands",
       "subCategory2": "",
@@ -4217,7 +4217,7 @@
     {
       "id": "41057445",
       "name": "V-Link Mount Kit",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "V-Link",
       "subCategory2": "",
@@ -4231,7 +4231,7 @@
     {
       "id": "41038689",
       "name": "40mm VESA Adapter",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4245,7 +4245,7 @@
     {
       "id": "41004831",
       "name": "Horizontal Printhead Mount Assembly",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4259,7 +4259,7 @@
     {
       "id": "41004832",
       "name": "Vertical Printhead Mount Assembly",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4273,7 +4273,7 @@
     {
       "id": "41005194",
       "name": "Mounting Plate for ISU",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4287,7 +4287,7 @@
     {
       "id": "41009905",
       "name": "Quick Release Handle",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4301,7 +4301,7 @@
     {
       "id": "41008678",
       "name": "Base Clamp",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4315,7 +4315,7 @@
     {
       "id": "41008679",
       "name": "Flange Clamp",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4329,7 +4329,7 @@
     {
       "id": "41003329",
       "name": "Adjustable Printhead Bracket",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4343,7 +4343,7 @@
     {
       "id": "41006076",
       "name": "Split Sleeve 42.5 x 25mm",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4357,7 +4357,7 @@
     {
       "id": "41008681",
       "name": "Sleeve Clamp",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4371,7 +4371,7 @@
     {
       "id": "41008698",
       "name": "Cross Clamp",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Brackets",
@@ -4385,7 +4385,7 @@
     {
       "id": "41012418",
       "name": "12\" Long Pole",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Poles",
@@ -4399,7 +4399,7 @@
     {
       "id": "41012419",
       "name": "15\" Long Pole",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Poles",
@@ -4413,7 +4413,7 @@
     {
       "id": "41012427",
       "name": "17.5\" Long Pole",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Poles",
@@ -4427,7 +4427,7 @@
     {
       "id": "41012420",
       "name": "18\" Long Pole",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Poles",
@@ -4441,7 +4441,7 @@
     {
       "id": "41012425",
       "name": "18.8\" Long Pole",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Poles",
@@ -4455,7 +4455,7 @@
     {
       "id": "41012416",
       "name": "20\" Long Pole",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Poles",
@@ -4469,7 +4469,7 @@
     {
       "id": "41012430",
       "name": "24\" Long Pole",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Poles",
@@ -4483,7 +4483,7 @@
     {
       "id": "41012426",
       "name": "40\" Long Pole",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Poles",
@@ -4497,7 +4497,7 @@
     {
       "id": "41012421",
       "name": "48\" Long Pole",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Poles",
@@ -4511,7 +4511,7 @@
     {
       "id": "41012422",
       "name": "70\" Long Pole",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "40mm Tubular",
       "subCategory2": "Poles",
@@ -4525,7 +4525,7 @@
     {
       "id": "41006172",
       "name": "Basic Stand Assembly with Adjustment",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "80/20",
       "subCategory2": "",
@@ -4539,7 +4539,7 @@
     {
       "id": "41002692",
       "name": "Extra Ink Module Bracket",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "80/20",
       "subCategory2": "",
@@ -4553,7 +4553,7 @@
     {
       "id": "41002329",
       "name": "Additional Horizontal Arm Assembly",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "80/20",
       "subCategory2": "",
@@ -4567,7 +4567,7 @@
     {
       "id": "41006181",
       "name": "H Base Stand Assembly",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "80/20",
       "subCategory2": "",
@@ -4581,7 +4581,7 @@
     {
       "id": "41008648",
       "name": "FLANGE MOUNT CASTER 4\"  (4 required, price is per caster)",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "80/20",
       "subCategory2": "",
@@ -4595,7 +4595,7 @@
     {
       "id": "41062215",
       "name": "Configurable System Stand",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "80/20",
       "subCategory2": "",
@@ -4609,7 +4609,7 @@
     {
       "id": "41062216",
       "name": "Bracket for MPERIA® Enclosed",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "80/20",
       "subCategory2": "",
@@ -4623,7 +4623,7 @@
     {
       "id": "41062691",
       "name": "Wheel Kit for Configurable Stand",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Mounting",
       "subCategory": "80/20",
       "subCategory2": "",
@@ -4637,7 +4637,7 @@
     {
       "id": "41058233",
       "name": "SX32e Photocell Adapter Cable",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Adapters",
@@ -4651,7 +4651,7 @@
     {
       "id": "41217861",
       "name": "SX32 to VX32 Encoder Adapter Cable",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Adapters",
@@ -4665,7 +4665,7 @@
     {
       "id": "41045056",
       "name": "V84e/V84i/SX32e to MPERIA® Adapter Cable",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Adapters",
@@ -4679,7 +4679,7 @@
     {
       "id": "41058278",
       "name": "8400 to MPERIA® Adapter Cable",
-      "productLine": "VIJ",
+      "productLine": "V-Series",
       "category": "Peripherals",
       "subCategory": "Cables",
       "subCategory2": "Adapters",
@@ -4959,7 +4959,7 @@
     {
       "id": "41038456",
       "name": "MPERIA® Vesa Mount Bracket",
-      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, VIJ, L-Series, T-Series, A-Series, Axian",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Mounting",
       "subCategory": "MPERIA®",
       "subCategory2": "MPERIA®, MPERIA® 8\"",
@@ -5127,7 +5127,7 @@
     {
       "id": "81001350",
       "name": "Large Gloves",
-      "productLine": "VIJ, L-Series, T-Series, A-Series, Axian, CT1000",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian, CT1000",
       "category": "Parts",
       "subCategory": "Maintenance",
       "subCategory2": "",
@@ -5141,7 +5141,7 @@
     {
       "id": "81001351",
       "name": "Extra Large Gloves",
-      "productLine": "VIJ, L-Series, T-Series, A-Series, Axian, CT1000",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian, CT1000",
       "category": "Parts",
       "subCategory": "Maintenance",
       "subCategory2": "",
@@ -5333,6 +5333,762 @@
       "image": "",
       "warning": "",
       "notes": ""
+    },
+    {
+      "id": "71228848",
+      "name": "ViaPack Basic System",
+      "productLine": "L-Series",
+      "category": "ViaPack",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "3661",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Does no include ink"
+    },
+    {
+      "id": "86002291",
+      "name": "Viapack Expand",
+      "productLine": "L-Series",
+      "category": "ViaPack",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "422",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "License Key expands ViaPack from (1) cartridges to (2) cartridges"
+    },
+    {
+      "id": "41229508",
+      "name": "Stylus for MPERIA® 8\" Controller",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
+      "category": "User Interface",
+      "subCategory": "Controller",
+      "subCategory2": "Spare Parts",
+      "price": "38",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41043583",
+      "name": "Stylus for MPERIA® 12\" and 15\" Controllers",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
+      "category": "User Interface",
+      "subCategory": "Controller",
+      "subCategory2": "Spare Parts",
+      "price": "12",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41201710",
+      "name": "Power Supply Cable for PoE",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
+      "category": "User Interface",
+      "subCategory": "Controller",
+      "subCategory2": "Spare Parts",
+      "price": "15",
+      "leadTime": "4 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Spare US Cable for 8\" PoE power supply"
+    },
+    {
+      "id": "41200245",
+      "name": "Power Supply for MPERIA® 8\" Controller",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
+      "category": "User Interface",
+      "subCategory": "Controller",
+      "subCategory2": "Spare Parts",
+      "price": "79",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41062095",
+      "name": "Power Supply for MPERIA® 7\", 12\", & 15\" Controllers",
+      "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
+      "category": "User Interface",
+      "subCategory": "Controller",
+      "subCategory2": "Spare Parts",
+      "price": "266",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41039278",
+      "name": "L50 Printhead",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "Printheads",
+      "subCategory2": "",
+      "price": "2785",
+      "leadTime": "2 weeks",
+      "specs": "2\" | Four (4) Cartridge | Requires Power Supply",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41039277",
+      "name": "L25 Printhead",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "Printheads",
+      "subCategory2": "",
+      "price": "1894",
+      "leadTime": "2 weeks",
+      "specs": "1\" | Two (2) Cartridge | Requires Power Supply",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41039276",
+      "name": "L12 Printhead",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "Printheads",
+      "subCategory2": "",
+      "price": "1448",
+      "leadTime": "2 weeks",
+      "specs": "1/2\" | One (1) Cartridge | Requires Power Supply",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41206854",
+      "name": "Module, L-Link (requires power supply)",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "L1",
+      "subCategory2": "Communication",
+      "price": "1071",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41206855",
+      "name": "L1 Printhead",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "L1",
+      "subCategory2": "",
+      "price": "627",
+      "leadTime": "2 weeks",
+      "specs": "1/2\" | One (1) Cartridge | Requires DVI Cable",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "71201988",
+      "name": "DVI Cable - 1 meter",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "L1",
+      "subCategory2": "Communication",
+      "price": "24",
+      "leadTime": "Check Availability",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "One (1) cable required for each L1 Printhead"
+    },
+    {
+      "id": "41205536",
+      "name": "DVI Cable - 2 meter",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "L1",
+      "subCategory2": "Communication",
+      "price": "44",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "One (1) cable required for each L1 Printhead"
+    },
+    {
+      "id": "41039275",
+      "name": "Power Supply, 24VDC, L-Series",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "Power",
+      "subCategory2": "",
+      "price": "236",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41039385",
+      "name": "Printhead Power Cable, DB9-Molex, 10'",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "Power",
+      "subCategory2": "",
+      "price": "86",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41220761",
+      "name": "Stitch Plate, 2xL1 - 25mm High",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "L1",
+      "subCategory2": "Stitch Plates",
+      "price": "443",
+      "leadTime": "2-4 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41220801",
+      "name": "Stitch Plate, 3xL1 - 37mm High",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "L1",
+      "subCategory2": "Stitch Plates",
+      "price": "441",
+      "leadTime": "2-4 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41220764",
+      "name": "Stitch Plate, 4xL1 - 50mm High",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "L1",
+      "subCategory2": "Stitch Plates",
+      "price": "490",
+      "leadTime": "2-4 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41210925",
+      "name": "Stitch Plate, High Speed Interlacing, 2xL1 - 12mm High",
+      "productLine": "L-Series",
+      "category": "Printheads",
+      "subCategory": "L1",
+      "subCategory2": "Stitch Plates",
+      "price": "378",
+      "leadTime": "2-4 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41043894",
+      "name": "Conveyor Mount Kit",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Stands",
+      "subCategory2": "",
+      "price": "250",
+      "leadTime": "2 weeks",
+      "specs": "Light Duty: L-Rod, Base Clamp, and PH Clamps",
+      "image": "",
+      "warning": "",
+      "notes": "Only for L12 and L25"
+    },
+    {
+      "id": "41039030",
+      "name": "Light Duty Stand",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Stands",
+      "subCategory2": "",
+      "price": "1498",
+      "leadTime": "2 weeks",
+      "specs": "Freestanding",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41043871",
+      "name": "T-Base Stand",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Stands",
+      "subCategory2": "",
+      "price": "1542",
+      "leadTime": "3 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "71201992",
+      "name": "PH Cross Clamp",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Brackets / Clamps",
+      "subCategory2": "",
+      "price": "27",
+      "leadTime": "2 weeks",
+      "specs": "25mm Tube Clamp | Aluminum",
+      "image": "",
+      "warning": "",
+      "notes": "Only for L12, L25, and L50"
+    },
+    {
+      "id": "41038571",
+      "name": "PH Square Clamp",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Brackets / Clamps",
+      "subCategory2": "",
+      "price": "196",
+      "leadTime": "2 weeks",
+      "specs": "25mm Tube Clamp | Aluminum",
+      "image": "",
+      "warning": "",
+      "notes": "Only for L12, L25, and L50"
+    },
+    {
+      "id": "41038573",
+      "name": "Skew Adapter Bracket",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Brackets / Clamps",
+      "subCategory2": "",
+      "price": "380",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Used to mechanically align stitch with L25 and L50"
+    },
+    {
+      "id": "41038574",
+      "name": "Tilt & Lift Adapter Bracket",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Brackets / Clamps",
+      "subCategory2": "",
+      "price": "557",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "For down printing only to tilt for cleaning, and fine tune adjust throw distance"
+    },
+    {
+      "id": "41039981",
+      "name": "Spring Loaded Bracket",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Brackets / Clamps",
+      "subCategory2": "",
+      "price": "798",
+      "leadTime": "4 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Onnly for L12 and L25"
+    },
+    {
+      "id": "41043849",
+      "name": "Caster Kit",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Stands",
+      "subCategory2": "",
+      "price": "385",
+      "leadTime": "4 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "For T-Base Stand"
+    },
+    {
+      "id": "41043853",
+      "name": "Extended Slide Bracket Kit",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Brackets / Clamps",
+      "subCategory2": "",
+      "price": "152",
+      "leadTime": "2 weeks",
+      "specs": "For 40mm Extruded Aluminum",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41043872",
+      "name": "Floor Mount Gantry",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Stands",
+      "subCategory2": "",
+      "price": "1280",
+      "leadTime": "2 days",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41008760",
+      "name": "Cloth, Lint Free, 6\" x 6\", 300 Pack",
+      "productLine": "V-Series, L-Series, T-Series, A-Series, Axian, CT1000",
+      "category": "Parts",
+      "subCategory": "Maintenance",
+      "subCategory2": "",
+      "price": "91",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41200189",
+      "name": "Tool, Cartridge Priming, TIJ",
+      "productLine": "L-Series",
+      "category": "Parts",
+      "subCategory": "Maintenance",
+      "subCategory2": "",
+      "price": "13",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41200187",
+      "name": "Clip, Cartridge, TIJ",
+      "productLine": "L-Series",
+      "category": "Parts",
+      "subCategory": "Maintenance",
+      "subCategory2": "",
+      "price": "5.25",
+      "leadTime": "2 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41062521",
+      "name": "L-Series Demo slide table",
+      "productLine": "L-Series",
+      "category": "Mounting",
+      "subCategory": "Slide Table",
+      "subCategory2": "",
+      "price": "3901",
+      "leadTime": "4 weeks",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Includes Encoder 41037143"
+    },
+    {
+      "id": "71085238",
+      "name": "INK,TIJ,LS-3002 SU-B BLUE,WB,DYE",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Water Base",
+      "subCategory2": "",
+      "price": "82",
+      "leadTime": "4-6 Weeks",
+      "specs": "Blue | Water Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlueCartridge.png",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "71216998",
+      "name": "Ink, TIJ, LS-3011 SU Black, WB, Dye",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Water Base",
+      "subCategory2": "",
+      "price": "81",
+      "leadTime": "2 Days",
+      "specs": "Black | Water Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 8"
+    },
+    {
+      "id": "71232148",
+      "name": "Ink, TIJ, LS-3011 YS+ Black, WB, Dye\r\n**Must be sold in Multiples of 8**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Water Base",
+      "subCategory2": "",
+      "price": "81",
+      "leadTime": "2 Days",
+      "specs": "Black | Water Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 8"
+    },
+    {
+      "id": "71236956",
+      "name": "INK,TIJ,LS-3011,SU,YSHY2.5,BLK,WB,DYE\r\n**Must be sold in Multiples of 8**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Water Base",
+      "subCategory2": "",
+      "price": "81",
+      "leadTime": "2 Days",
+      "specs": "Black | Water Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 8"
+    },
+    {
+      "id": "71235726",
+      "name": "INK,TIJ,LS-4101,SU-B,YSHY2.5,BLK,HYB,PIG\r\n**Must be sold in Multiples of 8**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Hybrid",
+      "subCategory2": "",
+      "price": "89",
+      "leadTime": "2 Days",
+      "specs": "Black | Hybrid | Pigmented",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 8"
+    },
+    {
+      "id": "71202821",
+      "name": "Ink, TIJ, LS-6023 SU-B Black Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "149",
+      "leadTime": "2 Days",
+      "specs": "Black | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 2"
+    },
+    {
+      "id": "71209458",
+      "name": "Ink, TIJ, LS-6023 QD-B Black Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "223",
+      "leadTime": "2 Days",
+      "specs": "Black | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 2"
+    },
+    {
+      "id": "71209459",
+      "name": "Ink, TIJ, LS-6023 1L BiB Black Ink, SB, Dye\r\n**Must be sold in Multiples of 4**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "454",
+      "leadTime": "2 Days",
+      "specs": "Black | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 4"
+    },
+    {
+      "id": "71203981",
+      "name": "Ink, TIJ, LS-6101 SU-B Black Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "142",
+      "leadTime": "2 Days",
+      "specs": "Black | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 2"
+    },
+    {
+      "id": "71203982",
+      "name": "Ink, TIJ, LS-6101 QD-B Black Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "223",
+      "leadTime": "2 Days",
+      "specs": "Black | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 2"
+    },
+    {
+      "id": "71203983",
+      "name": "Ink, TIJ, LS-6101 1L BiB Black Ink, SB Dye\r\n**Must be sold in Multiples of 4**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "448",
+      "leadTime": "2 Days",
+      "specs": "Black | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 4"
+    },
+    {
+      "id": "71214656",
+      "name": "Ink, TIJ, LS-6102 SU-B Blue Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "176",
+      "leadTime": "2 - 4 Weeks",
+      "specs": "Blue | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlueCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 2"
+    },
+    {
+      "id": "71214660",
+      "name": "Ink, TIJ, LS-6104 SU-B Red Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "176",
+      "leadTime": "2 - 4 Weeks",
+      "specs": "Red | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/RedCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 2"
+    },
+    {
+      "id": "71083132",
+      "name": "Ink, TIJ, LS-7001, SU-B Black Ink, SB, Dye\r\n**Must be sold in multiples of 2**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "179",
+      "leadTime": "2 Days",
+      "specs": "Black | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 2"
+    },
+    {
+      "id": "71085121",
+      "name": "Ink, TIJ, LS-7011, SU-B Black Ink, SB, Dye\r\n**Must be sold in multiples of 2**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "179",
+      "leadTime": "2 Days",
+      "specs": "Black | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 2"
+    },
+    {
+      "id": "71228914",
+      "name": "INK,TIJ,ATF-7100,SU-B BLK,SB,DY\r\n**Must be sold in multiples of 2**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Solvent Base",
+      "subCategory2": "",
+      "price": "189",
+      "leadTime": "2 Days",
+      "specs": "Black | Solvent Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 2"
+    },
+    {
+      "id": "71237528",
+      "name": "INK,TIJ,LS-3013,SU,YSHY2.5,GRN,WB,DYE\r\n**Must be sold in Multiples of 8**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Water Base",
+      "subCategory2": "",
+      "price": "86",
+      "leadTime": "2 - 4 Weeks",
+      "specs": "Green | Water Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/GreenCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 8"
+    },
+    {
+      "id": "71237529",
+      "name": "INK,TIJ,LS-3014,SU,YSHY2.5,RED,WB,DYE\r\n**Must be sold in Multiples of 8**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Water Base",
+      "subCategory2": "",
+      "price": "86",
+      "leadTime": "2 - 4 Weeks",
+      "specs": "Red | Water Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/RedCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 8"
+    },
+    {
+      "id": "71237530",
+      "name": "INK,TIJ,LS-3018,SU,YSHY2.5,YLW,WB,DYE\r\n**Must be sold in Multiples of 8**",
+      "productLine": "L-Series",
+      "category": "Inks",
+      "subCategory": "Water Base",
+      "subCategory2": "",
+      "price": "86",
+      "leadTime": "2 - 4 Weeks",
+      "specs": "Yellow | Water Base | Dye",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/YellowCartridge.png",
+      "warning": "",
+      "notes": "Must be sold in multiples of 8"
     }
   ],
   "rules": {
@@ -5467,6 +6223,15 @@
       "41015733": [
         "41010290"
       ],
+      "41039276": [
+        "41039275"
+      ],
+      "41039277": [
+        "41039275"
+      ],
+      "41039278": [
+        "41039275"
+      ],
       "41206373": [
         "41009525"
       ]
@@ -5480,7 +6245,7 @@
   "sortOrder": {
     "productLines": [
       "Axian",
-      "VIJ",
+      "V-Series",
       "L-Series",
       "CT1000",
       "T-Series",
@@ -5551,10 +6316,14 @@
         "Peripherals"
       ],
       "L-Series": [
+        "ViaPack",
         "User Interface",
+        "Printheads",
         "Communication",
         "Mounting",
-        "Peripherals"
+        "Peripherals",
+        "Parts",
+        "Inks"
       ],
       "T-Series": [
         "Printheads",

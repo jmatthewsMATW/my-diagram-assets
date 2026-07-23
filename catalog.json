@@ -1215,8 +1215,8 @@
       "leadTime": "",
       "specs": "",
       "image": "",
-      "warning": "",
-      "notes": "Fiber requires: 41243830 | UV requires: 41243832"
+      "warning": "Fiber requires: 41243830 | UV requires: 41243832",
+      "notes": ""
     },
     {
       "id": "41243830",
@@ -2250,7 +2250,7 @@
       "price": "608",
       "leadTime": "2 weeks",
       "specs": "",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Ethernet_Switch.png",
+      "image": "",
       "warning": "",
       "notes": ""
     },
@@ -2376,7 +2376,7 @@
       "price": "2390",
       "leadTime": "2 weeks",
       "specs": "IP53 *when mounted to instructions",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Vlink.png",
+      "image": "",
       "warning": "",
       "notes": "Supports a maximum of 32 valves | One V-Link can be used with up to two (2) photocells and two (2) speed source"
     },
@@ -2390,7 +2390,7 @@
       "price": "",
       "leadTime": "",
       "specs": "IP30 | 24VDC",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Vlink_OEM.png",
+      "image": "",
       "warning": "",
       "notes": "Supports a maximum of 32 valves | One V-Link can be used with up to two (2) photocells and two (2) speed source"
     },
@@ -2741,8 +2741,8 @@
       "leadTime": "2 weeks",
       "specs": "1 ft.",
       "image": "",
-      "warning": "",
-      "notes": "Required to use two (2) 8000+ 7 valve Printheads"
+      "warning": "Required to use two (2) 8000+ 7 valve Printheads",
+      "notes": ""
     },
     {
       "id": "41038243",
@@ -3455,8 +3455,8 @@
       "leadTime": "2 weeks",
       "specs": "",
       "image": "",
-      "warning": "",
-      "notes": "(one required for each airline feeding system)"
+      "warning": "One required for each airline feeding system",
+      "notes": ""
     },
     {
       "id": "41003811",
@@ -3594,7 +3594,7 @@
       "price": "741",
       "leadTime": "2 weeks",
       "specs": "Includes 0.2m Wheel, L- Mounting Bracket & 15 ft cable",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/TruTrac.png",
+      "image": "",
       "warning": "",
       "notes": ""
     },
@@ -3608,7 +3608,7 @@
       "price": "816",
       "leadTime": "2 weeks",
       "specs": "Includes 0.2M wheel, Brkt, 3ft Cable",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/TruTrac.png",
+      "image": "",
       "warning": "",
       "notes": ""
     },
@@ -3622,7 +3622,7 @@
       "price": "680",
       "leadTime": "2 weeks",
       "specs": "With 5 m (16.5ft.) cable",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/HD_Encoder.png",
+      "image": "",
       "warning": "",
       "notes": ""
     },
@@ -3748,7 +3748,7 @@
       "price": "342",
       "leadTime": "2 weeks",
       "specs": "",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Photocell%20NB.png",
+      "image": "",
       "warning": "",
       "notes": ""
     },
@@ -3762,7 +3762,7 @@
       "price": "237",
       "leadTime": "2 weeks",
       "specs": "",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Photocell%20NB.png",
+      "image": "",
       "warning": "",
       "notes": ""
     },
@@ -3776,7 +3776,7 @@
       "price": "287",
       "leadTime": "2 weeks",
       "specs": "",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Photocell%20NB.png",
+      "image": "",
       "warning": "",
       "notes": ""
     },
@@ -4691,6 +4691,118 @@
       "notes": "8400 Encoder (40000176) or 8400 photocell (40000004) to MPERIA® V-Link (one adaptor required for photocell and one required for encoder)"
     },
     {
+      "id": "41008853",
+      "name": "Male Inline Coupling",
+      "productLine": "V-Series",
+      "category": "Fluid Supply",
+      "subCategory": "Parts",
+      "subCategory2": "",
+      "price": "",
+      "leadTime": "",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41008852",
+      "name": "Female Inline Coupling  (w/o filter)",
+      "productLine": "V-Series",
+      "category": "Fluid Supply",
+      "subCategory": "Parts",
+      "subCategory2": "",
+      "price": "",
+      "leadTime": "",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41009640",
+      "name": "Female Inline Coupling  (w/ filter)",
+      "productLine": "V-Series",
+      "category": "Fluid Supply",
+      "subCategory": "Parts",
+      "subCategory2": "",
+      "price": "",
+      "leadTime": "",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41012539",
+      "name": "Flush Valve",
+      "productLine": "V-Series",
+      "category": "Fluid Supply",
+      "subCategory": "Parts",
+      "subCategory2": "",
+      "price": "",
+      "leadTime": "",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41008759",
+      "name": "Valve Clip",
+      "productLine": "V-Series",
+      "category": "Fluid Supply",
+      "subCategory": "Parts",
+      "subCategory2": "",
+      "price": "",
+      "leadTime": "",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41009570",
+      "name": "Y Fitting",
+      "productLine": "V-Series",
+      "category": "Fluid Supply",
+      "subCategory": "Parts",
+      "subCategory2": "",
+      "price": "",
+      "leadTime": "",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "11000650",
+      "name": "CONTAINER, BOTTLE, 4 LITER/1 GAL",
+      "productLine": "V-Series",
+      "category": "Fluid Supply",
+      "subCategory": "Parts",
+      "subCategory2": "",
+      "price": "",
+      "leadTime": "",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "11000646",
+      "name": "CONTAINER, BOTTLE, 1 LITER, WIDE MOUTH",
+      "productLine": "V-Series",
+      "category": "Fluid Supply",
+      "subCategory": "Parts",
+      "subCategory2": "",
+      "price": "",
+      "leadTime": "",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
       "id": "41212321",
       "name": "T-50E 2\" | Black",
       "productLine": "T-Series",
@@ -4700,7 +4812,7 @@
       "price": "8040",
       "leadTime": "4-6 weeks",
       "specs": "2\" (50 mm) Print Height | Black",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/T50.png",
       "warning": "",
       "notes": ""
     },
@@ -4714,7 +4826,7 @@
       "price": "11150",
       "leadTime": "4-6 weeks",
       "specs": "4\" (100 mm) Print Height | Black",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/T100.png",
       "warning": "",
       "notes": ""
     },
@@ -4728,7 +4840,7 @@
       "price": "11150",
       "leadTime": "4-6 weeks",
       "specs": "4\" (100 mm) Print Height | Red",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/T100.png",
       "warning": "",
       "notes": ""
     },
@@ -4742,7 +4854,7 @@
       "price": "11745",
       "leadTime": "4-6 weeks",
       "specs": "4\" (100 mm) Print Height | Down Printing | Black",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/T100.png",
       "warning": "",
       "notes": "Down Printer, with 27.5” Umbilical | Custom printhead mounting ONLY"
     },
@@ -4756,7 +4868,7 @@
       "price": "13850",
       "leadTime": "28-30 weeks",
       "specs": "4\" (100 mm) Print Height | Black",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/T100.png",
       "warning": "",
       "notes": ""
     },
@@ -4770,7 +4882,7 @@
       "price": "14007",
       "leadTime": "28-30 weeks",
       "specs": "4\" (100 mm) Print Height | Red",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/T100.png",
       "warning": "",
       "notes": ""
     },
@@ -4784,7 +4896,7 @@
       "price": "13850",
       "leadTime": "28-30 weeks",
       "specs": "4\" (100 mm) Print Height | Green",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/T100.png",
       "warning": "",
       "notes": ""
     },
@@ -4798,7 +4910,7 @@
       "price": "13850",
       "leadTime": "28-30 weeks",
       "specs": "4\" (100 mm) Print Height | Blue",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/T100.png",
       "warning": "",
       "notes": "4\" (100 mm) Print Height"
     },
@@ -4812,7 +4924,7 @@
       "price": "14007",
       "leadTime": "10-12 weeks",
       "specs": "4\" (100 mm) Print Height | Down Printing | Black",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/T100.png",
       "warning": "",
       "notes": "Down Printer, with 27.5” Umbilical | Custom printhead mounting ONLY"
     },
@@ -5345,8 +5457,8 @@
       "leadTime": "2 weeks",
       "specs": "",
       "image": "",
-      "warning": "",
-      "notes": "Does no include ink"
+      "warning": "Does no include ink",
+      "notes": ""
     },
     {
       "id": "86002291",
@@ -5513,8 +5625,8 @@
       "leadTime": "Check Availability",
       "specs": "",
       "image": "",
-      "warning": "",
-      "notes": "One (1) cable required for each L1 Printhead"
+      "warning": "One (1) cable required for each L1 Printhead",
+      "notes": ""
     },
     {
       "id": "41205536",
@@ -5527,8 +5639,8 @@
       "leadTime": "2 weeks",
       "specs": "",
       "image": "",
-      "warning": "",
-      "notes": "One (1) cable required for each L1 Printhead"
+      "warning": "One (1) cable required for each L1 Printhead",
+      "notes": ""
     },
     {
       "id": "41039275",
@@ -5625,8 +5737,8 @@
       "leadTime": "2 weeks",
       "specs": "Light Duty: L-Rod, Base Clamp, and PH Clamps",
       "image": "",
-      "warning": "",
-      "notes": "Only for L12 and L25"
+      "warning": "Only for L12 and L25",
+      "notes": ""
     },
     {
       "id": "41039030",
@@ -5667,8 +5779,8 @@
       "leadTime": "2 weeks",
       "specs": "25mm Tube Clamp | Aluminum",
       "image": "",
-      "warning": "",
-      "notes": "Only for L12, L25, and L50"
+      "warning": "Only for L12, L25, and L50",
+      "notes": ""
     },
     {
       "id": "41038571",
@@ -5681,8 +5793,8 @@
       "leadTime": "2 weeks",
       "specs": "25mm Tube Clamp | Aluminum",
       "image": "",
-      "warning": "",
-      "notes": "Only for L12, L25, and L50"
+      "warning": "Only for L12, L25, and L50",
+      "notes": ""
     },
     {
       "id": "41038573",
@@ -5723,8 +5835,8 @@
       "leadTime": "4 weeks",
       "specs": "",
       "image": "",
-      "warning": "",
-      "notes": "Onnly for L12 and L25"
+      "warning": "Only for L12 and L25",
+      "notes": ""
     },
     {
       "id": "41043849",
@@ -5849,8 +5961,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Water Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 8"
+      "warning": "Must be sold in multiples of 8",
+      "notes": ""
     },
     {
       "id": "71232148",
@@ -5863,8 +5975,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Water Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 8"
+      "warning": "Must be sold in multiples of 8",
+      "notes": ""
     },
     {
       "id": "71236956",
@@ -5877,8 +5989,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Water Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 8"
+      "warning": "Must be sold in multiples of 8",
+      "notes": ""
     },
     {
       "id": "71235726",
@@ -5891,8 +6003,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Hybrid | Pigmented",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 8"
+      "warning": "Must be sold in multiples of 8",
+      "notes": ""
     },
     {
       "id": "71202821",
@@ -5905,8 +6017,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 2"
+      "warning": "Must be sold in multiples of 2",
+      "notes": ""
     },
     {
       "id": "71209458",
@@ -5919,8 +6031,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 2"
+      "warning": "Must be sold in multiples of 2",
+      "notes": ""
     },
     {
       "id": "71209459",
@@ -5933,8 +6045,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 4"
+      "warning": "Must be sold in multiples of 4",
+      "notes": ""
     },
     {
       "id": "71203981",
@@ -5947,8 +6059,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 2"
+      "warning": "Must be sold in multiples of 2",
+      "notes": ""
     },
     {
       "id": "71203982",
@@ -5961,8 +6073,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 2"
+      "warning": "Must be sold in multiples of 2",
+      "notes": ""
     },
     {
       "id": "71203983",
@@ -5975,8 +6087,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 4"
+      "warning": "Must be sold in multiples of 4",
+      "notes": ""
     },
     {
       "id": "71214656",
@@ -5989,8 +6101,8 @@
       "leadTime": "2 - 4 Weeks",
       "specs": "Blue | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlueCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 2"
+      "warning": "Must be sold in multiples of 2",
+      "notes": ""
     },
     {
       "id": "71214660",
@@ -6003,8 +6115,8 @@
       "leadTime": "2 - 4 Weeks",
       "specs": "Red | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/RedCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 2"
+      "warning": "Must be sold in multiples of 2",
+      "notes": ""
     },
     {
       "id": "71083132",
@@ -6017,8 +6129,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 2"
+      "warning": "Must be sold in multiples of 2",
+      "notes": ""
     },
     {
       "id": "71085121",
@@ -6031,8 +6143,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 2"
+      "warning": "Must be sold in multiples of 2",
+      "notes": ""
     },
     {
       "id": "71228914",
@@ -6045,8 +6157,8 @@
       "leadTime": "2 Days",
       "specs": "Black | Solvent Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 2"
+      "warning": "Must be sold in multiples of 2",
+      "notes": ""
     },
     {
       "id": "71237528",
@@ -6059,8 +6171,8 @@
       "leadTime": "2 - 4 Weeks",
       "specs": "Green | Water Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/GreenCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 8"
+      "warning": "Must be sold in multiples of 8",
+      "notes": ""
     },
     {
       "id": "71237529",
@@ -6073,8 +6185,8 @@
       "leadTime": "2 - 4 Weeks",
       "specs": "Red | Water Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/RedCartridge.png",
-      "warning": "",
-      "notes": "Must be sold in multiples of 8"
+      "warning": "Must be sold in multiples of 8",
+      "notes": ""
     },
     {
       "id": "71237530",
@@ -6087,8 +6199,442 @@
       "leadTime": "2 - 4 Weeks",
       "specs": "Yellow | Water Base | Dye",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/YellowCartridge.png",
+      "warning": "Must be sold in multiples of 8",
+      "notes": ""
+    },
+    {
+      "id": "71236231",
+      "name": "CT1000 Complete System",
+      "productLine": "CT1000",
+      "category": "",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "1999",
+      "leadTime": "2 days",
+      "specs": "",
+      "image": "",
       "warning": "",
-      "notes": "Must be sold in multiples of 8"
+      "notes": "Includes CT1000 Printhead, Mounting, and Cables"
+    },
+    {
+      "id": "41245621",
+      "name": "CT1000 Printhead & Mount",
+      "productLine": "CT1000",
+      "category": "",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "1599",
+      "leadTime": "2 days",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Includes CT1000 Printhead, Spring Loaded Mount, and Power Supply"
+    },
+    {
+      "id": "71236232",
+      "name": "INK,TIJ CORE,CTH-1300,BLK,SU",
+      "productLine": "CT1000",
+      "category": "Inks",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "89",
+      "leadTime": "2 days",
+      "specs": "Black | Water Base | Hybrid (Pigment/Dye)",
+      "image": "",
+      "warning": "Must be sold in multiples of 6",
+      "notes": ""
+    },
+    {
+      "id": "71236233",
+      "name": "INK,TIJ CORE,CTH-1000,BLK,SU",
+      "productLine": "CT1000",
+      "category": "Inks",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "82",
+      "leadTime": "2 days",
+      "specs": "Black | Water Base | Dye",
+      "image": "",
+      "warning": "Must be sold in multiples of 6",
+      "notes": ""
+    },
+    {
+      "id": "71236234",
+      "name": "INK, TIJ CORE, CTH-6000,BLK, SU",
+      "productLine": "CT1000",
+      "category": "Inks",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "129",
+      "leadTime": "2 days",
+      "specs": "Black | Ethanol Base | Dye",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "71236235",
+      "name": "INK, TIJ CORE, CTH-6009,WHT,SU",
+      "productLine": "CT1000",
+      "category": "Inks",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "225",
+      "leadTime": "4 - 6 weeks",
+      "specs": "White | Ethanol Base | Pigment",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41244873",
+      "name": "Power Supply Cable",
+      "productLine": "CT1000",
+      "category": "Spare Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "12",
+      "leadTime": "2 days",
+      "specs": "",
+      "image": "",
+      "warning": "Users need both PN 41244873 and PN 41244874 for one complete power supply",
+      "notes": ""
+    },
+    {
+      "id": "41244874",
+      "name": "Power Supply Adapter",
+      "productLine": "CT1000",
+      "category": "Spare Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "75",
+      "leadTime": "2 days",
+      "specs": "",
+      "image": "",
+      "warning": "Users need both PN 41244873 and PN 41244874 for one complete power supply",
+      "notes": ""
+    },
+    {
+      "id": "41244875",
+      "name": "Wireless Keyboard",
+      "productLine": "CT1000",
+      "category": "Spare Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "45",
+      "leadTime": "2 days",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "41244876",
+      "name": "External Photoeye",
+      "productLine": "CT1000",
+      "category": "Spare Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "125",
+      "leadTime": "2 days",
+      "specs": "",
+      "image": "",
+      "warning": "CT1000 specific accessory, not compatible with other MMS products",
+      "notes": ""
+    },
+    {
+      "id": "41244878",
+      "name": "Encoder",
+      "productLine": "CT1000",
+      "category": "Spare Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "325",
+      "leadTime": "2 days",
+      "specs": "",
+      "image": "",
+      "warning": "CT1000 specific accessory, not compatible with other MMS products",
+      "notes": ""
+    },
+    {
+      "id": "71236820",
+      "name": "INK,AXM-7000,BLACK,SINGLE CARTRIDGE",
+      "productLine": "Axian",
+      "category": "Fluid",
+      "subCategory": "Ink",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "795",
+      "specs": "Black | MEK Base | 800ml",
+      "image": "",
+      "warning": "",
+      "notes": "single 800ml ink cartridge, MEK/Isopropyl base"
+    },
+    {
+      "id": "71236821",
+      "name": "INK,AXM-7000C,CLEANER,SINGLE CARTRIDGE",
+      "productLine": "Axian",
+      "category": "Fluid",
+      "subCategory": "Cleaner",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "195",
+      "specs": "MEK Base | 800ml",
+      "image": "",
+      "warning": "",
+      "notes": "Single 800ml cleaner cartridge, MEK/Isopropyl base for system flush and storage"
+    },
+    {
+      "id": "71237569",
+      "name": "INK,AXM-7000,COMBO PACK,1 INK,1 CL,BLK",
+      "productLine": "Axian",
+      "category": "Fluid",
+      "subCategory": "Combo",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "990",
+      "specs": "MEK Base | 800ml each",
+      "image": "",
+      "warning": "",
+      "notes": "Combo fluid pack that includes: 1x 800ml MEK ink cartridge, 1x 800ml MEK cleaner cartridge, 1x 250ml cleaner for JM maintenance, 1x lint free wipes"
+    },
+    {
+      "id": "71236824",
+      "name": "INK,AXM-7000,COMBO PACK,2 INK,2 CL,BLK",
+      "productLine": "Axian",
+      "category": "Fluid",
+      "subCategory": "Combo",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "1885",
+      "specs": "MEK Base | 800ml each",
+      "image": "",
+      "warning": "",
+      "notes": "Combo fluid pack that includes: 2x 800ml ink cartridges, black,  MEK base | 2x 800ml cleaner cartridge, MEK/Isopropyl base | 1x 250ml cleaner for JM maintenance | 1x lint free wipes"
+    },
+    {
+      "id": "71236823",
+      "name": "INK,AXM-7000,COMBO PACK,3 INK,1 CL,BLK",
+      "productLine": "Axian",
+      "category": "Fluid",
+      "subCategory": "Combo",
+      "subCategory2": "",
+      "price": "2 week",
+      "leadTime": "2390",
+      "specs": "MEK Base | 800ml each",
+      "image": "",
+      "warning": "",
+      "notes": "Combo fluid pack that includes: 3x 800ml ink cartridges, black,  MEK base | 1x 800ml cleaner cartridge, MEK/Isopropyl base | 1x 250ml cleaner for JM maintenance | 1x lint free wipes"
+    },
+    {
+      "id": "71236822",
+      "name": "INK,AXM-7000,COMBO PACK,4 INK,BLK",
+      "productLine": "Axian",
+      "category": "Fluid",
+      "subCategory": "Combo",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "2945",
+      "specs": "MEK Base | 800ml each",
+      "image": "",
+      "warning": "",
+      "notes": "Combo fluid pack that includes: 4x 800ml ink cartridges, black, MEK base | 1x 250ml cleaner for JM maintenance | 1x lint free wipes"
+    },
+    {
+      "id": "71234821",
+      "name": "T-Base Floor Stand",
+      "productLine": "Axian",
+      "category": "Mounting",
+      "subCategory": "Stand",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "985",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Axian floor stand base that includes: T-base & center column | IDS mounting bracket | Controller VESA mounting bracket"
+    },
+    {
+      "id": "71234819",
+      "name": "Stand Arm for Printhead & Photocell",
+      "productLine": "Axian",
+      "category": "Mounting",
+      "subCategory": "Stand",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "485",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": ""
+    },
+    {
+      "id": "71234820",
+      "name": "Caster Set",
+      "productLine": "Axian",
+      "category": "Mounting",
+      "subCategory": "Stand",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "245",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "4\" locking casters (3x)"
+    },
+    {
+      "id": "71234822",
+      "name": "Stand Storage Cabinet",
+      "productLine": "Axian",
+      "category": "Mounting",
+      "subCategory": "Stand",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "595",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Storage Cabinet for Axian T-Base Stand"
+    },
+    {
+      "id": "71237547",
+      "name": "Complete T-Base Floor Stand",
+      "productLine": "Axian",
+      "category": "Mounting",
+      "subCategory": "Stand",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "1495",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Complete Axian floor stand that includes: T-base & center column | IDS mounting bracket | Controller VESA mounting bracket | Printhead arm with PH & photocell brackets | 3x, 4\" locking casters"
+    },
+    {
+      "id": "71237543",
+      "name": "Axian Node Kit",
+      "productLine": "Axian",
+      "category": "Kit",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "4 weeks",
+      "leadTime": "9475",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Axian node that includes: Ink Delivery System (IDS) and Printhead | IDS power cord | Jetting Module (JM) | Diffuse photocell for Axian floor stand, M8 w/ extension cable"
+    },
+    {
+      "id": "71237544",
+      "name": "Axian System Kit",
+      "productLine": "Axian",
+      "category": "Kit",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "4 weeks",
+      "leadTime": "9975",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Axian system that includes: AXIAN NODE KIT | MPERIA® 8\" with power cables, IP55"
+    },
+    {
+      "id": "71237545",
+      "name": "Axian Spare Parts Kit",
+      "productLine": "Axian",
+      "category": "Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "1 week",
+      "leadTime": "1475",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Axian spare parts kit that includes: Waste bottle for system flush and storage | Jetting Module (JM) | Lint free wipes | Line filter replacement kit"
+    },
+    {
+      "id": "71236476",
+      "name": "Jetting Module",
+      "productLine": "Axian",
+      "category": "Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "1 Week",
+      "leadTime": "750",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Warranty: 0-90 days failure in use -  full replacement | 91-120 days failure in use - 50% credit (customers must adhere to recommended JM mtce)"
+    },
+    {
+      "id": "71216161",
+      "name": "MPERIA® 8\" Controller - Axian",
+      "productLine": "Axian",
+      "category": "Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "1954",
+      "specs": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_8.png",
+      "warning": "",
+      "notes": "MPERIA® 8\" with power supply, IP55, Axian license and IDS power cable"
+    },
+    {
+      "id": "41227508",
+      "name": "Diffused Photocell (M8)",
+      "productLine": "Axian",
+      "category": "Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "439",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Diffuse photocell for Axian floor stand, M8 w/ extension cable"
+    },
+    {
+      "id": "41227374",
+      "name": "Linear Encoder (M12)",
+      "productLine": "Axian",
+      "category": "Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "725",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "TR1 Tru-Trac Linear Encoder (M12), Axian I/O extension cable (M12/M12 3m), Encoder bracket"
+    },
+    {
+      "id": "41227211",
+      "name": "Axian Waste Bottle Kit",
+      "productLine": "Axian",
+      "category": "Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "125",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "1L waste bottle for system flush and storage"
+    },
+    {
+      "id": "41227365",
+      "name": "Stack Light Kit",
+      "productLine": "Axian",
+      "category": "Parts",
+      "subCategory": "",
+      "subCategory2": "",
+      "price": "2 weeks",
+      "leadTime": "629",
+      "specs": "",
+      "image": "",
+      "warning": "",
+      "notes": "Banner TL30 Basic Light Tower with Axian Light Tower cable, M12/Flying Lead (3m), Light Tower mounting bracket, Pole Mount bracket (25/40mm)"
     }
   ],
   "rules": {
@@ -6198,6 +6744,13 @@
           "message": "Required"
         }
       ],
+      "71237544": [
+        {
+          "id": "71237545",
+          "qty": 1,
+          "message": "Required for single system or for every 3 systems"
+        }
+      ],
       "86002294": [
         {
           "id": "86002292",
@@ -6234,6 +6787,15 @@
       ],
       "41206373": [
         "41009525"
+      ],
+      "41244873": [
+        "41244874"
+      ],
+      "41244874": [
+        "41244873"
+      ],
+      "71234821": [
+        "71234819"
       ]
     }
   },
@@ -6342,9 +6904,12 @@
       ],
       "Axian": [
         "User Interface",
-        "Communication",
+        "Kit",
         "Mounting",
-        "Peripherals"
+        "Communication",
+        "Peripherals",
+        "Parts",
+        "Fluid"
       ]
     },
     "subCategories": {

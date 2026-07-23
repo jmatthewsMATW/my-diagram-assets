@@ -1968,7 +1968,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "price": "2293",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "8\" | IP55",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_8.png",
       "warning": "",
@@ -1982,7 +1982,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "price": "6409",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "Aluminum | 12\" | IP40",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_12.png",
       "warning": "",
@@ -1996,7 +1996,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "price": "7676",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "12\" | IP54",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_Encl.png",
       "warning": "",
@@ -2010,7 +2010,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "price": "7280",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "Stainless Steel | 15\" | IP65",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_HE.png",
       "warning": "",
@@ -2024,7 +2024,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "price": "",
-      "leadTime": "",
+      "leadTime": "2 weeks",
       "specs": "IP30 | XML or Command Line via ethernet or RS232",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_OEM.png",
       "warning": "",
@@ -2038,7 +2038,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "price": "",
-      "leadTime": "",
+      "leadTime": "2 weeks",
       "specs": "IP30 | XML or Command Line via ethernet or RS233",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_OEM.png",
       "warning": "",
@@ -2052,7 +2052,7 @@
       "subCategory": "Controller",
       "subCategory2": "",
       "price": "",
-      "leadTime": "",
+      "leadTime": "2 weeks",
       "specs": "IP30 | XML or Command Line via ethernet or RS234",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_OEM.png",
       "warning": "",
@@ -2066,7 +2066,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\"",
       "price": "633",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
@@ -2080,7 +2080,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\"",
       "price": "252",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
@@ -2094,7 +2094,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\"",
       "price": "252",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
@@ -2108,7 +2108,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
       "price": "314",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
@@ -2122,11 +2122,11 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
       "price": "314",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
-      "notes": "License Key to enable line action protocol (Barcode Scanner message selection or simple remote communications)\r\r\r\n*Price does not include required hardware/barcode scanner."
+      "notes": "License Key to enable line action protocol (Barcode Scanner message selection or simple remote communications)\r\r\r\r\n*Price does not include required hardware/barcode scanner."
     },
     {
       "id": "86002296",
@@ -2136,7 +2136,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
       "price": "314",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
@@ -2150,7 +2150,7 @@
       "subCategory": "License",
       "subCategory2": "MPERIA® 8\", MPERIA®",
       "price": "1906",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
@@ -2276,7 +2276,7 @@
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
       "price": "13",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "RJ45 | Straight Shielded",
       "image": "",
       "warning": "",
@@ -2290,7 +2290,7 @@
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
       "price": "18",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "RJ45 | Straight Shielded",
       "image": "",
       "warning": "",
@@ -2304,7 +2304,7 @@
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
       "price": "24",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "RJ45 | Straight Shielded",
       "image": "",
       "warning": "",
@@ -2318,7 +2318,7 @@
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
       "price": "46",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "RJ45 | Straight Shielded",
       "image": "",
       "warning": "",
@@ -2332,7 +2332,7 @@
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
       "price": "91",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "RJ45 | Straight Shielded",
       "image": "",
       "warning": "",
@@ -2346,7 +2346,7 @@
       "subCategory": "Ethernet Cables",
       "subCategory2": "",
       "price": "118",
-      "leadTime": "6-8 Weeks",
+      "leadTime": "2 weeks",
       "specs": "RJ45 | Straight Shielded",
       "image": "",
       "warning": "",
@@ -2388,7 +2388,7 @@
       "subCategory": "V-Link",
       "subCategory2": "",
       "price": "",
-      "leadTime": "",
+      "leadTime": "2 weeks",
       "specs": "IP30 | 24VDC",
       "image": "",
       "warning": "",
@@ -3718,7 +3718,7 @@
       "subCategory": "Encoder",
       "subCategory2": "High Speed",
       "price": "699",
-      "leadTime": "0",
+      "leadTime": "",
       "specs": "10k PPR | 5m Cable| IFM",
       "image": "",
       "warning": "",
@@ -3740,49 +3740,49 @@
     },
     {
       "id": "41037759",
-      "name": "Photocell, MPERIA® M18, Red Beam Sic Model, with 5m (16.5ft) Cable (includes Sensor bracket - 41001407 below) and bracket",
+      "name": "Red Beam Photocell with Mounting Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Red Beam",
       "price": "342",
       "leadTime": "2 weeks",
-      "specs": "",
+      "specs": "16.5 ft. (5m)",
       "image": "",
       "warning": "",
-      "notes": ""
+      "notes": "Includes Sensor bracket 41001407"
     },
     {
       "id": "41036086",
-      "name": "Photocell, MPERIA® M18, Red Beam Sic Model, with 5m (16.5ft) Cable (without sensor bracket - 41001407 below)",
+      "name": "Red Beam Photocell without Mounting Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Red Beam",
       "price": "237",
       "leadTime": "2 weeks",
-      "specs": "",
+      "specs": "16.5 ft. (5m)",
       "image": "",
       "warning": "",
-      "notes": ""
+      "notes": "Without Sensor bracket 41001407"
     },
     {
       "id": "41205507",
-      "name": "Photocell, MPERIA® M18, Red Beam Sic Model, .5m cable  (without sensor bracket - 41001407 below)",
+      "name": "Red Beam Photocell without Mounting Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Red Beam",
       "price": "287",
       "leadTime": "2 weeks",
-      "specs": "",
+      "specs": "1.5 ft. (0.5m)",
       "image": "",
       "warning": "",
-      "notes": ""
+      "notes": "Without Sensor bracket 41001407"
     },
     {
       "id": "41038917",
-      "name": "Diffused Photocell for Floor Mount Stand, Banner Model  (without sensor bracket - 41001407 below)",
+      "name": "Diffused Photocell for Floor Mount Stand",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
@@ -3792,25 +3792,25 @@
       "specs": "",
       "image": "",
       "warning": "",
-      "notes": ""
+      "notes": "Without Sensor bracket 41001407"
     },
     {
       "id": "41060425",
-      "name": "Photocell Assembly, Polarized Retro reflective, 2m cable, 2m sensing distance (without optional sensor backets - 41001407 and 41227044 below)",
+      "name": "Polarized Retro Reflective Photocell",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Retro Reflect",
       "price": "635",
       "leadTime": "2 weeks",
-      "specs": "",
+      "specs": "6 ft. (2m)",
       "image": "",
       "warning": "",
-      "notes": ""
+      "notes": "Without optional sensor brackets 41001407 and 41227044"
     },
     {
       "id": "41001407",
-      "name": "BRACKET,MOUNTING,PHOTOCELL, M18",
+      "name": "Photocell Mounting Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
@@ -3824,7 +3824,7 @@
     },
     {
       "id": "41227044",
-      "name": "BRACKET,MOUNTING,PHOTOCELL REFLECTOR",
+      "name": "Photocell Reflector Mounting Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
@@ -3838,28 +3838,28 @@
     },
     {
       "id": "41062892",
-      "name": "SENSOR,LABEL,RED LED,4 PIN M8 CONNECTOR (requires cable 41063007)",
+      "name": "Red Label Sensor",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Label Sensor",
       "price": "249",
       "leadTime": "2 weeks",
-      "specs": "",
+      "specs": "M8 Style",
       "image": "",
       "warning": "",
       "notes": ""
     },
     {
       "id": "41063007",
-      "name": "Cable,Label Sensor, MPERIA®,M8F-DB9M",
+      "name": "Label Sensor Cable",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
       "subCategory2": "Label Sensor",
       "price": "285",
       "leadTime": "2 weeks",
-      "specs": "",
+      "specs": "M8F to DB9M",
       "image": "",
       "warning": "",
       "notes": ""
@@ -3880,7 +3880,7 @@
     },
     {
       "id": "41212442",
-      "name": "PHOTOCELL,ASSY,DIFFUSED FIBER,MPERIA™",
+      "name": "Diffused Fiber Photocell",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
       "subCategory": "Trigger",
@@ -5966,7 +5966,7 @@
     },
     {
       "id": "71232148",
-      "name": "Ink, TIJ, LS-3011 YS+ Black, WB, Dye\r\n**Must be sold in Multiples of 8**",
+      "name": "Ink, TIJ, LS-3011 YS+ Black, WB, Dye\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Water Base",
@@ -5980,7 +5980,7 @@
     },
     {
       "id": "71236956",
-      "name": "INK,TIJ,LS-3011,SU,YSHY2.5,BLK,WB,DYE\r\n**Must be sold in Multiples of 8**",
+      "name": "INK,TIJ,LS-3011,SU,YSHY2.5,BLK,WB,DYE\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Water Base",
@@ -5994,7 +5994,7 @@
     },
     {
       "id": "71235726",
-      "name": "INK,TIJ,LS-4101,SU-B,YSHY2.5,BLK,HYB,PIG\r\n**Must be sold in Multiples of 8**",
+      "name": "INK,TIJ,LS-4101,SU-B,YSHY2.5,BLK,HYB,PIG\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Hybrid",
@@ -6008,7 +6008,7 @@
     },
     {
       "id": "71202821",
-      "name": "Ink, TIJ, LS-6023 SU-B Black Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "name": "Ink, TIJ, LS-6023 SU-B Black Ink, SB, Dye\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6022,7 +6022,7 @@
     },
     {
       "id": "71209458",
-      "name": "Ink, TIJ, LS-6023 QD-B Black Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "name": "Ink, TIJ, LS-6023 QD-B Black Ink, SB, Dye\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6036,7 +6036,7 @@
     },
     {
       "id": "71209459",
-      "name": "Ink, TIJ, LS-6023 1L BiB Black Ink, SB, Dye\r\n**Must be sold in Multiples of 4**",
+      "name": "Ink, TIJ, LS-6023 1L BiB Black Ink, SB, Dye\r\r\n**Must be sold in Multiples of 4**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6050,7 +6050,7 @@
     },
     {
       "id": "71203981",
-      "name": "Ink, TIJ, LS-6101 SU-B Black Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "name": "Ink, TIJ, LS-6101 SU-B Black Ink, SB, Dye\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6064,7 +6064,7 @@
     },
     {
       "id": "71203982",
-      "name": "Ink, TIJ, LS-6101 QD-B Black Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "name": "Ink, TIJ, LS-6101 QD-B Black Ink, SB, Dye\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6078,7 +6078,7 @@
     },
     {
       "id": "71203983",
-      "name": "Ink, TIJ, LS-6101 1L BiB Black Ink, SB Dye\r\n**Must be sold in Multiples of 4**",
+      "name": "Ink, TIJ, LS-6101 1L BiB Black Ink, SB Dye\r\r\n**Must be sold in Multiples of 4**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6092,7 +6092,7 @@
     },
     {
       "id": "71214656",
-      "name": "Ink, TIJ, LS-6102 SU-B Blue Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "name": "Ink, TIJ, LS-6102 SU-B Blue Ink, SB, Dye\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6106,7 +6106,7 @@
     },
     {
       "id": "71214660",
-      "name": "Ink, TIJ, LS-6104 SU-B Red Ink, SB, Dye\r\n**Must be sold in Multiples of 2**",
+      "name": "Ink, TIJ, LS-6104 SU-B Red Ink, SB, Dye\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6120,7 +6120,7 @@
     },
     {
       "id": "71083132",
-      "name": "Ink, TIJ, LS-7001, SU-B Black Ink, SB, Dye\r\n**Must be sold in multiples of 2**",
+      "name": "Ink, TIJ, LS-7001, SU-B Black Ink, SB, Dye\r\r\n**Must be sold in multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6134,7 +6134,7 @@
     },
     {
       "id": "71085121",
-      "name": "Ink, TIJ, LS-7011, SU-B Black Ink, SB, Dye\r\n**Must be sold in multiples of 2**",
+      "name": "Ink, TIJ, LS-7011, SU-B Black Ink, SB, Dye\r\r\n**Must be sold in multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6148,7 +6148,7 @@
     },
     {
       "id": "71228914",
-      "name": "INK,TIJ,ATF-7100,SU-B BLK,SB,DY\r\n**Must be sold in multiples of 2**",
+      "name": "INK,TIJ,ATF-7100,SU-B BLK,SB,DY\r\r\n**Must be sold in multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6162,7 +6162,7 @@
     },
     {
       "id": "71237528",
-      "name": "INK,TIJ,LS-3013,SU,YSHY2.5,GRN,WB,DYE\r\n**Must be sold in Multiples of 8**",
+      "name": "INK,TIJ,LS-3013,SU,YSHY2.5,GRN,WB,DYE\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Water Base",
@@ -6176,7 +6176,7 @@
     },
     {
       "id": "71237529",
-      "name": "INK,TIJ,LS-3014,SU,YSHY2.5,RED,WB,DYE\r\n**Must be sold in Multiples of 8**",
+      "name": "INK,TIJ,LS-3014,SU,YSHY2.5,RED,WB,DYE\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Water Base",
@@ -6190,7 +6190,7 @@
     },
     {
       "id": "71237530",
-      "name": "INK,TIJ,LS-3018,SU,YSHY2.5,YLW,WB,DYE\r\n**Must be sold in Multiples of 8**",
+      "name": "INK,TIJ,LS-3018,SU,YSHY2.5,YLW,WB,DYE\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Water Base",
@@ -6206,7 +6206,7 @@
       "id": "71236231",
       "name": "CT1000 Complete System",
       "productLine": "CT1000",
-      "category": "",
+      "category": "Printheads",
       "subCategory": "",
       "subCategory2": "",
       "price": "1999",
@@ -6220,7 +6220,7 @@
       "id": "41245621",
       "name": "CT1000 Printhead & Mount",
       "productLine": "CT1000",
-      "category": "",
+      "category": "Printheads",
       "subCategory": "",
       "subCategory2": "",
       "price": "1599",
@@ -6363,8 +6363,8 @@
       "category": "Fluid",
       "subCategory": "Ink",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "795",
+      "price": "795",
+      "leadTime": "2 weeks",
       "specs": "Black | MEK Base | 800ml",
       "image": "",
       "warning": "",
@@ -6377,8 +6377,8 @@
       "category": "Fluid",
       "subCategory": "Cleaner",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "195",
+      "price": "195",
+      "leadTime": "2 weeks",
       "specs": "MEK Base | 800ml",
       "image": "",
       "warning": "",
@@ -6391,8 +6391,8 @@
       "category": "Fluid",
       "subCategory": "Combo",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "990",
+      "price": "990",
+      "leadTime": "2 weeks",
       "specs": "MEK Base | 800ml each",
       "image": "",
       "warning": "",
@@ -6405,8 +6405,8 @@
       "category": "Fluid",
       "subCategory": "Combo",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "1885",
+      "price": "1885",
+      "leadTime": "2 weeks",
       "specs": "MEK Base | 800ml each",
       "image": "",
       "warning": "",
@@ -6419,8 +6419,8 @@
       "category": "Fluid",
       "subCategory": "Combo",
       "subCategory2": "",
-      "price": "2 week",
-      "leadTime": "2390",
+      "price": "2390",
+      "leadTime": "2 week",
       "specs": "MEK Base | 800ml each",
       "image": "",
       "warning": "",
@@ -6433,8 +6433,8 @@
       "category": "Fluid",
       "subCategory": "Combo",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "2945",
+      "price": "2945",
+      "leadTime": "2 weeks",
       "specs": "MEK Base | 800ml each",
       "image": "",
       "warning": "",
@@ -6447,8 +6447,8 @@
       "category": "Mounting",
       "subCategory": "Stand",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "985",
+      "price": "985",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6461,8 +6461,8 @@
       "category": "Mounting",
       "subCategory": "Stand",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "485",
+      "price": "485",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6475,8 +6475,8 @@
       "category": "Mounting",
       "subCategory": "Stand",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "245",
+      "price": "245",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6489,8 +6489,8 @@
       "category": "Mounting",
       "subCategory": "Stand",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "595",
+      "price": "595",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6503,8 +6503,8 @@
       "category": "Mounting",
       "subCategory": "Stand",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "1495",
+      "price": "1495",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6517,8 +6517,8 @@
       "category": "Kit",
       "subCategory": "",
       "subCategory2": "",
-      "price": "4 weeks",
-      "leadTime": "9475",
+      "price": "9475",
+      "leadTime": "4 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6531,8 +6531,8 @@
       "category": "Kit",
       "subCategory": "",
       "subCategory2": "",
-      "price": "4 weeks",
-      "leadTime": "9975",
+      "price": "9975",
+      "leadTime": "4 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6545,8 +6545,8 @@
       "category": "Parts",
       "subCategory": "",
       "subCategory2": "",
-      "price": "1 week",
-      "leadTime": "1475",
+      "price": "1475",
+      "leadTime": "1 week",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6559,8 +6559,8 @@
       "category": "Parts",
       "subCategory": "",
       "subCategory2": "",
-      "price": "1 Week",
-      "leadTime": "750",
+      "price": "750",
+      "leadTime": "1 Week",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6573,8 +6573,8 @@
       "category": "Parts",
       "subCategory": "",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "1954",
+      "price": "1954",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_8.png",
       "warning": "",
@@ -6587,8 +6587,8 @@
       "category": "Parts",
       "subCategory": "",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "439",
+      "price": "439",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6601,8 +6601,8 @@
       "category": "Parts",
       "subCategory": "",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "725",
+      "price": "725",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6615,8 +6615,8 @@
       "category": "Parts",
       "subCategory": "",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "125",
+      "price": "125",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6629,8 +6629,8 @@
       "category": "Parts",
       "subCategory": "",
       "subCategory2": "",
-      "price": "2 weeks",
-      "leadTime": "629",
+      "price": "629",
+      "leadTime": "2 weeks",
       "specs": "",
       "image": "",
       "warning": "",
@@ -6910,6 +6910,22 @@
         "Peripherals",
         "Parts",
         "Fluid"
+      ],
+      "CT1000": [
+        "Printheads",
+        "Parts",
+        "Inks",
+        "Spare Parts"
+      ],
+      "V-Series": [
+        "Bundle",
+        "Printhead",
+        "User Interface",
+        "Communication",
+        "Fluid Supply",
+        "Mounting",
+        "Peripherals",
+        "Parts"
       ]
     },
     "subCategories": {
@@ -6979,6 +6995,84 @@
           "AccuScan",
           "EasyCode",
           "Power"
+        ],
+        "Peripherals": [
+          "Encoder",
+          "Trigger",
+          "Cables",
+          "Add-On"
+        ]
+      },
+      "L-Series": {
+        "Printheads": [
+          "Printheads",
+          "L1",
+          "Power"
+        ],
+        "Communication": [
+          "Switches",
+          "Ethernet Cables",
+          "PowerComm"
+        ],
+        "Mounting": [
+          "MPERIA®",
+          "Stands",
+          "Brackets / Clamps",
+          "Slide Table"
+        ],
+        "Peripherals": [
+          "Encoder",
+          "Trigger",
+          "Cables",
+          "Add-On"
+        ]
+      },
+      "Axian": {
+        "User Interface": [
+          "Controller",
+          "License"
+        ],
+        "Mounting": [
+          "MPERIA®",
+          "Stand"
+        ],
+        "Communication": [
+          "Switches",
+          "Ethernet Cables"
+        ]
+      },
+      "V-Series": {
+        "Communication": [
+          "Switches",
+          "Ethernet Cables",
+          "V-Link"
+        ],
+        "Printhead": [
+          "Water Based",
+          "Alcohol Based",
+          "Fast Dry",
+          "Pigmented",
+          "Cables"
+        ],
+        "Fluid Supply": [
+          "HP",
+          "LCIS",
+          "FlowJet",
+          "Parts"
+        ],
+        "Mounting": [
+          "Printhead",
+          "MPERIA®",
+          "Stands",
+          "V-Link",
+          "40mm Tubular",
+          "80/20"
+        ],
+        "Peripherals": [
+          "Encoder",
+          "Trigger",
+          "Cables",
+          "Add-On"
         ]
       }
     },
@@ -7020,6 +7114,20 @@
             "Heavy",
             "High Speed",
             "Accessories"
+          ],
+          "Trigger": [
+            "Rocker",
+            "Red Beam",
+            "Retro Reflect",
+            "Diffused",
+            "Fiber",
+            "Label Sensor"
+          ]
+        },
+        "Mounting": {
+          "MPERIA®": [
+            "MPERIA®",
+            "MPERIA® 8\""
           ]
         }
       },
@@ -7030,6 +7138,14 @@
             "Heavy",
             "High Speed",
             "Accessories"
+          ],
+          "Trigger": [
+            "Rocker",
+            "Red Beam",
+            "Retro Reflect",
+            "Diffused",
+            "Fiber",
+            "Label Sensor"
           ]
         }
       },
@@ -7042,6 +7158,44 @@
             "Retro Reflect",
             "Label Sensor",
             "Fiber"
+          ]
+        }
+      },
+      "V-Series": {
+        "Fluid Supply": {
+          "HP": [
+            "Supply Unit",
+            "Connection",
+            "Accessories",
+            "Spare Parts"
+          ],
+          "LCIS": [
+            "Supply Unit",
+            "Connection",
+            "Accessories",
+            "Spare Parts"
+          ],
+          "FlowJet": [
+            "Supply Unit",
+            "Connection",
+            "Accessories",
+            "Spare Parts"
+          ]
+        },
+        "Peripherals": {
+          "Encoder": [
+            "Standard",
+            "Heavy",
+            "High Speed",
+            "Accessories"
+          ],
+          "Trigger": [
+            "Rocker",
+            "Red Beam",
+            "Retro Reflect",
+            "Diffused",
+            "Fiber",
+            "Label Sensor"
           ]
         }
       }

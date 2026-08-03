@@ -6705,6 +6705,36 @@
       "warning": "",
       "notes": "",
       "image": ""
+    },
+    {
+      "id": "41009657",
+      "name": "Fitting, JG, Push In, Union, 3/8\"",
+      "productLine": "V-Series",
+      "category": "Fluid Supply",
+      "subCategory": "Parts",
+      "subCategory2": "",
+      "specs": "",
+      "price": "7.35",
+      "leadTime": "2 Weeks",
+      "bomOrder": "",
+      "warning": "",
+      "notes": "",
+      "image": ""
+    },
+    {
+      "id": "41004039",
+      "name": "HOSE,INK & RETURN,ASSEMBLY",
+      "productLine": "V-Series",
+      "category": "Fluid Supply",
+      "subCategory": "FlowJet",
+      "subCategory2": "Spare Parts",
+      "specs": "",
+      "price": "103",
+      "leadTime": "2 Weeks",
+      "bomOrder": "",
+      "warning": "",
+      "notes": "",
+      "image": ""
     }
   ],
   "rules": {

@@ -2,6 +2,7 @@
   "products": [
     {
       "id": "71234626",
+      "priceBookEntryId": "01uOt00000JcAPL",
       "name": "Standard 10W CO2",
       "productLine": "CO2 Standard",
       "category": "CO2 Standard",
@@ -17,6 +18,7 @@
     },
     {
       "id": "71234627",
+      "priceBookEntryId": "01uOt00000JcAPM",
       "name": "Standard 30W CO2",
       "productLine": "CO2 Standard",
       "category": "CO2 Standard",
@@ -32,6 +34,7 @@
     },
     {
       "id": "71235163",
+      "priceBookEntryId": "01uOt00000JcAQH",
       "name": "Configurable 10W CO2 | 10.6µm | IP54",
       "productLine": "CO2 Configurable",
       "category": "Laser Head",
@@ -47,6 +50,7 @@
     },
     {
       "id": "71235164",
+      "priceBookEntryId": "01uOt00000JcAQI",
       "name": "Configurable 10W CO2 | 9.3µm | IP54",
       "productLine": "CO2 Configurable",
       "category": "Laser Head",
@@ -62,6 +66,7 @@
     },
     {
       "id": "71235166",
+      "priceBookEntryId": "01uOt00000JcAQK",
       "name": "Configurable 30W CO2 | 10.6µm | IP54",
       "productLine": "CO2 Configurable",
       "category": "Laser Head",
@@ -77,6 +82,7 @@
     },
     {
       "id": "71235167",
+      "priceBookEntryId": "01uOt00000JcAQL",
       "name": "Configurable 30W CO2 | 9.3µm | IP54",
       "productLine": "CO2 Configurable",
       "category": "Laser Head",
@@ -92,6 +98,7 @@
     },
     {
       "id": "71234750",
+      "priceBookEntryId": "01uOt00000JcAPt",
       "name": "Configurable 30W CO2 | 10.6µm | IP65",
       "productLine": "CO2 Configurable",
       "category": "Laser Head",
@@ -107,6 +114,7 @@
     },
     {
       "id": "71234751",
+      "priceBookEntryId": "01uOt00000JcAPu",
       "name": "Configurable 30W CO2 | 9.3µm | IP65",
       "productLine": "CO2 Configurable",
       "category": "Laser Head",
@@ -122,6 +130,7 @@
     },
     {
       "id": "71234759",
+      "priceBookEntryId": "01uOt00000JcAQ2",
       "name": "Configurable 80W CO2 | 10.6µm | IP54",
       "productLine": "CO2 Configurable",
       "category": "Laser Head",
@@ -137,6 +146,7 @@
     },
     {
       "id": "71234760",
+      "priceBookEntryId": "01uOt00000JcAQ3",
       "name": "Configurable 80W CO2 | 9.3µm | IP54",
       "productLine": "CO2 Configurable",
       "category": "Laser Head",
@@ -152,6 +162,7 @@
     },
     {
       "id": "71234767",
+      "priceBookEntryId": "01uOt00000JcAQA",
       "name": "Configurable 80W CO2 | 10.6µm | IP65",
       "productLine": "CO2 Configurable",
       "category": "Laser Head",
@@ -167,6 +178,7 @@
     },
     {
       "id": "71234768",
+      "priceBookEntryId": "01uOt00000JcAQB",
       "name": "Configurable 80W CO2 | 9.3µm | IP65",
       "productLine": "CO2 Configurable",
       "category": "Laser Head",
@@ -182,6 +194,7 @@
     },
     {
       "id": "71235696",
+      "priceBookEntryId": "01uOt00000JcAQV",
       "name": "Fiber 20W | 1.064 | IP54",
       "productLine": "Fiber Laser",
       "category": "Laser Head",
@@ -197,6 +210,7 @@
     },
     {
       "id": "71235654",
+      "priceBookEntryId": "01uOt00000JcAQQ",
       "name": "Fiber 20W | 1.064 | IP55",
       "productLine": "Fiber Laser",
       "category": "Laser Head",
@@ -212,6 +226,7 @@
     },
     {
       "id": "71235652",
+      "priceBookEntryId": "01uOt00000JcAQO",
       "name": "Fiber 50W | 1.064 | IP54",
       "productLine": "Fiber Laser",
       "category": "Laser Head",
@@ -227,6 +242,7 @@
     },
     {
       "id": "71235655",
+      "priceBookEntryId": "01uOt00000JcAQR",
       "name": "Fiber 50W | 1.064 | IP55",
       "productLine": "Fiber Laser",
       "category": "Laser Head",
@@ -242,6 +258,7 @@
     },
     {
       "id": "71235653",
+      "priceBookEntryId": "01uOt00000JcAQP",
       "name": "Fiber 100W | 1.064 | IP54",
       "productLine": "Fiber Laser",
       "category": "Laser Head",
@@ -257,6 +274,7 @@
     },
     {
       "id": "71235656",
+      "priceBookEntryId": "01uOt00000JcAQS",
       "name": "Fiber 100W | 1.064 | IP55",
       "productLine": "Fiber Laser",
       "category": "Laser Head",
@@ -272,6 +290,7 @@
     },
     {
       "id": "71235174",
+      "priceBookEntryId": "01uOt00000JcAQM",
       "name": "Fiber Film 50W | 1.064 | IP54",
       "productLine": "Fiber Film",
       "category": "Laser Head",
@@ -287,6 +306,7 @@
     },
     {
       "id": "71235657",
+      "priceBookEntryId": "01uOt00000JcAQT",
       "name": "Fiber Film 50W | 1.064 | IP55",
       "productLine": "Fiber Film",
       "category": "Laser Head",
@@ -302,6 +322,7 @@
     },
     {
       "id": "71235175",
+      "priceBookEntryId": "01uOt00000JcAQN",
       "name": "UV 5W | 1.064 | IP65",
       "productLine": "UV Laser",
       "category": "Laser Head",
@@ -317,6 +338,7 @@
     },
     {
       "id": "71235708",
+      "priceBookEntryId": "01uOt00000JcAQW",
       "name": "UV 15W | 1.064 | IP65",
       "productLine": "UV Laser",
       "category": "Laser Head",
@@ -332,6 +354,7 @@
     },
     {
       "id": "41242942",
+      "priceBookEntryId": "",
       "name": "100x100mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -347,6 +370,7 @@
     },
     {
       "id": "41242941",
+      "priceBookEntryId": "",
       "name": "60x60mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -362,6 +386,7 @@
     },
     {
       "id": "41242940",
+      "priceBookEntryId": "",
       "name": "75x75mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -377,6 +402,7 @@
     },
     {
       "id": "41242919",
+      "priceBookEntryId": "",
       "name": "150x150mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -392,6 +418,7 @@
     },
     {
       "id": "41242918",
+      "priceBookEntryId": "",
       "name": "200x200mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -407,6 +434,7 @@
     },
     {
       "id": "41242917",
+      "priceBookEntryId": "",
       "name": "250x250mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -422,6 +450,7 @@
     },
     {
       "id": "41241451",
+      "priceBookEntryId": "01uOt00000JcAJo",
       "name": "40x40mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -437,6 +466,7 @@
     },
     {
       "id": "41241452",
+      "priceBookEntryId": "01uOt00000JcAJp",
       "name": "60x60mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -452,6 +482,7 @@
     },
     {
       "id": "41241453",
+      "priceBookEntryId": "01uOt00000JcAJq",
       "name": "75x75mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -467,6 +498,7 @@
     },
     {
       "id": "41241454",
+      "priceBookEntryId": "01uOt00000JcAJr",
       "name": "150x150mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -482,6 +514,7 @@
     },
     {
       "id": "41241455",
+      "priceBookEntryId": "01uOt00000JcAJs",
       "name": "200x200mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -497,6 +530,7 @@
     },
     {
       "id": "41241456",
+      "priceBookEntryId": "01uOt00000JcAJt",
       "name": "250x250mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -512,6 +546,7 @@
     },
     {
       "id": "41241457",
+      "priceBookEntryId": "01uOt00000JcAJu",
       "name": "400x400mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -527,6 +562,7 @@
     },
     {
       "id": "41241458",
+      "priceBookEntryId": "01uOt00000JcAJv",
       "name": "500x500mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -542,6 +578,7 @@
     },
     {
       "id": "41242955",
+      "priceBookEntryId": "01uOt00000JcAKi",
       "name": "40x40mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -557,6 +594,7 @@
     },
     {
       "id": "41242954",
+      "priceBookEntryId": "01uOt00000JcAKh",
       "name": "60x60mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -572,6 +610,7 @@
     },
     {
       "id": "41245953",
+      "priceBookEntryId": "",
       "name": "75x75mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -587,6 +626,7 @@
     },
     {
       "id": "41242951",
+      "priceBookEntryId": "01uOt00000JcAKe",
       "name": "150x150mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -602,6 +642,7 @@
     },
     {
       "id": "41242898",
+      "priceBookEntryId": "01uOt00000JcAKd",
       "name": "200x200mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -617,6 +658,7 @@
     },
     {
       "id": "41242896",
+      "priceBookEntryId": "01uOt00000JcAKb",
       "name": "250x250mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -632,6 +674,7 @@
     },
     {
       "id": "41242963",
+      "priceBookEntryId": "01uOt00000JcAKp",
       "name": "40x40mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -647,6 +690,7 @@
     },
     {
       "id": "41242962",
+      "priceBookEntryId": "01uOt00000JcAKo",
       "name": "60x60mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -662,6 +706,7 @@
     },
     {
       "id": "41242961",
+      "priceBookEntryId": "01uOt00000JcAKn",
       "name": "75x75mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -677,6 +722,7 @@
     },
     {
       "id": "41242960",
+      "priceBookEntryId": "01uOt00000JcAKm",
       "name": "150x150mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -692,6 +738,7 @@
     },
     {
       "id": "41242959",
+      "priceBookEntryId": "01uOt00000JcAKl",
       "name": "200x200mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -707,6 +754,7 @@
     },
     {
       "id": "41242958",
+      "priceBookEntryId": "01uOt00000JcAKk",
       "name": "400x400mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -722,6 +770,7 @@
     },
     {
       "id": "41242957",
+      "priceBookEntryId": "01uOt00000JcAKj",
       "name": "500x500mm",
       "productLine": "CO2 Configurable",
       "category": "Lenses",
@@ -737,6 +786,7 @@
     },
     {
       "id": "41243756",
+      "priceBookEntryId": "01uOt00000JcALK",
       "name": "60X60 FOR FIBER",
       "productLine": "Fiber Laser, Fiber Film",
       "category": "Lenses",
@@ -752,6 +802,7 @@
     },
     {
       "id": "41243757",
+      "priceBookEntryId": "01uOt00000JcALL",
       "name": "160X160 FOR FIBER",
       "productLine": "Fiber Laser, Fiber Film",
       "category": "Lenses",
@@ -767,6 +818,7 @@
     },
     {
       "id": "41243758",
+      "priceBookEntryId": "01uOt00000JcALM",
       "name": "212X212 FOR FIBER",
       "productLine": "Fiber Laser, Fiber Film",
       "category": "Lenses",
@@ -782,6 +834,7 @@
     },
     {
       "id": "41243759",
+      "priceBookEntryId": "01uOt00000JcALN",
       "name": "242X242 FOR FIBER",
       "productLine": "Fiber Laser, Fiber Film",
       "category": "Lenses",
@@ -797,6 +850,7 @@
     },
     {
       "id": "41243760",
+      "priceBookEntryId": "01uOt00000JcALO",
       "name": "325X325 FOR FIBER",
       "productLine": "Fiber Laser, Fiber Film",
       "category": "Lenses",
@@ -812,6 +866,7 @@
     },
     {
       "id": "41243761",
+      "priceBookEntryId": "01uOt00000JcALP",
       "name": "560X560 FOR FIBER",
       "productLine": "Fiber Laser, Fiber Film",
       "category": "Lenses",
@@ -827,6 +882,7 @@
     },
     {
       "id": "41243752",
+      "priceBookEntryId": "01uOt00000JcALG",
       "name": "NO LENS KIT FOR UV 355nm (Includes Beam Expander + PW)",
       "productLine": "UV Laser",
       "category": "Lenses",
@@ -842,6 +898,7 @@
     },
     {
       "id": "41243753",
+      "priceBookEntryId": "01uOt00000JcALH",
       "name": "65 x 65 mm FOR MPERIA UV",
       "productLine": "UV Laser",
       "category": "Lenses",
@@ -857,6 +914,7 @@
     },
     {
       "id": "41243754",
+      "priceBookEntryId": "01uOt00000JcALI",
       "name": "175 x 175 mm FOR MPERIA UV",
       "productLine": "UV Laser",
       "category": "Lenses",
@@ -872,6 +930,7 @@
     },
     {
       "id": "41243755",
+      "priceBookEntryId": "01uOt00000JcALJ",
       "name": "290 x 290 mm FOR MPERIA UV",
       "productLine": "UV Laser",
       "category": "Lenses",
@@ -887,6 +946,7 @@
     },
     {
       "id": "TSLV3 IP54",
+      "priceBookEntryId": "",
       "name": "Touchscreen TSL-V3 IP54",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
@@ -902,6 +962,7 @@
     },
     {
       "id": "41241432",
+      "priceBookEntryId": "01uOt00000JcAJf",
       "name": "Touchscreen TSL-V3 IP65",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
@@ -917,6 +978,7 @@
     },
     {
       "id": "41243056",
+      "priceBookEntryId": "01uOt00000JcAKr",
       "name": "MLDS Lite Software: Usb Memory Stick W. Software + Dongle Key + Ethernet Cable",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
@@ -932,6 +994,7 @@
     },
     {
       "id": "41243058",
+      "priceBookEntryId": "01uOt00000JcAKs",
       "name": "MLDS Lite Soft. USB",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
@@ -947,6 +1010,7 @@
     },
     {
       "id": "41243059",
+      "priceBookEntryId": "01uOt00000JcAKt",
       "name": "MLDS Full Graphic Interface Package: USB Memory Stick W. Software + USB Dongle Key +Ethernet Cable",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
@@ -962,6 +1026,7 @@
     },
     {
       "id": "41241325",
+      "priceBookEntryId": "01uOt00000JcAJU",
       "name": "MLDS Full Soft. USB",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
@@ -977,6 +1042,7 @@
     },
     {
       "id": "41243140",
+      "priceBookEntryId": "01uOt00000JcAKy",
       "name": "Internal Barcode Generator",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
@@ -992,6 +1058,7 @@
     },
     {
       "id": "41243762",
+      "priceBookEntryId": "01uOt00000JcALQ",
       "name": "OPC-UA License",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
@@ -1007,6 +1074,7 @@
     },
     {
       "id": "41243763",
+      "priceBookEntryId": "01uOt00000JcALR",
       "name": "Profinet License",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
@@ -1022,6 +1090,7 @@
     },
     {
       "id": "41244871",
+      "priceBookEntryId": "01uOt00000LxwvC",
       "name": "Ethernet/Ip License",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "User Interface",
@@ -1037,6 +1106,7 @@
     },
     {
       "id": "41241433",
+      "priceBookEntryId": "01uOt00000JcAJg",
       "name": "Customer Connector I/O Db44-Pin (Configurable Only)",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Peripherals",
@@ -1052,6 +1122,7 @@
     },
     {
       "id": "41241393",
+      "priceBookEntryId": "01uOt00000JcAJZ",
       "name": "Signal Connector I/O 3-Pin M8 (Photocell)",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Peripherals",
@@ -1067,6 +1138,7 @@
     },
     {
       "id": "41241412",
+      "priceBookEntryId": "01uOt00000JcAJe",
       "name": "Signal Connector I/O 8-Pin M12 (Encoder)",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Peripherals",
@@ -1082,6 +1154,7 @@
     },
     {
       "id": "41241434",
+      "priceBookEntryId": "01uOt00000JcAJh",
       "name": "Multiconnector for DB44 (Configurable Only)",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Peripherals",
@@ -1097,6 +1170,7 @@
     },
     {
       "id": "41241435",
+      "priceBookEntryId": "01uOt00000JcAJi",
       "name": "Multiconnector for DB15 (Standard Only)",
       "productLine": "CO2 Standard",
       "category": "Peripherals",
@@ -1112,6 +1186,7 @@
     },
     {
       "id": "41244990",
+      "priceBookEntryId": "",
       "name": "DB15 Connector (Standard Only)",
       "productLine": "CO2 Standard",
       "category": "Peripherals",
@@ -1127,6 +1202,7 @@
     },
     {
       "id": "41244695",
+      "priceBookEntryId": "",
       "name": "DB15 Connector (Standard Only)",
       "productLine": "CO2 Standard",
       "category": "Peripherals",
@@ -1142,6 +1218,7 @@
     },
     {
       "id": "41241395",
+      "priceBookEntryId": "01uOt00000JcAJa",
       "name": "Photocell Kit+ Mount. Bracket (DE/WD, UV And Fiber)",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Peripherals",
@@ -1157,6 +1234,7 @@
     },
     {
       "id": "41241376",
+      "priceBookEntryId": "01uOt00000JcAJV",
       "name": "Photocell Kit+ Mount. Bracket (Only Standard)",
       "productLine": "CO2 Standard",
       "category": "Peripherals",
@@ -1172,6 +1250,7 @@
     },
     {
       "id": "41241294",
+      "priceBookEntryId": "01uOt00000JcAJP",
       "name": "Photocell Reflex Pnp Db9 (Only Standard)",
       "productLine": "CO2 Standard",
       "category": "Peripherals",
@@ -1187,6 +1266,7 @@
     },
     {
       "id": "41241396",
+      "priceBookEntryId": "01uOt00000JcAJb",
       "name": "Shaft Encoder Kit (DE/WD, UV and Fiber)",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Peripherals",
@@ -1202,6 +1282,7 @@
     },
     {
       "id": "41241299",
+      "priceBookEntryId": "01uOt00000JcAJT",
       "name": "Encoder Kit with mount and wheel (Only Standard)",
       "productLine": "CO2 Standard",
       "category": "Peripherals",
@@ -1217,6 +1298,7 @@
     },
     {
       "id": "41241397",
+      "priceBookEntryId": "01uOt00000JcAJc",
       "name": "Beacon Alarm Kit",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Peripherals",
@@ -1232,6 +1314,7 @@
     },
     {
       "id": "41241398",
+      "priceBookEntryId": "01uOt00000JcAJd",
       "name": "Beacon Alarm Kit with Buzzer",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Peripherals",
@@ -1247,6 +1330,7 @@
     },
     {
       "id": "41241392",
+      "priceBookEntryId": "01uOt00000JcAJY",
       "name": "Alarm Kit for iCon & MPERIA Standard",
       "productLine": "CO2 Standard",
       "category": "Peripherals",
@@ -1262,6 +1346,7 @@
     },
     {
       "id": "41241439",
+      "priceBookEntryId": "01uOt00000JcAJm",
       "name": "Diode Pointer",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Safety",
@@ -1277,6 +1362,7 @@
     },
     {
       "id": "41241450",
+      "priceBookEntryId": "01uOt00000JcAJn",
       "name": "Diode Pointer",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Safety",
@@ -1292,6 +1378,7 @@
     },
     {
       "id": "41243831",
+      "priceBookEntryId": "01uOt00000JcALT",
       "name": "Additional Diode Pointer",
       "productLine": "Fiber Laser, Fiber Film, UV Laser",
       "category": "Safety",
@@ -1307,6 +1394,7 @@
     },
     {
       "id": "41243830",
+      "priceBookEntryId": "01uOt00000JcALS",
       "name": "Electrical Mechanical Shutter - Add-on",
       "productLine": "Fiber Laser, Fiber Film",
       "category": "Safety",
@@ -1322,6 +1410,7 @@
     },
     {
       "id": "41243832",
+      "priceBookEntryId": "01uOt00000JcALU",
       "name": "Electrical Mechanical Shutter - Add-on",
       "productLine": "UV Laser",
       "category": "Safety",
@@ -1337,6 +1426,7 @@
     },
     {
       "id": "41241033",
+      "priceBookEntryId": "01uOt00000JcAJK",
       "name": "Electrical Mechanical Shutter - Add-on",
       "productLine": "CO2 Configurable",
       "category": "Safety",
@@ -1352,6 +1442,7 @@
     },
     {
       "id": "41241034",
+      "priceBookEntryId": "01uOt00000JcAJL",
       "name": "Electrical Mechanical Shutter - Add-on",
       "productLine": "CO2 Configurable",
       "category": "Safety",
@@ -1367,6 +1458,7 @@
     },
     {
       "id": "41244888",
+      "priceBookEntryId": "",
       "name": "Performance Level D Safety Kit",
       "productLine": "CO2 Configurable",
       "category": "Safety",
@@ -1382,6 +1474,7 @@
     },
     {
       "id": "41244889",
+      "priceBookEntryId": "",
       "name": "Performance Level D Safety Kit",
       "productLine": "CO2 Configurable",
       "category": "Safety",
@@ -1397,6 +1490,7 @@
     },
     {
       "id": "41244884",
+      "priceBookEntryId": "",
       "name": "Performance Level D Safety Kit",
       "productLine": "Fiber Laser",
       "category": "Safety",
@@ -1412,6 +1506,7 @@
     },
     {
       "id": "41244886",
+      "priceBookEntryId": "",
       "name": "Performance Level D Safety Kit",
       "productLine": "Fiber Laser",
       "category": "Safety",
@@ -1427,6 +1522,7 @@
     },
     {
       "id": "41244885",
+      "priceBookEntryId": "",
       "name": "Performance Level D Safety Kit",
       "productLine": "Fiber Film",
       "category": "Safety",
@@ -1442,6 +1538,7 @@
     },
     {
       "id": "41244882",
+      "priceBookEntryId": "",
       "name": "Performance Level D Safety Kit",
       "productLine": "UV Laser",
       "category": "Safety",
@@ -1457,6 +1554,7 @@
     },
     {
       "id": "41244883",
+      "priceBookEntryId": "",
       "name": "Performance Level D Safety Kit",
       "productLine": "UV Laser",
       "category": "Safety",
@@ -1472,6 +1570,7 @@
     },
     {
       "id": "CO2 Gls",
+      "priceBookEntryId": "",
       "name": "Laser Safety Glasses",
       "productLine": "CO2 Configurable, CO2 Standard",
       "category": "Safety",
@@ -1487,6 +1586,7 @@
     },
     {
       "id": "Fiber Gls",
+      "priceBookEntryId": "",
       "name": "Laser Safety Glasses",
       "productLine": "Fiber Laser, UV Laser, Fiber Film",
       "category": "Safety",
@@ -1502,6 +1602,7 @@
     },
     {
       "id": "41241459",
+      "priceBookEntryId": "01uOt00000JcAJw",
       "name": "40x40 PLEXIGLASS PROTECTION",
       "productLine": "CO2 Configurable, CO2 Standard",
       "category": "Safety",
@@ -1517,6 +1618,7 @@
     },
     {
       "id": "41241470",
+      "priceBookEntryId": "01uOt00000JcAJx",
       "name": "60x60 PLEXIGLASS PROTECTION",
       "productLine": "CO2 Configurable, CO2 Standard",
       "category": "Safety",
@@ -1532,6 +1634,7 @@
     },
     {
       "id": "41241471",
+      "priceBookEntryId": "01uOt00000JcAJy",
       "name": "75x75 PLEXIGLASS PROTECTION",
       "productLine": "CO2 Configurable, CO2 Standard",
       "category": "Safety",
@@ -1547,6 +1650,7 @@
     },
     {
       "id": "41241472",
+      "priceBookEntryId": "01uOt00000JcAJz",
       "name": "100x100 PLEXIGLASS PROTECTION",
       "productLine": "CO2 Configurable, CO2 Standard",
       "category": "Safety",
@@ -1562,6 +1666,7 @@
     },
     {
       "id": "41241295",
+      "priceBookEntryId": "01uOt00000JcAJQ",
       "name": "Basic Support",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Mounting",
@@ -1577,6 +1682,7 @@
     },
     {
       "id": "41241297",
+      "priceBookEntryId": "01uOt00000JcAJR",
       "name": "Stand with One Spindle",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Mounting",
@@ -1592,6 +1698,7 @@
     },
     {
       "id": "41241298",
+      "priceBookEntryId": "01uOt00000JcAJS",
       "name": "Stand with Two Spindles",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Mounting",
@@ -1607,6 +1714,7 @@
     },
     {
       "id": "41241390",
+      "priceBookEntryId": "01uOt00000JcAJW",
       "name": "Touchscreen Support for TSL-V3 (IP54Only)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Mounting",
@@ -1622,6 +1730,7 @@
     },
     {
       "id": "41241391",
+      "priceBookEntryId": "01uOt00000JcAJX",
       "name": "Laser Head Mount Plate",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Mounting",
@@ -1637,6 +1746,7 @@
     },
     {
       "id": "41241038",
+      "priceBookEntryId": "01uOt00000JcAJM",
       "name": "Vortex Cabinet Cooler (Requires Filtered Air)",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1652,6 +1762,7 @@
     },
     {
       "id": "41241039",
+      "priceBookEntryId": "01uOt00000JcAJN",
       "name": "Air Filter Kit",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1667,6 +1778,7 @@
     },
     {
       "id": "41241483",
+      "priceBookEntryId": "01uOt00000JcAK6",
       "name": "AD-200 Cooling Unit",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1682,6 +1794,7 @@
     },
     {
       "id": "41241485",
+      "priceBookEntryId": "01uOt00000JcAK7",
       "name": "AD-200 Cooling Unit",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1697,6 +1810,7 @@
     },
     {
       "id": "41241486",
+      "priceBookEntryId": "01uOt00000JcAK8",
       "name": "AD-350 Cooling Unit",
       "productLine": "CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1712,6 +1826,7 @@
     },
     {
       "id": "41241473",
+      "priceBookEntryId": "01uOt00000JcAK0",
       "name": "AD-Access",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1727,6 +1842,7 @@
     },
     {
       "id": "41015870",
+      "priceBookEntryId": "01uOt00000JcAAZ",
       "name": "AD-Access",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1742,6 +1858,7 @@
     },
     {
       "id": "41016469",
+      "priceBookEntryId": "01uOt00000Jc8aG",
       "name": "HEPA Combined Filter for AD-Access",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1757,6 +1874,7 @@
     },
     {
       "id": "41016467",
+      "priceBookEntryId": "01uOt00000Jc8aF",
       "name": "Pre Filter for AD-Access",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1772,6 +1890,7 @@
     },
     {
       "id": "41039562",
+      "priceBookEntryId": "",
       "name": "AD-PVC iQ",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1787,6 +1906,7 @@
     },
     {
       "id": "41039755",
+      "priceBookEntryId": "01uOt00000JcABI",
       "name": "HEPA Combined filter for PVC iQ",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1802,6 +1922,7 @@
     },
     {
       "id": "41039754",
+      "priceBookEntryId": "01uOt00000JcABH",
       "name": "Pre Filter for PVC iQ",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1817,6 +1938,7 @@
     },
     {
       "id": "41039756",
+      "priceBookEntryId": "01uOt00000JcABJ",
       "name": "Pad Filter for PVC iQ",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1832,6 +1954,7 @@
     },
     {
       "id": "41062565",
+      "priceBookEntryId": "01uOt00000JcACM",
       "name": "AD-Oracle",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1847,6 +1970,7 @@
     },
     {
       "id": "41037961",
+      "priceBookEntryId": "01uOt00000JcAAp",
       "name": "HEPA Combined Filter for AD-Oracle",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1862,6 +1986,7 @@
     },
     {
       "id": "41062568",
+      "priceBookEntryId": "01uOt00000JcACN",
       "name": "Pre Filter for AD-Oracle",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1877,6 +2002,7 @@
     },
     {
       "id": "41057403",
+      "priceBookEntryId": "01uOt00000JcABv",
       "name": "AD-1000 iQ",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1892,6 +2018,7 @@
     },
     {
       "id": "41241703",
+      "priceBookEntryId": "",
       "name": "AD-1000 iQ",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1907,6 +2034,7 @@
     },
     {
       "id": "41057399",
+      "priceBookEntryId": "01uOt00000JcABt",
       "name": "HEPA Combined Filter AD-1000 iQ",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1922,6 +2050,7 @@
     },
     {
       "id": "41057400",
+      "priceBookEntryId": "01uOt00000JcABu",
       "name": "Pre Filter AD-1000 iQ",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1937,6 +2066,7 @@
     },
     {
       "id": "41241526",
+      "priceBookEntryId": "01uOt00000JcAKA",
       "name": "Hose Kit - 50mm (4m with Nozzle Assembly)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1952,6 +2082,7 @@
     },
     {
       "id": "41241527",
+      "priceBookEntryId": "01uOt00000JcAKB",
       "name": "Hose Kit - 50mm - 75mm (4m with Nozzle Assembly)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1967,6 +2098,7 @@
     },
     {
       "id": "41241528",
+      "priceBookEntryId": "01uOt00000JcAKC",
       "name": "Hose Kit - 75 - 100mm (3m 75mm hose, 75-100mm Boot)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1982,6 +2114,7 @@
     },
     {
       "id": "41241529",
+      "priceBookEntryId": "01uOt00000JcAKD",
       "name": "Hose Kit - 100mm (3m)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -1997,6 +2130,7 @@
     },
     {
       "id": "41241610",
+      "priceBookEntryId": "01uOt00000JcAKJ",
       "name": "Hose Kit - 50mm T-Piece (4m 50mm Hose, Nozzle assembly)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -2012,6 +2146,7 @@
     },
     {
       "id": "41241611",
+      "priceBookEntryId": "01uOt00000JcAKK",
       "name": "Hose Kit - 50mm with 50-75mm T Piece (4m 50mm Hose)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -2027,6 +2162,7 @@
     },
     {
       "id": "41241612",
+      "priceBookEntryId": "01uOt00000JcAKL",
       "name": "Hose Kit - 75mm (3m)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -2042,6 +2178,7 @@
     },
     {
       "id": "41241613",
+      "priceBookEntryId": "01uOt00000JcAKM",
       "name": "Hose Kit - 125 -100mm with T-piece",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -2057,6 +2194,7 @@
     },
     {
       "id": "41241614",
+      "priceBookEntryId": "01uOt00000JcAKN",
       "name": "Hose Kit - 1.5m 75mm",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -2072,6 +2210,7 @@
     },
     {
       "id": "41241615",
+      "priceBookEntryId": "01uOt00000JcAKO",
       "name": "Hose Kit - 125mm (2 x 150mm Hose)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -2087,6 +2226,7 @@
     },
     {
       "id": "41241616",
+      "priceBookEntryId": "01uOt00000JcAKP",
       "name": "50mm Nozzle Assembly",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film",
       "category": "Fume Extraction & Cooling",
@@ -2102,6 +2242,7 @@
     },
     {
       "id": "71216721",
+      "priceBookEntryId": "01uOt00000Jc8nd",
       "name": "MPERIA® 8\"",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2117,6 +2258,7 @@
     },
     {
       "id": "41204972",
+      "priceBookEntryId": "01uOt00000Jc8iC",
       "name": "MPERIA® Standard",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2132,6 +2274,7 @@
     },
     {
       "id": "41057666",
+      "priceBookEntryId": "01uOt00000Jc8hc",
       "name": "MPERIA® Standard Enclosed",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2147,6 +2290,7 @@
     },
     {
       "id": "41036089",
+      "priceBookEntryId": "01uOt00000Jc8aP",
       "name": "MPERIA® Harsh Environment (HE)",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2162,6 +2306,7 @@
     },
     {
       "id": "41212763",
+      "priceBookEntryId": "01uOt00000Jc8is",
       "name": "MPERIA® OEM Lite",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2177,6 +2322,7 @@
     },
     {
       "id": "41216022",
+      "priceBookEntryId": "",
       "name": "MPERIA® OEM Standard",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2192,6 +2338,7 @@
     },
     {
       "id": "41216023",
+      "priceBookEntryId": "01uOt00000Jc8iw",
       "name": "MPERIA® OEM Advanced",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2207,6 +2354,7 @@
     },
     {
       "id": "86002292",
+      "priceBookEntryId": "01uOt00000Jc9D5",
       "name": "MPERIA® 8\" Expand",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2222,6 +2370,7 @@
     },
     {
       "id": "86002295",
+      "priceBookEntryId": "01uOt00000Jc9D8",
       "name": "MPERIA® Base",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2237,6 +2386,7 @@
     },
     {
       "id": "86002294",
+      "priceBookEntryId": "01uOt00000Jc9D7",
       "name": "MPERIA® Connect",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2252,6 +2402,7 @@
     },
     {
       "id": "86002042",
+      "priceBookEntryId": "01uOt00000Jc9D3",
       "name": "MPERIA® Portal",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2267,6 +2418,7 @@
     },
     {
       "id": "86002043",
+      "priceBookEntryId": "01uOt00000Jc9D4",
       "name": "MPERIA® Select",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2278,10 +2430,11 @@
       "specs": "",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/License%20Key.png",
       "warning": "",
-      "notes": "License Key to enable line action protocol (Barcode Scanner message selection or simple remote communications)\r\r\r\r\r\n*Price does not include required hardware/barcode scanner."
+      "notes": "License Key to enable line action protocol (Barcode Scanner message selection or simple remote communications)\r\r\r\r\r\r\n*Price does not include required hardware/barcode scanner."
     },
     {
       "id": "86002296",
+      "priceBookEntryId": "01uOt00000Jc9D9",
       "name": "MPERIA® App",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2297,6 +2450,7 @@
     },
     {
       "id": "86003040",
+      "priceBookEntryId": "01uOt00000Jc9DA",
       "name": "MPERIA® netFolder & App License Keys",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2312,6 +2466,7 @@
     },
     {
       "id": "86002041",
+      "priceBookEntryId": "01uOt00000Jc9D2",
       "name": "MPERIA® Standard Expand",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -2327,6 +2482,7 @@
     },
     {
       "id": "41039409",
+      "priceBookEntryId": "01uOt00000Jc8bc",
       "name": "MPERIA® Controller VESA Arm Wall Mount",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Mounting",
@@ -2342,6 +2498,7 @@
     },
     {
       "id": "41039410",
+      "priceBookEntryId": "01uOt00000Jc8bd",
       "name": "MPERIA® 8\" VESA Desk Mount",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Mounting",
@@ -2357,6 +2514,7 @@
     },
     {
       "id": "41038875",
+      "priceBookEntryId": "01uOt00000Jc8bL",
       "name": "MPERIA® Controller VESA Table Top Stand",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Mounting",
@@ -2372,6 +2530,7 @@
     },
     {
       "id": "41235963",
+      "priceBookEntryId": "01uOt00000Jc8jM",
       "name": "MPERIA® 8\" VESA Wall Mount",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Mounting",
@@ -2387,6 +2546,7 @@
     },
     {
       "id": "41039350",
+      "priceBookEntryId": "01uOt00000Jc8bS",
       "name": "Ethernet switch - 5 Port",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
@@ -2402,6 +2562,7 @@
     },
     {
       "id": "41039351",
+      "priceBookEntryId": "01uOt00000Jc8bT",
       "name": "Ethernet switch - 8 Port",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
@@ -2417,6 +2578,7 @@
     },
     {
       "id": "41039352",
+      "priceBookEntryId": "01uOt00000Jc8bU",
       "name": "Ethernet Switch - Power Supply",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
@@ -2432,6 +2594,7 @@
     },
     {
       "id": "41205003",
+      "priceBookEntryId": "01uOt00000Jc8iD",
       "name": "Ethernet Cable - 1 Meter",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
@@ -2447,6 +2610,7 @@
     },
     {
       "id": "41037762",
+      "priceBookEntryId": "01uOt00000Jc8ad",
       "name": "Ethernet Cable - 7'",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
@@ -2462,6 +2626,7 @@
     },
     {
       "id": "41037763",
+      "priceBookEntryId": "01uOt00000Jc8ae",
       "name": "Ethernet Cable - 14'",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
@@ -2477,6 +2642,7 @@
     },
     {
       "id": "41037764",
+      "priceBookEntryId": "01uOt00000Jc8af",
       "name": "Ethernet Cable - 25'",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
@@ -2492,6 +2658,7 @@
     },
     {
       "id": "41037779",
+      "priceBookEntryId": "01uOt00000Jc8ah",
       "name": "Ethernet Cable - 75'",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
@@ -2507,6 +2674,7 @@
     },
     {
       "id": "41039439",
+      "priceBookEntryId": "01uOt00000Jc8be",
       "name": "Ethernet Cable - 100'",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Communication",
@@ -2522,6 +2690,7 @@
     },
     {
       "id": "71229309",
+      "priceBookEntryId": "01uOt00000JcAPG",
       "name": "MPERIA® V-Link Controller Bundle",
       "productLine": "V-Series",
       "category": "Bundle",
@@ -2537,6 +2706,7 @@
     },
     {
       "id": "41044911",
+      "priceBookEntryId": "01uOt00000Jc8fw",
       "name": "V-Link Module",
       "productLine": "V-Series",
       "category": "Communication",
@@ -2552,6 +2722,7 @@
     },
     {
       "id": "41214508",
+      "priceBookEntryId": "01uOt00000Jc8iv",
       "name": "V-Link Module OEM",
       "productLine": "V-Series",
       "category": "Communication",
@@ -2567,6 +2738,7 @@
     },
     {
       "id": "41038252",
+      "priceBookEntryId": "01uOt00000Jc8b9",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2582,6 +2754,7 @@
     },
     {
       "id": "41038253",
+      "priceBookEntryId": "01uOt00000Jc8bA",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2597,6 +2770,7 @@
     },
     {
       "id": "41038254",
+      "priceBookEntryId": "01uOt00000Jc8bB",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2612,6 +2786,7 @@
     },
     {
       "id": "41039621",
+      "priceBookEntryId": "01uOt00000Jc8bw",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2627,6 +2802,7 @@
     },
     {
       "id": "41039611",
+      "priceBookEntryId": "01uOt00000Jc8bp",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2642,6 +2818,7 @@
     },
     {
       "id": "41039630",
+      "priceBookEntryId": "01uOt00000Jc8bz",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2657,6 +2834,7 @@
     },
     {
       "id": "41039612",
+      "priceBookEntryId": "01uOt00000Jc8bq",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2672,6 +2850,7 @@
     },
     {
       "id": "41038249",
+      "priceBookEntryId": "01uOt00000Jc8b6",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2687,6 +2866,7 @@
     },
     {
       "id": "41038250",
+      "priceBookEntryId": "01uOt00000Jc8b7",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2702,6 +2882,7 @@
     },
     {
       "id": "41038251",
+      "priceBookEntryId": "01uOt00000Jc8b8",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2717,6 +2898,7 @@
     },
     {
       "id": "41039620",
+      "priceBookEntryId": "01uOt00000Jc8bv",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2732,6 +2914,7 @@
     },
     {
       "id": "41039608",
+      "priceBookEntryId": "01uOt00000Jc8bn",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2747,6 +2930,7 @@
     },
     {
       "id": "41039609",
+      "priceBookEntryId": "01uOt00000Jc8bo",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2762,6 +2946,7 @@
     },
     {
       "id": "41038246",
+      "priceBookEntryId": "01uOt00000Jc8b3",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2777,6 +2962,7 @@
     },
     {
       "id": "41038247",
+      "priceBookEntryId": "01uOt00000Jc8b4",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2792,6 +2978,7 @@
     },
     {
       "id": "41038248",
+      "priceBookEntryId": "01uOt00000Jc8b5",
       "name": "8000+ Printhead - 32 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2807,6 +2994,7 @@
     },
     {
       "id": "40000604",
+      "priceBookEntryId": "01uOt00000Jc8Sa",
       "name": "Printhead Cable, 32V",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2822,6 +3010,7 @@
     },
     {
       "id": "40000605",
+      "priceBookEntryId": "01uOt00000Jc8Sb",
       "name": "Printhead Cable,32V",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2837,6 +3026,7 @@
     },
     {
       "id": "40000607",
+      "priceBookEntryId": "01uOt00000Jc8Sc",
       "name": "Printhead Cable, 32V",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2852,6 +3042,7 @@
     },
     {
       "id": "40000608",
+      "priceBookEntryId": "01uOt00000Jc8Sd",
       "name": "Printhead Cable, 32V",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2867,6 +3058,7 @@
     },
     {
       "id": "40000207",
+      "priceBookEntryId": "01uOt00000Jc8SL",
       "name": "Printhead Cable 7 or 16V",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2882,6 +3074,7 @@
     },
     {
       "id": "40000208",
+      "priceBookEntryId": "01uOt00000Jc8SM",
       "name": "Printhead Cable 7 or 16V",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2897,6 +3090,7 @@
     },
     {
       "id": "40000209",
+      "priceBookEntryId": "01uOt00000Jc8SN",
       "name": "Printhead Cable 7 or 16V",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2912,6 +3106,7 @@
     },
     {
       "id": "40000211",
+      "priceBookEntryId": "01uOt00000Jc8SO",
       "name": "Printhead Cable 7 or 16V",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2927,6 +3122,7 @@
     },
     {
       "id": "41057909",
+      "priceBookEntryId": "01uOt00000Jc8hh",
       "name": "Fan out cable(s)",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2942,6 +3138,7 @@
     },
     {
       "id": "41038243",
+      "priceBookEntryId": "01uOt00000Jc8b0",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2957,6 +3154,7 @@
     },
     {
       "id": "41038244",
+      "priceBookEntryId": "01uOt00000Jc8b1",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2972,6 +3170,7 @@
     },
     {
       "id": "41038245",
+      "priceBookEntryId": "01uOt00000Jc8b2",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -2987,6 +3186,7 @@
     },
     {
       "id": "41039619",
+      "priceBookEntryId": "01uOt00000Jc8bu",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3002,6 +3202,7 @@
     },
     {
       "id": "41039604",
+      "priceBookEntryId": "01uOt00000Jc8bl",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3017,6 +3218,7 @@
     },
     {
       "id": "41039606",
+      "priceBookEntryId": "01uOt00000Jc8bm",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3032,6 +3234,7 @@
     },
     {
       "id": "41039627",
+      "priceBookEntryId": "01uOt00000Jc8by",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3047,6 +3250,7 @@
     },
     {
       "id": "41038240",
+      "priceBookEntryId": "01uOt00000Jc8ax",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3062,6 +3266,7 @@
     },
     {
       "id": "41038241",
+      "priceBookEntryId": "01uOt00000Jc8ay",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3077,6 +3282,7 @@
     },
     {
       "id": "41038242",
+      "priceBookEntryId": "01uOt00000Jc8az",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3092,6 +3298,7 @@
     },
     {
       "id": "41039618",
+      "priceBookEntryId": "01uOt00000Jc8bt",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3107,6 +3314,7 @@
     },
     {
       "id": "41039601",
+      "priceBookEntryId": "01uOt00000Jc8bj",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3122,6 +3330,7 @@
     },
     {
       "id": "41039602",
+      "priceBookEntryId": "01uOt00000Jc8bk",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3137,6 +3346,7 @@
     },
     {
       "id": "41038237",
+      "priceBookEntryId": "01uOt00000Jc8au",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3152,6 +3362,7 @@
     },
     {
       "id": "41038238",
+      "priceBookEntryId": "01uOt00000Jc8av",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3167,6 +3378,7 @@
     },
     {
       "id": "41038239",
+      "priceBookEntryId": "01uOt00000Jc8aw",
       "name": "8000+ Printhead - 16 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3182,6 +3394,7 @@
     },
     {
       "id": "41038233",
+      "priceBookEntryId": "01uOt00000JcAB6",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3197,6 +3410,7 @@
     },
     {
       "id": "41038235",
+      "priceBookEntryId": "01uOt00000Jc8as",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3212,6 +3426,7 @@
     },
     {
       "id": "41038236",
+      "priceBookEntryId": "01uOt00000Jc8at",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3227,6 +3442,7 @@
     },
     {
       "id": "41039617",
+      "priceBookEntryId": "01uOt00000Jc8bs",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3242,6 +3458,7 @@
     },
     {
       "id": "41039598",
+      "priceBookEntryId": "01uOt00000Jc8bh",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3257,6 +3474,7 @@
     },
     {
       "id": "41039599",
+      "priceBookEntryId": "01uOt00000Jc8bi",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3272,6 +3490,7 @@
     },
     {
       "id": "41039622",
+      "priceBookEntryId": "01uOt00000Jc8bx",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3287,6 +3506,7 @@
     },
     {
       "id": "41038230",
+      "priceBookEntryId": "01uOt00000Jc8ap",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3302,6 +3522,7 @@
     },
     {
       "id": "41038231",
+      "priceBookEntryId": "01uOt00000Jc8aq",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3317,6 +3538,7 @@
     },
     {
       "id": "41038232",
+      "priceBookEntryId": "01uOt00000Jc8ar",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3332,6 +3554,7 @@
     },
     {
       "id": "41039614",
+      "priceBookEntryId": "01uOt00000Jc8br",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3347,6 +3570,7 @@
     },
     {
       "id": "41039595",
+      "priceBookEntryId": "01uOt00000Jc8bg",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3362,6 +3586,7 @@
     },
     {
       "id": "41038227",
+      "priceBookEntryId": "01uOt00000JcAB4",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3377,6 +3602,7 @@
     },
     {
       "id": "41038228",
+      "priceBookEntryId": "01uOt00000JcAB5",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3392,6 +3618,7 @@
     },
     {
       "id": "41038229",
+      "priceBookEntryId": "01uOt00000Jc8ao",
       "name": "8000+ Printhead - 7 Valve",
       "productLine": "V-Series",
       "category": "Printhead",
@@ -3407,6 +3634,7 @@
     },
     {
       "id": "40000595",
+      "priceBookEntryId": "01uOt00000Jc8SV",
       "name": "HP Ink and Cleaner Module",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3422,6 +3650,7 @@
     },
     {
       "id": "41010064",
+      "priceBookEntryId": "01uOt00000Jc8Xv",
       "name": "HP ISU Advanced",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3437,6 +3666,7 @@
     },
     {
       "id": "41015733",
+      "priceBookEntryId": "01uOt00000Jc8aD",
       "name": "HP ISU Advanced",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3452,6 +3682,7 @@
     },
     {
       "id": "40000301",
+      "priceBookEntryId": "01uOt00000Jc8SQ",
       "name": "Standard Connection Kit",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3467,6 +3698,7 @@
     },
     {
       "id": "40000302",
+      "priceBookEntryId": "01uOt00000Jc8SR",
       "name": "Standard Connection Kit",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3482,6 +3714,7 @@
     },
     {
       "id": "41002272",
+      "priceBookEntryId": "01uOt00000JcA6d",
       "name": "Low level ink warning kit for HP ink/cleaner module",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3497,6 +3730,7 @@
     },
     {
       "id": "41003888",
+      "priceBookEntryId": "01uOt00000Jc8WP",
       "name": "Ink Pressure Gauge",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3512,6 +3746,7 @@
     },
     {
       "id": "41010290",
+      "priceBookEntryId": "01uOt00000Jc8W4",
       "name": "Flash Lamp",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3527,6 +3762,7 @@
     },
     {
       "id": "41206373",
+      "priceBookEntryId": "01uOt00000Jc8iV",
       "name": "HP ISU Pickup Tube",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3542,6 +3778,7 @@
     },
     {
       "id": "41009525",
+      "priceBookEntryId": "01uOt00000Jc8XR",
       "name": "Spare 8 micron filter",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3557,6 +3794,7 @@
     },
     {
       "id": "40000512",
+      "priceBookEntryId": "01uOt00000Jc8SU",
       "name": "Large Capacity Ink Systems (LCIS)",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3572,6 +3810,7 @@
     },
     {
       "id": "40000062",
+      "priceBookEntryId": "01uOt00000JcA5U",
       "name": "Pick up tube assy for 5 gal. for metal pale",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3587,6 +3826,7 @@
     },
     {
       "id": "40000066",
+      "priceBookEntryId": "01uOt00000JcA5X",
       "name": "Pick up tube assy for 5 gal. for plastic pale (Legacy)",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3602,6 +3842,7 @@
     },
     {
       "id": "40000065",
+      "priceBookEntryId": "01uOt00000Jc8SC",
       "name": "Pick up tube assy 5 gal. with threaded cap",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3617,6 +3858,7 @@
     },
     {
       "id": "40000064",
+      "priceBookEntryId": "01uOt00000JcA5W",
       "name": "Pick up tube assy 4 liter",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3632,6 +3874,7 @@
     },
     {
       "id": "40000063",
+      "priceBookEntryId": "01uOt00000JcA5V",
       "name": "Pick up tube assy 55 gal.",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3647,6 +3890,7 @@
     },
     {
       "id": "41038955",
+      "priceBookEntryId": "01uOt00000JcABD",
       "name": "Pick up tube assy for 55 gallon drum",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3662,6 +3906,7 @@
     },
     {
       "id": "41005495",
+      "priceBookEntryId": "01uOt00000JcA7Y",
       "name": "Pick up tube assy for 55 gallon drum",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3677,6 +3922,7 @@
     },
     {
       "id": "41005496",
+      "priceBookEntryId": "01uOt00000JcA7Z",
       "name": "Pick up tube assy for 55 gallon drum",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3692,6 +3938,7 @@
     },
     {
       "id": "40000058",
+      "priceBookEntryId": "01uOt00000JcA5T",
       "name": "Eliminizer",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3707,6 +3954,7 @@
     },
     {
       "id": "41003811",
+      "priceBookEntryId": "01uOt00000JcA77",
       "name": "Filter, 8micron, output",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3722,6 +3970,7 @@
     },
     {
       "id": "71237325",
+      "priceBookEntryId": "01uOt00000LxwvG",
       "name": "FlowJet Main Assembly",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3737,6 +3986,7 @@
     },
     {
       "id": "40000164",
+      "priceBookEntryId": "01uOt00000Jc8SF",
       "name": "FlowJet Connection Kit",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3752,6 +4002,7 @@
     },
     {
       "id": "40000165",
+      "priceBookEntryId": "01uOt00000Jc8SG",
       "name": "FlowJet Connection Kit",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3767,6 +4018,7 @@
     },
     {
       "id": "41007682",
+      "priceBookEntryId": "01uOt00000Jc8Wp",
       "name": "Pigmented Cleaner/Bypass Selector Kit",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3782,6 +4034,7 @@
     },
     {
       "id": "41015221",
+      "priceBookEntryId": "01uOt00000Jc8aA",
       "name": "Bev-a-line Tubing  (sold by ft.)",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3797,6 +4050,7 @@
     },
     {
       "id": "41006634",
+      "priceBookEntryId": "01uOt00000Jc8Wj",
       "name": "Ink pick up tube assembly with inline filter",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3812,6 +4066,7 @@
     },
     {
       "id": "41004575",
+      "priceBookEntryId": "01uOt00000JcA7O",
       "name": "Warning Light Assembly Blue/Yellow",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3827,6 +4082,7 @@
     },
     {
       "id": "41002621",
+      "priceBookEntryId": "01uOt00000Jc8WH",
       "name": "Cleaner Pick tube assembly",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -3842,6 +4098,7 @@
     },
     {
       "id": "41037143",
+      "priceBookEntryId": "01uOt00000Jc8aT",
       "name": "Encoder, 5000 PPR",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -3857,6 +4114,7 @@
     },
     {
       "id": "41060169",
+      "priceBookEntryId": "01uOt00000Jc8hm",
       "name": "Encoder, 5000 PPR",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -3872,6 +4130,7 @@
     },
     {
       "id": "41036087",
+      "priceBookEntryId": "01uOt00000Jc8aO",
       "name": "Encoder, heavy duty, 5000 PPR",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -3887,6 +4146,7 @@
     },
     {
       "id": "40000600",
+      "priceBookEntryId": "01uOt00000Jc8SY",
       "name": "Spring loaded holder for heavy duty encoder",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -3902,6 +4162,7 @@
     },
     {
       "id": "40000598",
+      "priceBookEntryId": "01uOt00000Jc8SW",
       "name": "Wheel for 41036087 heavy duty encoder",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -3917,6 +4178,7 @@
     },
     {
       "id": "40000599",
+      "priceBookEntryId": "01uOt00000Jc8SX",
       "name": "Encoder Wheel - 0.5m",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -3932,6 +4194,7 @@
     },
     {
       "id": "41012623",
+      "priceBookEntryId": "01uOt00000Jc8a1",
       "name": "Encoder Wheel - 0.2m",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -3947,6 +4210,7 @@
     },
     {
       "id": "40000601",
+      "priceBookEntryId": "01uOt00000Jc8SZ",
       "name": "Bearing Box",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -3962,6 +4226,7 @@
     },
     {
       "id": "41009096",
+      "priceBookEntryId": "01uOt00000Jc8XI",
       "name": "Flexible Coupling",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -3977,6 +4242,7 @@
     },
     {
       "id": "41227506",
+      "priceBookEntryId": "01uOt00000JcAIV",
       "name": "SPEED ENCODER 10k PPR",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -3992,6 +4258,7 @@
     },
     {
       "id": "41058274",
+      "priceBookEntryId": "01uOt00000JcAC3",
       "name": "Rocker style start print trigger switch assy with 10\" cable",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4007,6 +4274,7 @@
     },
     {
       "id": "41037759",
+      "priceBookEntryId": "01uOt00000Jc8ac",
       "name": "Red Beam Photocell with Mounting Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4022,6 +4290,7 @@
     },
     {
       "id": "41036086",
+      "priceBookEntryId": "01uOt00000Jc8aN",
       "name": "Red Beam Photocell without Mounting Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4037,6 +4306,7 @@
     },
     {
       "id": "41205507",
+      "priceBookEntryId": "01uOt00000Jc8iH",
       "name": "Red Beam Photocell without Mounting Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4052,6 +4322,7 @@
     },
     {
       "id": "41038917",
+      "priceBookEntryId": "01uOt00000Jc9CR",
       "name": "Diffused Photocell for Floor Mount Stand",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4067,6 +4338,7 @@
     },
     {
       "id": "41060425",
+      "priceBookEntryId": "01uOt00000Jc8hn",
       "name": "Polarized Retro Reflective Photocell",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4082,6 +4354,7 @@
     },
     {
       "id": "41001407",
+      "priceBookEntryId": "01uOt00000Jc8Sh",
       "name": "Photocell Mounting Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4097,6 +4370,7 @@
     },
     {
       "id": "41227044",
+      "priceBookEntryId": "01uOt00000Jc9Co",
       "name": "Photocell Reflector Mounting Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4112,6 +4386,7 @@
     },
     {
       "id": "41062892",
+      "priceBookEntryId": "01uOt00000Jc8i3",
       "name": "Red Label Sensor",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4127,6 +4402,7 @@
     },
     {
       "id": "41063007",
+      "priceBookEntryId": "01uOt00000Jc8i4",
       "name": "Label Sensor Cable",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4142,6 +4418,7 @@
     },
     {
       "id": "40000163",
+      "priceBookEntryId": "01uOt00000Jc9CG",
       "name": "Through beam photocell - Fiber Optic",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4157,6 +4434,7 @@
     },
     {
       "id": "41212442",
+      "priceBookEntryId": "01uOt00000JcADs",
       "name": "Diffused Fiber Photocell",
       "productLine": "V-Series, L-Series, T-Series, A-Series",
       "category": "Peripherals",
@@ -4172,6 +4450,7 @@
     },
     {
       "id": "41037755",
+      "priceBookEntryId": "01uOt00000Jc8aa",
       "name": "Fanout Cable",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -4187,6 +4466,7 @@
     },
     {
       "id": "41205533",
+      "priceBookEntryId": "01uOt00000Jc8iP",
       "name": "Fanout Cable",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -4202,6 +4482,7 @@
     },
     {
       "id": "41205509",
+      "priceBookEntryId": "01uOt00000Jc8iI",
       "name": "Fanout Cable",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -4217,6 +4498,7 @@
     },
     {
       "id": "41057905",
+      "priceBookEntryId": "01uOt00000Jc8hd",
       "name": "Extension",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -4232,6 +4514,7 @@
     },
     {
       "id": "41057906",
+      "priceBookEntryId": "01uOt00000Jc8he",
       "name": "Extension",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -4247,6 +4530,7 @@
     },
     {
       "id": "41057907",
+      "priceBookEntryId": "01uOt00000Jc8hf",
       "name": "Extension",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -4262,6 +4546,7 @@
     },
     {
       "id": "41057908",
+      "priceBookEntryId": "01uOt00000Jc8hg",
       "name": "Extension",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -4277,6 +4562,7 @@
     },
     {
       "id": "41043546",
+      "priceBookEntryId": "01uOt00000Jc8fi",
       "name": "Auxilliary Cable",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -4292,6 +4578,7 @@
     },
     {
       "id": "41043547",
+      "priceBookEntryId": "01uOt00000Jc8fj",
       "name": "Auxilliary Cable",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -4307,6 +4594,7 @@
     },
     {
       "id": "41043548",
+      "priceBookEntryId": "01uOt00000Jc8fk",
       "name": "Auxilliary Cable",
       "productLine": "V-Series, L-Series, T-Series",
       "category": "Peripherals",
@@ -4322,6 +4610,7 @@
     },
     {
       "id": "41037070",
+      "priceBookEntryId": "01uOt00000Jc8aS",
       "name": "Hand Scanner RS232",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
@@ -4337,6 +4626,7 @@
     },
     {
       "id": "41037708",
+      "priceBookEntryId": "01uOt00000Jc8aY",
       "name": "Power Supply for Hand Scanner",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
@@ -4352,6 +4642,7 @@
     },
     {
       "id": "41037709",
+      "priceBookEntryId": "01uOt00000Jc8aZ",
       "name": "Cable RJ45-DB9",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
@@ -4367,6 +4658,7 @@
     },
     {
       "id": "41224438",
+      "priceBookEntryId": "01uOt00000Jc8jG",
       "name": "USB Bar Code Scanner Kit",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
@@ -4382,6 +4674,7 @@
     },
     {
       "id": "41224440",
+      "priceBookEntryId": "01uOt00000Jc8jH",
       "name": "USB Bar Code Scanner",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
@@ -4397,6 +4690,7 @@
     },
     {
       "id": "41223427",
+      "priceBookEntryId": "01uOt00000JcAHW",
       "name": "Mount for USB Bar Code Scanner",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
@@ -4412,6 +4706,7 @@
     },
     {
       "id": "41037756",
+      "priceBookEntryId": "01uOt00000Jc8ab",
       "name": "Warning Light",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
@@ -4427,6 +4722,7 @@
     },
     {
       "id": "41043852",
+      "priceBookEntryId": "01uOt00000Jc8fn",
       "name": "Warning Light Bracket",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Peripherals",
@@ -4442,6 +4738,7 @@
     },
     {
       "id": "41001476",
+      "priceBookEntryId": "01uOt00000Jc8Sn",
       "name": "Spare 8000+ Printhead mounting clamp",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4457,6 +4754,7 @@
     },
     {
       "id": "41002753",
+      "priceBookEntryId": "01uOt00000JcA6l",
       "name": "8000+ Print Head Mounting Post and Block Assy",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4472,6 +4770,7 @@
     },
     {
       "id": "40000409",
+      "priceBookEntryId": "01uOt00000JcA5m",
       "name": "Conveyor Printhead Mount Assembly",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4487,6 +4786,7 @@
     },
     {
       "id": "41004828",
+      "priceBookEntryId": "01uOt00000JcA7R",
       "name": "Free Standing Printhead Mount Assembly",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4502,6 +4802,7 @@
     },
     {
       "id": "40000410",
+      "priceBookEntryId": "01uOt00000JcA5n",
       "name": "Free Standing Printhead Mount Assembly Kit",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4517,6 +4818,7 @@
     },
     {
       "id": "41057445",
+      "priceBookEntryId": "01uOt00000Jc8ha",
       "name": "V-Link Mount Kit",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4532,6 +4834,7 @@
     },
     {
       "id": "41038689",
+      "priceBookEntryId": "01uOt00000Jc8bG",
       "name": "40mm VESA Adapter",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4547,6 +4850,7 @@
     },
     {
       "id": "41004831",
+      "priceBookEntryId": "01uOt00000JcA7S",
       "name": "Horizontal Printhead Mount Assembly",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4562,6 +4866,7 @@
     },
     {
       "id": "41004832",
+      "priceBookEntryId": "01uOt00000JcA7T",
       "name": "Vertical Printhead Mount Assembly",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4577,6 +4882,7 @@
     },
     {
       "id": "41005194",
+      "priceBookEntryId": "01uOt00000JcA7U",
       "name": "Mounting Plate for ISU",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4592,6 +4898,7 @@
     },
     {
       "id": "41009905",
+      "priceBookEntryId": "01uOt00000JcA9A",
       "name": "Quick Release Handle",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4607,6 +4914,7 @@
     },
     {
       "id": "41008678",
+      "priceBookEntryId": "01uOt00000JcA8J",
       "name": "Base Clamp",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4622,6 +4930,7 @@
     },
     {
       "id": "41008679",
+      "priceBookEntryId": "01uOt00000JcA8K",
       "name": "Flange Clamp",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4637,6 +4946,7 @@
     },
     {
       "id": "41003329",
+      "priceBookEntryId": "01uOt00000JcA71",
       "name": "Adjustable Printhead Bracket",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4652,6 +4962,7 @@
     },
     {
       "id": "41006076",
+      "priceBookEntryId": "01uOt00000JcA7l",
       "name": "Split Sleeve 42.5 x 25mm",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4667,6 +4978,7 @@
     },
     {
       "id": "41008681",
+      "priceBookEntryId": "01uOt00000JcA8M",
       "name": "Sleeve Clamp",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4682,6 +4994,7 @@
     },
     {
       "id": "41008698",
+      "priceBookEntryId": "01uOt00000JcA8N",
       "name": "Cross Clamp",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4697,6 +5010,7 @@
     },
     {
       "id": "41012418",
+      "priceBookEntryId": "01uOt00000JcAA9",
       "name": "12\" Long Pole",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4712,6 +5026,7 @@
     },
     {
       "id": "41012419",
+      "priceBookEntryId": "01uOt00000JcAAA",
       "name": "15\" Long Pole",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4727,6 +5042,7 @@
     },
     {
       "id": "41012427",
+      "priceBookEntryId": "01uOt00000JcAAG",
       "name": "17.5\" Long Pole",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4742,6 +5058,7 @@
     },
     {
       "id": "41012420",
+      "priceBookEntryId": "01uOt00000JcAAB",
       "name": "18\" Long Pole",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4757,6 +5074,7 @@
     },
     {
       "id": "41012425",
+      "priceBookEntryId": "01uOt00000JcAAE",
       "name": "18.8\" Long Pole",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4772,6 +5090,7 @@
     },
     {
       "id": "41012416",
+      "priceBookEntryId": "01uOt00000JcAA7",
       "name": "20\" Long Pole",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4787,6 +5106,7 @@
     },
     {
       "id": "41012430",
+      "priceBookEntryId": "01uOt00000JcAAH",
       "name": "24\" Long Pole",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4802,6 +5122,7 @@
     },
     {
       "id": "41012426",
+      "priceBookEntryId": "01uOt00000JcAAF",
       "name": "40\" Long Pole",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4817,6 +5138,7 @@
     },
     {
       "id": "41012421",
+      "priceBookEntryId": "01uOt00000JcAAC",
       "name": "48\" Long Pole",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4832,6 +5154,7 @@
     },
     {
       "id": "41012422",
+      "priceBookEntryId": "01uOt00000JcAAD",
       "name": "70\" Long Pole",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4847,6 +5170,7 @@
     },
     {
       "id": "41006172",
+      "priceBookEntryId": "01uOt00000JcA7m",
       "name": "Basic Stand Assembly with Adjustment",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4862,6 +5186,7 @@
     },
     {
       "id": "41002692",
+      "priceBookEntryId": "01uOt00000JcA6k",
       "name": "Extra Ink Module Bracket",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4877,6 +5202,7 @@
     },
     {
       "id": "41002329",
+      "priceBookEntryId": "01uOt00000JcA6g",
       "name": "Additional Horizontal Arm Assembly",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4892,6 +5218,7 @@
     },
     {
       "id": "41006181",
+      "priceBookEntryId": "01uOt00000JcA7n",
       "name": "H Base Stand Assembly",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4907,6 +5234,7 @@
     },
     {
       "id": "41008648",
+      "priceBookEntryId": "01uOt00000JcA8I",
       "name": "FLANGE MOUNT CASTER 4\"  (4 required, price is per caster)",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4922,6 +5250,7 @@
     },
     {
       "id": "41062215",
+      "priceBookEntryId": "01uOt00000JcACJ",
       "name": "Configurable System Stand",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4937,6 +5266,7 @@
     },
     {
       "id": "41062216",
+      "priceBookEntryId": "01uOt00000JcACK",
       "name": "Bracket for MPERIA® Enclosed",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4952,6 +5282,7 @@
     },
     {
       "id": "41062691",
+      "priceBookEntryId": "01uOt00000JcACO",
       "name": "Wheel Kit for Configurable Stand",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4967,6 +5298,7 @@
     },
     {
       "id": "41008680",
+      "priceBookEntryId": "01uOt00000JcA8L",
       "name": "CLAMP,HINGE,40MM x 42.5MM POSTS",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4982,6 +5314,7 @@
     },
     {
       "id": "41008717",
+      "priceBookEntryId": "01uOt00000JcA8Q",
       "name": "CLAMP,MOUNTING,40MM",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -4997,6 +5330,7 @@
     },
     {
       "id": "41008703",
+      "priceBookEntryId": "01uOt00000JcA8P",
       "name": "CLAMP,HINGE,RIGHTHAND,30MM",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -5012,6 +5346,7 @@
     },
     {
       "id": "41217560",
+      "priceBookEntryId": "",
       "name": "",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -5027,6 +5362,7 @@
     },
     {
       "id": "41008700",
+      "priceBookEntryId": "01uOt00000JcA8O",
       "name": "CLAMP,CROSS,EXB,40MM X 30MM",
       "productLine": "V-Series",
       "category": "Mounting",
@@ -5042,11 +5378,12 @@
     },
     {
       "id": "41008269",
+      "priceBookEntryId": "01uOt00000JcA83",
       "name": "",
-      "productLine": "",
-      "category": "",
-      "subCategory": "",
-      "subCategory2": "",
+      "productLine": "V-Series",
+      "category": "Mounting",
+      "subCategory": "40mm Tubular",
+      "subCategory2": "Brackets",
       "price": "",
       "leadTime": "",
       "bomOrder": "",
@@ -5057,6 +5394,7 @@
     },
     {
       "id": "41058233",
+      "priceBookEntryId": "01uOt00000Jc8hk",
       "name": "SX32e Photocell Adapter Cable",
       "productLine": "V-Series",
       "category": "Peripherals",
@@ -5072,6 +5410,7 @@
     },
     {
       "id": "41217861",
+      "priceBookEntryId": "01uOt00000Jc8iy",
       "name": "SX32 to VX32 Encoder Adapter Cable",
       "productLine": "V-Series",
       "category": "Peripherals",
@@ -5087,6 +5426,7 @@
     },
     {
       "id": "41045056",
+      "priceBookEntryId": "01uOt00000JcABr",
       "name": "V84e/V84i/SX32e to MPERIA® Adapter Cable",
       "productLine": "V-Series",
       "category": "Peripherals",
@@ -5102,6 +5442,7 @@
     },
     {
       "id": "41058278",
+      "priceBookEntryId": "01uOt00000Jc8hl",
       "name": "8400 to MPERIA® Adapter Cable",
       "productLine": "V-Series",
       "category": "Peripherals",
@@ -5117,6 +5458,7 @@
     },
     {
       "id": "41008853",
+      "priceBookEntryId": "01uOt00000Jc9CH",
       "name": "Male Inline Coupling",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -5132,6 +5474,7 @@
     },
     {
       "id": "41008852",
+      "priceBookEntryId": "01uOt00000Jc8X9",
       "name": "Female Inline Coupling  (w/o filter)",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -5147,6 +5490,7 @@
     },
     {
       "id": "41009640",
+      "priceBookEntryId": "01uOt00000Jc8Xe",
       "name": "Female Inline Coupling  (w/ filter)",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -5162,6 +5506,7 @@
     },
     {
       "id": "41012539",
+      "priceBookEntryId": "01uOt00000Jc8Zx",
       "name": "Flush Valve",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -5177,6 +5522,7 @@
     },
     {
       "id": "41008759",
+      "priceBookEntryId": "01uOt00000Jc8X2",
       "name": "Valve Clip",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -5192,6 +5538,7 @@
     },
     {
       "id": "41009570",
+      "priceBookEntryId": "01uOt00000Jc8XX",
       "name": "Y Fitting",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -5207,6 +5554,7 @@
     },
     {
       "id": "11000650",
+      "priceBookEntryId": "01uOt00000Jc8Rd",
       "name": "CONTAINER, BOTTLE, 4 LITER/1 GAL",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -5222,6 +5570,7 @@
     },
     {
       "id": "11000646",
+      "priceBookEntryId": "01uOt00000Jc8Rb",
       "name": "CONTAINER, BOTTLE, 1 LITER, WIDE MOUTH",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -5237,6 +5586,7 @@
     },
     {
       "id": "41212321",
+      "priceBookEntryId": "01uOt00000Jc8in",
       "name": "T-50E 2\" | Black",
       "productLine": "T-Series",
       "category": "Printheads",
@@ -5252,6 +5602,7 @@
     },
     {
       "id": "41212310",
+      "priceBookEntryId": "01uOt00000Jc8im",
       "name": "T-100E 4\" | Black",
       "productLine": "T-Series",
       "category": "Printheads",
@@ -5267,6 +5618,7 @@
     },
     {
       "id": "41212444",
+      "priceBookEntryId": "01uOt00000Jc8io",
       "name": "T-100E 4\" | Red",
       "productLine": "T-Series",
       "category": "Printheads",
@@ -5282,6 +5634,7 @@
     },
     {
       "id": "41212653",
+      "priceBookEntryId": "01uOt00000Jc8ir",
       "name": "T-100SE 4\" | Black",
       "productLine": "T-Series",
       "category": "Printheads",
@@ -5297,6 +5650,7 @@
     },
     {
       "id": "71201977",
+      "priceBookEntryId": "01uOt00000Jc8n4",
       "name": "T-100 4\" | Black",
       "productLine": "T-Series",
       "category": "Printheads",
@@ -5312,6 +5666,7 @@
     },
     {
       "id": "71201979",
+      "priceBookEntryId": "01uOt00000Jc9Ct",
       "name": "T-100 4\" | Red",
       "productLine": "T-Series",
       "category": "Printheads",
@@ -5327,6 +5682,7 @@
     },
     {
       "id": "71201980",
+      "priceBookEntryId": "01uOt00000Jc8n6",
       "name": "T-100 4\" | Green",
       "productLine": "T-Series",
       "category": "Printheads",
@@ -5342,6 +5698,7 @@
     },
     {
       "id": "71201978",
+      "priceBookEntryId": "01uOt00000Jc8n5",
       "name": "T-100 4\" | Blue",
       "productLine": "T-Series",
       "category": "Printheads",
@@ -5357,6 +5714,7 @@
     },
     {
       "id": "41211045",
+      "priceBookEntryId": "01uOt00000Jc8ih",
       "name": "T-100S 4\" | Black",
       "productLine": "T-Series",
       "category": "Printheads",
@@ -5372,6 +5730,7 @@
     },
     {
       "id": "41036499",
+      "priceBookEntryId": "01uOt00000Jc8aQ",
       "name": "Power Supply",
       "productLine": "T-Series",
       "category": "Printheads",
@@ -5387,6 +5746,7 @@
     },
     {
       "id": "41038777",
+      "priceBookEntryId": "01uOt00000Jc8bI",
       "name": "Power and Communications Pack",
       "productLine": "T-Series, L-Series",
       "category": "Communication",
@@ -5402,6 +5762,7 @@
     },
     {
       "id": "41038778",
+      "priceBookEntryId": "01uOt00000Jc8bJ",
       "name": "Power and Communications Pack",
       "productLine": "T-Series, L-Series",
       "category": "Communication",
@@ -5417,6 +5778,7 @@
     },
     {
       "id": "41039169",
+      "priceBookEntryId": "01uOt00000Jc9CS",
       "name": "DB9 Printhead Power Cable",
       "productLine": "T-Series",
       "category": "Communication",
@@ -5432,6 +5794,7 @@
     },
     {
       "id": "41036601",
+      "priceBookEntryId": "01uOt00000Jc9CJ",
       "name": "DB9 Printhead Power Cable",
       "productLine": "T-Series",
       "category": "Communication",
@@ -5447,6 +5810,7 @@
     },
     {
       "id": "41038734",
+      "priceBookEntryId": "01uOt00000Jc9CP",
       "name": "Heavy Duty Floor Mount Stand",
       "productLine": "T-Series",
       "category": "Mounting",
@@ -5462,6 +5826,7 @@
     },
     {
       "id": "41038731",
+      "priceBookEntryId": "01uOt00000Jc9CN",
       "name": "Printhead Bracket - Left",
       "productLine": "T-Series",
       "category": "Mounting",
@@ -5477,6 +5842,7 @@
     },
     {
       "id": "41038732",
+      "priceBookEntryId": "01uOt00000Jc9CO",
       "name": "Printhead Bracket - Right",
       "productLine": "T-Series",
       "category": "Mounting",
@@ -5492,6 +5858,7 @@
     },
     {
       "id": "41038715",
+      "priceBookEntryId": "01uOt00000Jc9CM",
       "name": "Printhead Cage Assembly",
       "productLine": "T-Series",
       "category": "Mounting",
@@ -5507,6 +5874,7 @@
     },
     {
       "id": "41038475",
+      "priceBookEntryId": "01uOt00000Jc9CL",
       "name": "Casters Kit",
       "productLine": "T-Series",
       "category": "Mounting",
@@ -5522,6 +5890,7 @@
     },
     {
       "id": "41038456",
+      "priceBookEntryId": "01uOt00000Jc9CK",
       "name": "MPERIA® Vesa Mount Bracket",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "Mounting",
@@ -5537,6 +5906,7 @@
     },
     {
       "id": "41038867",
+      "priceBookEntryId": "01uOt00000Jc9CQ",
       "name": "Conveyor Mount for Controller",
       "productLine": "T-Series",
       "category": "Mounting",
@@ -5552,6 +5922,7 @@
     },
     {
       "id": "41038863",
+      "priceBookEntryId": "01uOt00000Jc8bK",
       "name": "Conveyor Mount for Printhead",
       "productLine": "T-Series",
       "category": "Mounting",
@@ -5567,6 +5938,7 @@
     },
     {
       "id": "41042856",
+      "priceBookEntryId": "01uOt00000Jc8c7",
       "name": "Nozzle Sealing Clip - T-50",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5582,6 +5954,7 @@
     },
     {
       "id": "41042857",
+      "priceBookEntryId": "01uOt00000Jc8c8",
       "name": "Nozzle Sealing Clip - T-100",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5597,6 +5970,7 @@
     },
     {
       "id": "11203487",
+      "priceBookEntryId": "01uOt00000JcA5G",
       "name": "Nozzle Sealing Clip Gasket - T-100",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5612,6 +5986,7 @@
     },
     {
       "id": "11203515",
+      "priceBookEntryId": "01uOt00000JcA5H",
       "name": "Nozzle Sealing Clip Gasket - T-50",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5627,6 +6002,7 @@
     },
     {
       "id": "41042820",
+      "priceBookEntryId": "01uOt00000Jc8c6",
       "name": "Nozzle Sealing Clip Storage",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5642,6 +6018,7 @@
     },
     {
       "id": "41015220",
+      "priceBookEntryId": "01uOt00000Jc8a9",
       "name": "Ink Reservoir O-Ring Gasket",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5657,6 +6034,7 @@
     },
     {
       "id": "11202909",
+      "priceBookEntryId": "01uOt00000Jc8Rg",
       "name": "Ink Reservoir Locking Lid",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5672,6 +6050,7 @@
     },
     {
       "id": "41060929",
+      "priceBookEntryId": "01uOt00000Jc8hs",
       "name": "Ink Reservoir Vent",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5687,6 +6066,7 @@
     },
     {
       "id": "11202892",
+      "priceBookEntryId": "01uOt00000Jc9CE",
       "name": "Ink Reservoir Vent Converter",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5702,6 +6082,7 @@
     },
     {
       "id": "81001350",
+      "priceBookEntryId": "01uOt00000Jc9D0",
       "name": "Large Gloves",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian, CT1000",
       "category": "Parts",
@@ -5717,6 +6098,7 @@
     },
     {
       "id": "81001351",
+      "priceBookEntryId": "01uOt00000Jc9D1",
       "name": "Extra Large Gloves",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian, CT1000",
       "category": "Parts",
@@ -5732,6 +6114,7 @@
     },
     {
       "id": "41205822",
+      "priceBookEntryId": "01uOt00000JcAD4",
       "name": "Packaging Crate",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5747,6 +6130,7 @@
     },
     {
       "id": "71231765",
+      "priceBookEntryId": "01uOt00000Jc8nq",
       "name": "AccuScan II Ink - Black",
       "productLine": "T-Series",
       "category": "Ink",
@@ -5762,6 +6146,7 @@
     },
     {
       "id": "71231764",
+      "priceBookEntryId": "01uOt00000Jc8np",
       "name": "AccuScan II Ink - Black",
       "productLine": "T-Series",
       "category": "Ink",
@@ -5777,6 +6162,7 @@
     },
     {
       "id": "71085773",
+      "priceBookEntryId": "01uOt00000Jc8ml",
       "name": "AccuScan Ink - Blue",
       "productLine": "T-Series",
       "category": "Ink",
@@ -5792,6 +6178,7 @@
     },
     {
       "id": "71085774",
+      "priceBookEntryId": "01uOt00000Jc8mm",
       "name": "AccuScan Ink - Red",
       "productLine": "T-Series",
       "category": "Ink",
@@ -5807,6 +6194,7 @@
     },
     {
       "id": "71085893",
+      "priceBookEntryId": "01uOt00000Jc9Cs",
       "name": "AccuScan Flushing Solution",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5822,6 +6210,7 @@
     },
     {
       "id": "71085897",
+      "priceBookEntryId": "01uOt00000Jc8mt",
       "name": "AccuScan Maintenance Spray",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5837,6 +6226,7 @@
     },
     {
       "id": "71085776",
+      "priceBookEntryId": "01uOt00000Jc8mn",
       "name": "EasyCode Ink Black",
       "productLine": "T-Series",
       "category": "Ink",
@@ -5852,6 +6242,7 @@
     },
     {
       "id": "71085777",
+      "priceBookEntryId": "01uOt00000Jc8mo",
       "name": "EasyCode Ink - Black",
       "productLine": "T-Series",
       "category": "Ink",
@@ -5867,6 +6258,7 @@
     },
     {
       "id": "71085889",
+      "priceBookEntryId": "01uOt00000Jc8mr",
       "name": "EasyCode Ink - Red",
       "productLine": "T-Series",
       "category": "Ink",
@@ -5882,6 +6274,7 @@
     },
     {
       "id": "71085887",
+      "priceBookEntryId": "01uOt00000Jc8mp",
       "name": "EasyCode Ink - Green",
       "productLine": "T-Series",
       "category": "Ink",
@@ -5897,6 +6290,7 @@
     },
     {
       "id": "71085888",
+      "priceBookEntryId": "01uOt00000Jc8mq",
       "name": "EasyCode Ink - Blue",
       "productLine": "T-Series",
       "category": "Ink",
@@ -5912,6 +6306,7 @@
     },
     {
       "id": "71085895",
+      "priceBookEntryId": "01uOt00000Jc8ms",
       "name": "EasyCode Maintenace Spray",
       "productLine": "T-Series",
       "category": "Parts",
@@ -5927,6 +6322,7 @@
     },
     {
       "id": "71228848",
+      "priceBookEntryId": "01uOt00000Jc8ne",
       "name": "ViaPack Basic System",
       "productLine": "L-Series",
       "category": "ViaPack",
@@ -5942,6 +6338,7 @@
     },
     {
       "id": "86002291",
+      "priceBookEntryId": "01uOt00000JcARk",
       "name": "Viapack Expand",
       "productLine": "L-Series",
       "category": "ViaPack",
@@ -5957,6 +6354,7 @@
     },
     {
       "id": "41229508",
+      "priceBookEntryId": "01uOt00000Jc8jK",
       "name": "Stylus for MPERIA® 8\" Controller",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -5972,6 +6370,7 @@
     },
     {
       "id": "41043583",
+      "priceBookEntryId": "01uOt00000Jc8fl",
       "name": "Stylus for MPERIA® 12\" and 15\" Controllers",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -5987,6 +6386,7 @@
     },
     {
       "id": "41201710",
+      "priceBookEntryId": "01uOt00000JcACs",
       "name": "Power Supply Cable for PoE",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -6002,6 +6402,7 @@
     },
     {
       "id": "41200245",
+      "priceBookEntryId": "01uOt00000Jc8i7",
       "name": "Power Supply for MPERIA® 8\" Controller",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -6017,6 +6418,7 @@
     },
     {
       "id": "41062095",
+      "priceBookEntryId": "01uOt00000Jc8hu",
       "name": "Power Supply for MPERIA® 7\", 12\", & 15\" Controllers",
       "productLine": "CO2 Standard, CO2 Configurable, Fiber Laser, UV Laser, Fiber Film, V-Series, L-Series, T-Series, A-Series, Axian",
       "category": "User Interface",
@@ -6032,6 +6434,7 @@
     },
     {
       "id": "41039278",
+      "priceBookEntryId": "01uOt00000Jc8bR",
       "name": "L50 Printhead",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6047,6 +6450,7 @@
     },
     {
       "id": "41039277",
+      "priceBookEntryId": "01uOt00000Jc8bQ",
       "name": "L25 Printhead",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6062,6 +6466,7 @@
     },
     {
       "id": "41039276",
+      "priceBookEntryId": "01uOt00000Jc8bP",
       "name": "L12 Printhead",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6077,6 +6482,7 @@
     },
     {
       "id": "41206854",
+      "priceBookEntryId": "01uOt00000Jc8iX",
       "name": "Module, L-Link (requires power supply)",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6092,6 +6498,7 @@
     },
     {
       "id": "41206855",
+      "priceBookEntryId": "01uOt00000Jc8iY",
       "name": "L1 Printhead",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6107,6 +6514,7 @@
     },
     {
       "id": "71201988",
+      "priceBookEntryId": "01uOt00000Jc8n7",
       "name": "DVI Cable - 1 meter",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6122,6 +6530,7 @@
     },
     {
       "id": "41205536",
+      "priceBookEntryId": "01uOt00000Jc8iQ",
       "name": "DVI Cable - 2 meter",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6137,6 +6546,7 @@
     },
     {
       "id": "41039275",
+      "priceBookEntryId": "01uOt00000Jc8bO",
       "name": "Power Supply, 24VDC, L-Series",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6152,6 +6562,7 @@
     },
     {
       "id": "41039385",
+      "priceBookEntryId": "01uOt00000Jc8bV",
       "name": "Printhead Power Cable, DB9-Molex, 10'",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6167,6 +6578,7 @@
     },
     {
       "id": "41220761",
+      "priceBookEntryId": "01uOt00000Jc8j7",
       "name": "Stitch Plate, 2xL1 - 25mm High",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6182,6 +6594,7 @@
     },
     {
       "id": "41220801",
+      "priceBookEntryId": "01uOt00000Jc8j9",
       "name": "Stitch Plate, 3xL1 - 37mm High",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6197,6 +6610,7 @@
     },
     {
       "id": "41220764",
+      "priceBookEntryId": "01uOt00000Jc8j8",
       "name": "Stitch Plate, 4xL1 - 50mm High",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6212,6 +6626,7 @@
     },
     {
       "id": "41210925",
+      "priceBookEntryId": "01uOt00000Jc8if",
       "name": "Stitch Plate, High Speed Interlacing, 2xL1 - 12mm High",
       "productLine": "L-Series",
       "category": "Printheads",
@@ -6227,6 +6642,7 @@
     },
     {
       "id": "41043894",
+      "priceBookEntryId": "01uOt00000Jc8fs",
       "name": "Conveyor Mount Kit",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6242,6 +6658,7 @@
     },
     {
       "id": "41039030",
+      "priceBookEntryId": "01uOt00000Jc8bN",
       "name": "Light Duty Stand",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6257,6 +6674,7 @@
     },
     {
       "id": "41043871",
+      "priceBookEntryId": "01uOt00000Jc8fp",
       "name": "T-Base Stand",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6272,6 +6690,7 @@
     },
     {
       "id": "71201992",
+      "priceBookEntryId": "01uOt00000Jc8n8",
       "name": "PH Cross Clamp",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6287,6 +6706,7 @@
     },
     {
       "id": "41038571",
+      "priceBookEntryId": "01uOt00000Jc8bC",
       "name": "PH Square Clamp",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6302,6 +6722,7 @@
     },
     {
       "id": "41038573",
+      "priceBookEntryId": "01uOt00000Jc8bD",
       "name": "Skew Adapter Bracket",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6317,6 +6738,7 @@
     },
     {
       "id": "41038574",
+      "priceBookEntryId": "01uOt00000Jc8bE",
       "name": "Tilt & Lift Adapter Bracket",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6332,6 +6754,7 @@
     },
     {
       "id": "41039981",
+      "priceBookEntryId": "01uOt00000Jc8c2",
       "name": "Spring Loaded Bracket",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6347,6 +6770,7 @@
     },
     {
       "id": "41043849",
+      "priceBookEntryId": "01uOt00000Jc8fm",
       "name": "Caster Kit",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6362,6 +6786,7 @@
     },
     {
       "id": "41043853",
+      "priceBookEntryId": "01uOt00000Jc8fo",
       "name": "Extended Slide Bracket Kit",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6377,6 +6802,7 @@
     },
     {
       "id": "41043872",
+      "priceBookEntryId": "01uOt00000JcABj",
       "name": "Floor Mount Gantry",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6392,6 +6818,7 @@
     },
     {
       "id": "41008760",
+      "priceBookEntryId": "01uOt00000Jc8X3",
       "name": "Cloth, Lint Free, 6\" x 6\", 300 Pack",
       "productLine": "V-Series, L-Series, T-Series, A-Series, Axian, CT1000",
       "category": "Parts",
@@ -6407,6 +6834,7 @@
     },
     {
       "id": "41200189",
+      "priceBookEntryId": "01uOt00000Jc8i6",
       "name": "Tool, Cartridge Priming, TIJ",
       "productLine": "L-Series",
       "category": "Parts",
@@ -6422,6 +6850,7 @@
     },
     {
       "id": "41200187",
+      "priceBookEntryId": "01uOt00000Jc8i5",
       "name": "Clip, Cartridge, TIJ",
       "productLine": "L-Series",
       "category": "Parts",
@@ -6437,6 +6866,7 @@
     },
     {
       "id": "41062521",
+      "priceBookEntryId": "01uOt00000Jc8hw",
       "name": "L-Series Demo slide table",
       "productLine": "L-Series",
       "category": "Mounting",
@@ -6452,6 +6882,7 @@
     },
     {
       "id": "71085238",
+      "priceBookEntryId": "01uOt00000LAf4D",
       "name": "INK,TIJ,LS-3002 SU-B BLUE,WB,DYE",
       "productLine": "L-Series",
       "category": "Inks",
@@ -6467,6 +6898,7 @@
     },
     {
       "id": "71216998",
+      "priceBookEntryId": "01uOt00000JcAP9",
       "name": "Ink, TIJ, LS-3011 SU Black, WB, Dye",
       "productLine": "L-Series",
       "category": "Inks",
@@ -6482,7 +6914,8 @@
     },
     {
       "id": "71232148",
-      "name": "Ink, TIJ, LS-3011 YS+ Black, WB, Dye\r\r\r\n**Must be sold in Multiples of 8**",
+      "priceBookEntryId": "01uOt00000Jc8nr",
+      "name": "Ink, TIJ, LS-3011 YS+ Black, WB, Dye\r\r\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Water Base",
@@ -6497,7 +6930,8 @@
     },
     {
       "id": "71236956",
-      "name": "INK,TIJ,LS-3011,SU,YSHY2.5,BLK,WB,DYE\r\r\r\n**Must be sold in Multiples of 8**",
+      "priceBookEntryId": "01uOt00000Jc9Cy",
+      "name": "INK,TIJ,LS-3011,SU,YSHY2.5,BLK,WB,DYE\r\r\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Water Base",
@@ -6512,7 +6946,8 @@
     },
     {
       "id": "71235726",
-      "name": "INK,TIJ,LS-4101,SU-B,YSHY2.5,BLK,HYB,PIG\r\r\r\n**Must be sold in Multiples of 8**",
+      "priceBookEntryId": "01uOt00000Jc8ns",
+      "name": "INK,TIJ,LS-4101,SU-B,YSHY2.5,BLK,HYB,PIG\r\r\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Hybrid",
@@ -6527,7 +6962,8 @@
     },
     {
       "id": "71202821",
-      "name": "Ink, TIJ, LS-6023 SU-B Black Ink, SB, Dye\r\r\r\n**Must be sold in Multiples of 2**",
+      "priceBookEntryId": "01uOt00000Jc8nB",
+      "name": "Ink, TIJ, LS-6023 SU-B Black Ink, SB, Dye\r\r\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6542,7 +6978,8 @@
     },
     {
       "id": "71209458",
-      "name": "Ink, TIJ, LS-6023 QD-B Black Ink, SB, Dye\r\r\r\n**Must be sold in Multiples of 2**",
+      "priceBookEntryId": "01uOt00000Jc8nH",
+      "name": "Ink, TIJ, LS-6023 QD-B Black Ink, SB, Dye\r\r\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6557,7 +6994,8 @@
     },
     {
       "id": "71209459",
-      "name": "Ink, TIJ, LS-6023 1L BiB Black Ink, SB, Dye\r\r\r\n**Must be sold in Multiples of 4**",
+      "priceBookEntryId": "01uOt00000Jc8nI",
+      "name": "Ink, TIJ, LS-6023 1L BiB Black Ink, SB, Dye\r\r\r\r\n**Must be sold in Multiples of 4**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6572,7 +7010,8 @@
     },
     {
       "id": "71203981",
-      "name": "Ink, TIJ, LS-6101 SU-B Black Ink, SB, Dye\r\r\r\n**Must be sold in Multiples of 2**",
+      "priceBookEntryId": "01uOt00000Jc8nE",
+      "name": "Ink, TIJ, LS-6101 SU-B Black Ink, SB, Dye\r\r\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6587,7 +7026,8 @@
     },
     {
       "id": "71203982",
-      "name": "Ink, TIJ, LS-6101 QD-B Black Ink, SB, Dye\r\r\r\n**Must be sold in Multiples of 2**",
+      "priceBookEntryId": "01uOt00000Jc8nF",
+      "name": "Ink, TIJ, LS-6101 QD-B Black Ink, SB, Dye\r\r\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6602,7 +7042,8 @@
     },
     {
       "id": "71203983",
-      "name": "Ink, TIJ, LS-6101 1L BiB Black Ink, SB Dye\r\r\r\n**Must be sold in Multiples of 4**",
+      "priceBookEntryId": "01uOt00000Jc8nG",
+      "name": "Ink, TIJ, LS-6101 1L BiB Black Ink, SB Dye\r\r\r\r\n**Must be sold in Multiples of 4**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6617,7 +7058,8 @@
     },
     {
       "id": "71214656",
-      "name": "Ink, TIJ, LS-6102 SU-B Blue Ink, SB, Dye\r\r\r\n**Must be sold in Multiples of 2**",
+      "priceBookEntryId": "01uOt00000Jc8nS",
+      "name": "Ink, TIJ, LS-6102 SU-B Blue Ink, SB, Dye\r\r\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6632,7 +7074,8 @@
     },
     {
       "id": "71214660",
-      "name": "Ink, TIJ, LS-6104 SU-B Red Ink, SB, Dye\r\r\r\n**Must be sold in Multiples of 2**",
+      "priceBookEntryId": "01uOt00000Jc8nU",
+      "name": "Ink, TIJ, LS-6104 SU-B Red Ink, SB, Dye\r\r\r\r\n**Must be sold in Multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6647,7 +7090,8 @@
     },
     {
       "id": "71083132",
-      "name": "Ink, TIJ, LS-7001, SU-B Black Ink, SB, Dye\r\r\r\n**Must be sold in multiples of 2**",
+      "priceBookEntryId": "01uOt00000Jc8mg",
+      "name": "Ink, TIJ, LS-7001, SU-B Black Ink, SB, Dye\r\r\r\r\n**Must be sold in multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6662,7 +7106,8 @@
     },
     {
       "id": "71085121",
-      "name": "Ink, TIJ, LS-7011, SU-B Black Ink, SB, Dye\r\r\r\n**Must be sold in multiples of 2**",
+      "priceBookEntryId": "01uOt00000Jc8mh",
+      "name": "Ink, TIJ, LS-7011, SU-B Black Ink, SB, Dye\r\r\r\r\n**Must be sold in multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6677,7 +7122,8 @@
     },
     {
       "id": "71228914",
-      "name": "INK,TIJ,ATF-7100,SU-B BLK,SB,DY\r\r\r\n**Must be sold in multiples of 2**",
+      "priceBookEntryId": "01uOt00000JcAPA",
+      "name": "INK,TIJ,ATF-7100,SU-B BLK,SB,DY\r\r\r\r\n**Must be sold in multiples of 2**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Solvent Base",
@@ -6692,7 +7138,8 @@
     },
     {
       "id": "71237528",
-      "name": "INK,TIJ,LS-3013,SU,YSHY2.5,GRN,WB,DYE\r\r\r\n**Must be sold in Multiples of 8**",
+      "priceBookEntryId": "",
+      "name": "INK,TIJ,LS-3013,SU,YSHY2.5,GRN,WB,DYE\r\r\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Water Base",
@@ -6707,7 +7154,8 @@
     },
     {
       "id": "71237529",
-      "name": "INK,TIJ,LS-3014,SU,YSHY2.5,RED,WB,DYE\r\r\r\n**Must be sold in Multiples of 8**",
+      "priceBookEntryId": "",
+      "name": "INK,TIJ,LS-3014,SU,YSHY2.5,RED,WB,DYE\r\r\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Water Base",
@@ -6722,7 +7170,8 @@
     },
     {
       "id": "71237530",
-      "name": "INK,TIJ,LS-3018,SU,YSHY2.5,YLW,WB,DYE\r\r\r\n**Must be sold in Multiples of 8**",
+      "priceBookEntryId": "",
+      "name": "INK,TIJ,LS-3018,SU,YSHY2.5,YLW,WB,DYE\r\r\r\r\n**Must be sold in Multiples of 8**",
       "productLine": "L-Series",
       "category": "Inks",
       "subCategory": "Water Base",
@@ -6737,6 +7186,7 @@
     },
     {
       "id": "71236231",
+      "priceBookEntryId": "01uOt00000Jc8nt",
       "name": "CT1000 Complete System",
       "productLine": "CT1000",
       "category": "Printheads",
@@ -6752,6 +7202,7 @@
     },
     {
       "id": "41245621",
+      "priceBookEntryId": "",
       "name": "CT1000 Printhead & Mount",
       "productLine": "CT1000",
       "category": "Printheads",
@@ -6767,6 +7218,7 @@
     },
     {
       "id": "71236232",
+      "priceBookEntryId": "01uOt00000Jc9Cu",
       "name": "INK,TIJ CORE,CTH-1300,BLK,SU",
       "productLine": "CT1000",
       "category": "Inks",
@@ -6782,6 +7234,7 @@
     },
     {
       "id": "71236233",
+      "priceBookEntryId": "01uOt00000Jc9Cv",
       "name": "INK,TIJ CORE,CTH-1000,BLK,SU",
       "productLine": "CT1000",
       "category": "Inks",
@@ -6797,6 +7250,7 @@
     },
     {
       "id": "71236234",
+      "priceBookEntryId": "01uOt00000Jc9Cw",
       "name": "INK, TIJ CORE, CTH-6000,BLK, SU",
       "productLine": "CT1000",
       "category": "Inks",
@@ -6812,6 +7266,7 @@
     },
     {
       "id": "71236235",
+      "priceBookEntryId": "01uOt00000Jc9Cx",
       "name": "INK, TIJ CORE, CTH-6009,WHT,SU",
       "productLine": "CT1000",
       "category": "Inks",
@@ -6827,6 +7282,7 @@
     },
     {
       "id": "41244873",
+      "priceBookEntryId": "01uOt00000Lz1JG",
       "name": "Power Supply Cable",
       "productLine": "CT1000",
       "category": "Spare Parts",
@@ -6842,6 +7298,7 @@
     },
     {
       "id": "41244874",
+      "priceBookEntryId": "01uOt00000Lz1JI",
       "name": "Power Supply Adapter",
       "productLine": "CT1000",
       "category": "Spare Parts",
@@ -6857,6 +7314,7 @@
     },
     {
       "id": "41244875",
+      "priceBookEntryId": "01uOt00000Lz1JK",
       "name": "Wireless Keyboard",
       "productLine": "CT1000",
       "category": "Spare Parts",
@@ -6872,6 +7330,7 @@
     },
     {
       "id": "41244876",
+      "priceBookEntryId": "01uOt00000Lz1JM",
       "name": "External Photoeye",
       "productLine": "CT1000",
       "category": "Spare Parts",
@@ -6887,6 +7346,7 @@
     },
     {
       "id": "41244878",
+      "priceBookEntryId": "01uOt00000Lz1JO",
       "name": "Encoder",
       "productLine": "CT1000",
       "category": "Spare Parts",
@@ -6902,6 +7362,7 @@
     },
     {
       "id": "71236820",
+      "priceBookEntryId": "01uOt00000KQEgi",
       "name": "INK,AXM-7000,BLACK,SINGLE CARTRIDGE",
       "productLine": "Axian",
       "category": "Fluid",
@@ -6917,6 +7378,7 @@
     },
     {
       "id": "71236821",
+      "priceBookEntryId": "01uOt00000KQEgj",
       "name": "INK,AXM-7000C,CLEANER,SINGLE CARTRIDGE",
       "productLine": "Axian",
       "category": "Fluid",
@@ -6932,6 +7394,7 @@
     },
     {
       "id": "71237569",
+      "priceBookEntryId": "",
       "name": "INK,AXM-7000,COMBO PACK,1 INK,1 CL,BLK",
       "productLine": "Axian",
       "category": "Fluid",
@@ -6947,6 +7410,7 @@
     },
     {
       "id": "71236824",
+      "priceBookEntryId": "",
       "name": "INK,AXM-7000,COMBO PACK,2 INK,2 CL,BLK",
       "productLine": "Axian",
       "category": "Fluid",
@@ -6962,6 +7426,7 @@
     },
     {
       "id": "71236823",
+      "priceBookEntryId": "01uOt00000KQEgk",
       "name": "INK,AXM-7000,COMBO PACK,3 INK,1 CL,BLK",
       "productLine": "Axian",
       "category": "Fluid",
@@ -6977,6 +7442,7 @@
     },
     {
       "id": "71236822",
+      "priceBookEntryId": "01uOt00000KQEgl",
       "name": "INK,AXM-7000,COMBO PACK,4 INK,BLK",
       "productLine": "Axian",
       "category": "Fluid",
@@ -6992,6 +7458,7 @@
     },
     {
       "id": "71234821",
+      "priceBookEntryId": "01uOt00000KQ8cn",
       "name": "T-Base Floor Stand",
       "productLine": "Axian",
       "category": "Mounting",
@@ -7007,6 +7474,7 @@
     },
     {
       "id": "71234819",
+      "priceBookEntryId": "01uOt00000KQEgf",
       "name": "Stand Arm for Printhead & Photocell",
       "productLine": "Axian",
       "category": "Mounting",
@@ -7022,6 +7490,7 @@
     },
     {
       "id": "71234820",
+      "priceBookEntryId": "01uOt00000KQEgg",
       "name": "Caster Set",
       "productLine": "Axian",
       "category": "Mounting",
@@ -7037,6 +7506,7 @@
     },
     {
       "id": "71234822",
+      "priceBookEntryId": "01uOt00000KQEgh",
       "name": "Stand Storage Cabinet",
       "productLine": "Axian",
       "category": "Mounting",
@@ -7052,6 +7522,7 @@
     },
     {
       "id": "71237547",
+      "priceBookEntryId": "01uOt00000M6ww8",
       "name": "Complete T-Base Floor Stand",
       "productLine": "Axian",
       "category": "Mounting",
@@ -7067,6 +7538,7 @@
     },
     {
       "id": "71237543",
+      "priceBookEntryId": "01uOt00000M6ww2",
       "name": "Axian Node Kit",
       "productLine": "Axian",
       "category": "Kit",
@@ -7082,6 +7554,7 @@
     },
     {
       "id": "71237544",
+      "priceBookEntryId": "01uOt00000M6ww4",
       "name": "Axian System Kit",
       "productLine": "Axian",
       "category": "Kit",
@@ -7097,6 +7570,7 @@
     },
     {
       "id": "71237545",
+      "priceBookEntryId": "01uOt00000M6ww6",
       "name": "Axian Spare Parts Kit",
       "productLine": "Axian",
       "category": "Parts",
@@ -7112,6 +7586,7 @@
     },
     {
       "id": "71236476",
+      "priceBookEntryId": "01uOt00000M6ww0",
       "name": "Jetting Module",
       "productLine": "Axian",
       "category": "Parts",
@@ -7127,6 +7602,7 @@
     },
     {
       "id": "71216161",
+      "priceBookEntryId": "01uOt00000JcAP7",
       "name": "MPERIA® 8\" Controller - Axian",
       "productLine": "Axian",
       "category": "Parts",
@@ -7142,6 +7618,7 @@
     },
     {
       "id": "41227508",
+      "priceBookEntryId": "01uOt00000JcAIW",
       "name": "Diffused Photocell (M8)",
       "productLine": "Axian",
       "category": "Parts",
@@ -7157,6 +7634,7 @@
     },
     {
       "id": "41227374",
+      "priceBookEntryId": "01uOt00000JcAIK",
       "name": "Linear Encoder (M12)",
       "productLine": "Axian",
       "category": "Parts",
@@ -7172,6 +7650,7 @@
     },
     {
       "id": "41227211",
+      "priceBookEntryId": "01uOt00000JcAIE",
       "name": "Axian Waste Bottle Kit",
       "productLine": "Axian",
       "category": "Parts",
@@ -7187,6 +7666,7 @@
     },
     {
       "id": "41227365",
+      "priceBookEntryId": "01uOt00000JcAIJ",
       "name": "Stack Light Kit",
       "productLine": "Axian",
       "category": "Parts",
@@ -7202,6 +7682,7 @@
     },
     {
       "id": "41009611",
+      "priceBookEntryId": "01uOt00000Jc8XZ",
       "name": "Fitting, JG, Elbow, Plugin, 3/8\" x 3/8\" Tube",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -7217,6 +7698,7 @@
     },
     {
       "id": "41009618",
+      "priceBookEntryId": "01uOt00000Jc8Xc",
       "name": "Fitting, JG, Elbow, 3/8\" OD x 1/4\" NPTF",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -7232,6 +7714,7 @@
     },
     {
       "id": "41009619",
+      "priceBookEntryId": "01uOt00000Jc8Xd",
       "name": "Fitting, JG, Elbow, 3/8\" OD x 3/8\" NPTF",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -7247,6 +7730,7 @@
     },
     {
       "id": "11001636",
+      "priceBookEntryId": "01uOt00000Jc8Re",
       "name": "Tubing, Therm Sci, 1/4\" ID x 3/8\" OD (sold by inch)",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -7262,6 +7746,7 @@
     },
     {
       "id": "41012478",
+      "priceBookEntryId": "01uOt00000Jc8Zr",
       "name": "Tubing, PTFE, 3/8\" OD x 1/4\" ID (sold by inch)",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -7277,6 +7762,7 @@
     },
     {
       "id": "41009657",
+      "priceBookEntryId": "01uOt00000JcA8z",
       "name": "Fitting, JG, Push In, Union, 3/8\"",
       "productLine": "V-Series",
       "category": "Fluid Supply",
@@ -7292,6 +7778,7 @@
     },
     {
       "id": "41004039",
+      "priceBookEntryId": "01uOt00000Jc8WR",
       "name": "HOSE,INK & RETURN,ASSEMBLY",
       "productLine": "V-Series",
       "category": "Fluid Supply",

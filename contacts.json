@@ -1,0 +1,732 @@
+{
+  "teams": [
+    "Sales Management",
+    "Eastern Sales",
+    "Western Sales",
+    "Key Accounts",
+    "Channel Sales",
+    "Business Development",
+    "Engineered Solutions",
+    "Customer Experience",
+    "Service",
+    "Marketing",
+    "Sales Operations",
+    "Product Management"
+  ],
+  "settings": {
+    "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/images/",
+    "imageExtension": ".png"
+  },
+  "contacts": [
+    {
+      "id": "jmatthews",
+      "name": "John Matthews",
+      "role": "Manager",
+      "title": "Regional Sales Manager",
+      "teams": [
+        "Western Sales"
+      ],
+      "phone": "+1 (555) 123-4567",
+      "email": "jmatthews@matthewsmarking.com",
+      "linkedin": "https://linkedin.com/in/johnmatthews",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/jmatthews.jpg",
+      "managerId": "morcutt"
+    },
+    {
+      "id": "morcutt",
+      "name": "Mike Orcutt",
+      "role": "Director",
+      "title": "Director of Sales, AMER",
+      "teams": [
+        "Sales Management",
+        "Key Accounts",
+        "Business Development",
+        "Western Sales",
+        "Eastern Sales"
+      ],
+      "phone": "",
+      "email": "morcutt@matthewsintl.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/morcutt.jpg",
+      "managerId": ""
+    },
+    {
+      "id": "acortes",
+      "name": "Antonio Cortes",
+      "role": "Manager",
+      "title": "Eastern Regional Manager",
+      "teams": [
+        "Eastern Sales"
+      ],
+      "phone": "",
+      "email": "cortes@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/acortes.jpg",
+      "managerId": "morcutt"
+    },
+    {
+      "id": "pdeakins",
+      "name": "Phillip Deakins",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Western Sales"
+      ],
+      "phone": "",
+      "email": "phillip.deakins@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/pdeakins.jpg",
+      "managerId": "jmatthews"
+    },
+    {
+      "id": "kmclenithan",
+      "name": "Kyle McLenithan",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Western Sales"
+      ],
+      "phone": "",
+      "email": "kmclenithan@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/kmclenithan.jpg",
+      "managerId": "jmatthews"
+    },
+    {
+      "id": "twarner",
+      "name": "Trent Warner",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Western Sales"
+      ],
+      "phone": "",
+      "email": "trwarner@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/twarner.jpg",
+      "managerId": "jmatthews"
+    },
+    {
+      "id": "scotton",
+      "name": "Shane Cotton",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Eastern Sales"
+      ],
+      "phone": "",
+      "email": "shane.cotton@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/scotton.jpg",
+      "managerId": "acortes"
+    },
+    {
+      "id": "bmccarver",
+      "name": "Brian McCarver",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Eastern Sales"
+      ],
+      "phone": "",
+      "email": "brian.mccarver@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/bmccarver.jpg",
+      "managerId": "acortes"
+    },
+    {
+      "id": "jscherer",
+      "name": "John Scherer",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Eastern Sales"
+      ],
+      "phone": "",
+      "email": "john.scherer@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/jscherer.jpg",
+      "managerId": "acortes"
+    },
+    {
+      "id": "khuffstetler",
+      "name": "Kevin Huffstetler",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Eastern Sales"
+      ],
+      "phone": "",
+      "email": "kevin.huffstetler@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/khuffstetler.jpg",
+      "managerId": "acortes"
+    },
+    {
+      "id": "raranda",
+      "name": "Rick Aranda",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Western Sales"
+      ],
+      "phone": "",
+      "email": "raranda@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/raranda.jpg",
+      "managerId": "jmatthews"
+    },
+    {
+      "id": "jplagenza",
+      "name": "Justin Plagenza",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Western Sales"
+      ],
+      "phone": "",
+      "email": "justin.plagenza@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/jplagenza.jpg",
+      "managerId": "jmatthews"
+    },
+    {
+      "id": "mprokash",
+      "name": "Matt Prokash",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Western Sales"
+      ],
+      "phone": "",
+      "email": "mprokash@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/mprokash.jpg",
+      "managerId": "jmatthews"
+    },
+    {
+      "id": "bwagner",
+      "name": "Bryan Wagner",
+      "role": "Standard",
+      "title": "Sales Engineer",
+      "teams": [
+        "Eastern Sales"
+      ],
+      "phone": "",
+      "email": "bryan.wagner@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/bwagner.jpg",
+      "managerId": "acortes"
+    },
+    {
+      "id": "kmauck",
+      "name": "Keith Mauck",
+      "role": "VP",
+      "title": "VP Global Sales & Marketing",
+      "teams": [
+        "Sales Management"
+      ],
+      "phone": "",
+      "email": "keith.mauck@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/kmauck.jpg",
+      "managerId": ""
+    },
+    {
+      "id": "ldephillips",
+      "name": "Lauren DePhillips",
+      "role": "Director",
+      "title": "Director - Commercial Operations & Channel",
+      "teams": [
+        "Sales Operations",
+        "Channel Sales"
+      ],
+      "phone": "",
+      "email": "",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/ldephillips.jpg",
+      "managerId": ""
+    },
+    {
+      "id": "ddayal",
+      "name": "Devna Dayal",
+      "role": "Director",
+      "title": "Director of Marketing",
+      "teams": [
+        "Marketing"
+      ],
+      "phone": "",
+      "email": "ddayal@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/ddayal.jpg",
+      "managerId": "kmauck"
+    },
+    {
+      "id": "glarson",
+      "name": "Graham Larson",
+      "role": "Standard",
+      "title": "Marketing Coordinator",
+      "teams": [
+        "Marketing"
+      ],
+      "phone": "",
+      "email": "",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/glarson.jpg",
+      "managerId": "ddayal"
+    },
+    {
+      "id": "sallworth",
+      "name": "Shawn Allworth",
+      "role": "VP",
+      "title": "VP Product Management",
+      "teams": [
+        "Product Management"
+      ],
+      "phone": "",
+      "email": "shawn.allworth@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/sallworth.jpg",
+      "managerId": ""
+    },
+    {
+      "id": "vlilie",
+      "name": "Vanessa Lilie",
+      "role": "Standard",
+      "title": "Sr. Product Manager - TIJ",
+      "teams": [
+        "Product Management"
+      ],
+      "phone": "",
+      "email": "vanessa.lilie@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/vlilie.jpg",
+      "managerId": "sallworth"
+    },
+    {
+      "id": "mleoni",
+      "name": "Michael Leoni",
+      "role": "Director",
+      "title": "Director ENG Solutions & Service",
+      "teams": [
+        "Engineered Solutions",
+        "Service"
+      ],
+      "phone": "",
+      "email": "michael.leoni@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/mleoni.jpg",
+      "managerId": "kmauck"
+    },
+    {
+      "id": "bjudson",
+      "name": "Burton Judson",
+      "role": "Manager",
+      "title": "Applications Engineering Manager",
+      "teams": [
+        "Engineered Solutions"
+      ],
+      "phone": "",
+      "email": "burton.judson@matthewsintl.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/bjudson.jpg",
+      "managerId": "mleoni"
+    },
+    {
+      "id": "dhenreckson",
+      "name": "Daniel Henreckson",
+      "role": "Standard",
+      "title": "Sales Enablement",
+      "teams": [
+        "Sales Operations"
+      ],
+      "phone": "",
+      "email": "dhenreckson@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/dhenreckson.jpg",
+      "managerId": "ldephillips"
+    },
+    {
+      "id": "wanderson",
+      "name": "Wayne Anderson",
+      "role": "Manager",
+      "title": "Business Development Manager",
+      "teams": [
+        "Business Development"
+      ],
+      "phone": "",
+      "email": "wayne.anderson@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/wanderson.jpg",
+      "managerId": "morcutt"
+    },
+    {
+      "id": "mcook",
+      "name": "Mark Cook",
+      "role": "Standard",
+      "title": "Channel Sales Engineer",
+      "teams": [
+        "Channel Sales"
+      ],
+      "phone": "",
+      "email": "mark.cook@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/mcook.jpg",
+      "managerId": "ldephillips"
+    },
+    {
+      "id": "bdavis",
+      "name": "Ben Davis",
+      "role": "Standard",
+      "title": "Channel Sales Engineer",
+      "teams": [
+        "Channel Sales"
+      ],
+      "phone": "",
+      "email": "ben.davis@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/bdavis.jpg",
+      "managerId": "ldephillips"
+    },
+    {
+      "id": "mhutchison",
+      "name": "Michael Hutchison",
+      "role": "Standard",
+      "title": "Channel Sales Engineer",
+      "teams": [
+        "Channel Sales"
+      ],
+      "phone": "",
+      "email": "mhutchison@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/mhutchison.jpg",
+      "managerId": "ldephillips"
+    },
+    {
+      "id": "pacevedo",
+      "name": "Paco Acevedo",
+      "role": "Standard",
+      "title": "Channel Sales Engineer",
+      "teams": [
+        "Channel Sales"
+      ],
+      "phone": "",
+      "email": "facevedo@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/pacevedo.jpg",
+      "managerId": "ldephillips"
+    },
+    {
+      "id": "mboyer",
+      "name": "Maddie Boyer",
+      "role": "Standard",
+      "title": "Business Development",
+      "teams": [
+        "Business Development"
+      ],
+      "phone": "",
+      "email": "maddie.boyer@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/mboyer.jpg",
+      "managerId": "morcutt"
+    },
+    {
+      "id": "lwhalen",
+      "name": "Luke Whalen",
+      "role": "Standard",
+      "title": "Business Development",
+      "teams": [
+        "Business Development"
+      ],
+      "phone": "",
+      "email": "luke.whalen@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/lwhalen.jpg",
+      "managerId": "morcutt"
+    },
+    {
+      "id": "hhanson",
+      "name": "Heather Hanson",
+      "role": "Standard",
+      "title": "Business Development",
+      "teams": [
+        "Business Development"
+      ],
+      "phone": "",
+      "email": "heather.hanson@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/hhanson.jpg",
+      "managerId": "morcutt"
+    },
+    {
+      "id": "tmoore",
+      "name": "Toby Moore",
+      "role": "Standard",
+      "title": "Key Accounts Manager",
+      "teams": [
+        "Key Accounts"
+      ],
+      "phone": "",
+      "email": "anthony.moore@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/tmoore.jpg",
+      "managerId": "morcutt"
+    },
+    {
+      "id": "abraham",
+      "name": "Andy Braham",
+      "role": "Standard",
+      "title": "Key Accounts Manager",
+      "teams": [
+        "Key Accounts"
+      ],
+      "phone": "",
+      "email": "abraham@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/abraham.jpg",
+      "managerId": "morcutt"
+    },
+    {
+      "id": "bashley",
+      "name": "Bill Ashley",
+      "role": "Standard",
+      "title": "Key Accounts Manager",
+      "teams": [
+        "Key Accounts"
+      ],
+      "phone": "",
+      "email": "bashley@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/bashley.jpg",
+      "managerId": "morcutt"
+    },
+    {
+      "id": "lradeshak",
+      "name": "Lisa Radeshak",
+      "role": "Director",
+      "title": "Director Customer Experience",
+      "teams": [
+        "Customer Experience"
+      ],
+      "phone": "",
+      "email": "radeshak@matthewsintl.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/lradeshak.jpg",
+      "managerId": "kmauck"
+    },
+    {
+      "id": "teckert",
+      "name": "Tim Eckert",
+      "role": "Manager",
+      "title": "Customer Experience Manager",
+      "teams": [
+        "Customer Experience"
+      ],
+      "phone": "",
+      "email": "teckert@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/teckert.jpg",
+      "managerId": "lradeshak"
+    },
+    {
+      "id": "jtaylor",
+      "name": "Jay Taylor",
+      "role": "Standard",
+      "title": "Sr. Product Manager - XIJ",
+      "teams": [
+        "Product Management"
+      ],
+      "phone": "",
+      "email": "jtaylor@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/jtaylor.jpg",
+      "managerId": "sallworth"
+    },
+    {
+      "id": "rwilliams",
+      "name": "Ryan Williams",
+      "role": "Standard",
+      "title": "Product Manager - VIJ",
+      "teams": [
+        "Product Management"
+      ],
+      "phone": "",
+      "email": "ryan.williams@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/rwilliams.jpg",
+      "managerId": "sallworth"
+    },
+    {
+      "id": "smagoc",
+      "name": "Sarah Magoc",
+      "role": "Standard",
+      "title": "Product Manager - Ink Portfolio",
+      "teams": [
+        "Product Management"
+      ],
+      "phone": "",
+      "email": "sarah.magoc@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/smagoc.jpg",
+      "managerId": "sallworth"
+    },
+    {
+      "id": "eandersson",
+      "name": "Emma Andersson",
+      "role": "Standard",
+      "title": "Product Manager - MPERIA® and A-Series",
+      "teams": [
+        "Product Management"
+      ],
+      "phone": "",
+      "email": "eandersson@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/eandersson.jpg",
+      "managerId": "sallworth"
+    },
+    {
+      "id": "btschannen",
+      "name": "Brent Tschannen",
+      "role": "Standard",
+      "title": "Applications Engineer",
+      "teams": [
+        "Engineered Solutions"
+      ],
+      "phone": "",
+      "email": "btschannen@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/btschannen.jpg",
+      "managerId": "bjudson"
+    },
+    {
+      "id": "dtschannen",
+      "name": "Dean Tschannen",
+      "role": "Standard",
+      "title": "Applications Engineer",
+      "teams": [
+        "Engineered Solutions"
+      ],
+      "phone": "",
+      "email": "dtschannen@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/dtschannen.jpg",
+      "managerId": "bjudson"
+    },
+    {
+      "id": "pruben",
+      "name": "Penny Ruben",
+      "role": "Standard",
+      "title": "Channel Marketing Manager",
+      "teams": [
+        "Marketing"
+      ],
+      "phone": "",
+      "email": "penny.ruben@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/pruben.jpg",
+      "managerId": "ddayal"
+    },
+    {
+      "id": "jbuzzell",
+      "name": "Jared Buzzell",
+      "role": "Standard",
+      "title": "Social Media Marketing",
+      "teams": [
+        "Marketing"
+      ],
+      "phone": "",
+      "email": "jbuzzell@matw.com",
+      "linkedin": "",
+      "website": "https://matthewsmarking.com",
+      "youtube": "https://www.youtube.com/user/MatthewsMarking",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/jbuzzell.jpg",
+      "managerId": "ddayal"
+    }
+  ]
+}

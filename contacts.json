@@ -32,7 +32,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "jmatthews.jpg",
-      "managerId": "morcutt"
+      "managerId": "morcutt",
+      "territory": "Western U.S. and Canada"
     },
     {
       "id": "morcutt",
@@ -52,7 +53,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "morcutt.jpg",
-      "managerId": ""
+      "managerId": "",
+      "territory": ""
     },
     {
       "id": "acortes",
@@ -68,7 +70,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "acortes.jpg",
-      "managerId": "morcutt"
+      "managerId": "morcutt",
+      "territory": "Eastern U.S. and Canada"
     },
     {
       "id": "pdeakins",
@@ -84,7 +87,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "pdeakins.jpg",
-      "managerId": "jmatthews"
+      "managerId": "jmatthews",
+      "territory": "Kansas, Oklahoma, Texas"
     },
     {
       "id": "kmclenithan",
@@ -100,7 +104,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "kmclenithan.jpg",
-      "managerId": "jmatthews"
+      "managerId": "jmatthews",
+      "territory": ""
     },
     {
       "id": "twarner",
@@ -116,7 +121,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "twarner.jpg",
-      "managerId": "jmatthews"
+      "managerId": "jmatthews",
+      "territory": ""
     },
     {
       "id": "scotton",
@@ -132,7 +138,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "scotton.jpg",
-      "managerId": "acortes"
+      "managerId": "acortes",
+      "territory": ""
     },
     {
       "id": "bmccarver",
@@ -148,7 +155,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "bmccarver.jpg",
-      "managerId": "acortes"
+      "managerId": "acortes",
+      "territory": "Tennessee, Kentucky, Louisiana, Arkansas"
     },
     {
       "id": "jscherer",
@@ -164,7 +172,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "jscherer.jpg",
-      "managerId": "acortes"
+      "managerId": "acortes",
+      "territory": ""
     },
     {
       "id": "khuffstetler",
@@ -180,7 +189,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "acortes"
+      "managerId": "acortes",
+      "territory": ""
     },
     {
       "id": "raranda",
@@ -196,7 +206,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "raranda.jpg",
-      "managerId": "jmatthews"
+      "managerId": "jmatthews",
+      "territory": ""
     },
     {
       "id": "jplagenza",
@@ -212,7 +223,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "jmatthews"
+      "managerId": "jmatthews",
+      "territory": ""
     },
     {
       "id": "mprokash",
@@ -228,7 +240,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "mprokash.jpg",
-      "managerId": "jmatthews"
+      "managerId": "jmatthews",
+      "territory": "N. Illinois, Wisconsin, W. Indiana"
     },
     {
       "id": "bwagner",
@@ -244,7 +257,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "headshots/bwagner.jpg",
-      "managerId": "acortes"
+      "managerId": "acortes",
+      "territory": ""
     },
     {
       "id": "kmauck",
@@ -260,7 +274,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "kmauck.jpg",
-      "managerId": ""
+      "managerId": "",
+      "territory": ""
     },
     {
       "id": "ldephillips",
@@ -277,7 +292,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "ldephillips.jpg",
-      "managerId": ""
+      "managerId": "",
+      "territory": ""
     },
     {
       "id": "ddayal",
@@ -293,7 +309,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "ddayal.jpg",
-      "managerId": "kmauck"
+      "managerId": "kmauck",
+      "territory": ""
     },
     {
       "id": "glarson",
@@ -309,7 +326,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "glarson.jpg",
-      "managerId": "ddayal"
+      "managerId": "ddayal",
+      "territory": ""
     },
     {
       "id": "sallworth",
@@ -325,7 +343,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "sallworth.jpg",
-      "managerId": ""
+      "managerId": "",
+      "territory": ""
     },
     {
       "id": "vlilie",
@@ -341,7 +360,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "vlilie.jpg",
-      "managerId": "sallworth"
+      "managerId": "sallworth",
+      "territory": ""
     },
     {
       "id": "mleoni",
@@ -358,7 +378,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "mleoni.jpg",
-      "managerId": "kmauck"
+      "managerId": "kmauck",
+      "territory": ""
     },
     {
       "id": "bjudson",
@@ -374,7 +395,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "bjudson.jpg",
-      "managerId": "mleoni"
+      "managerId": "mleoni",
+      "territory": ""
     },
     {
       "id": "dhenreckson",
@@ -390,7 +412,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "dhenreckson.jpg",
-      "managerId": "ldephillips"
+      "managerId": "ldephillips",
+      "territory": ""
     },
     {
       "id": "wanderson",
@@ -406,7 +429,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "morcutt"
+      "managerId": "morcutt",
+      "territory": ""
     },
     {
       "id": "mcook",
@@ -422,7 +446,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "mcook.jpg",
-      "managerId": "ldephillips"
+      "managerId": "ldephillips",
+      "territory": ""
     },
     {
       "id": "bdavis",
@@ -438,7 +463,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "bdavis.jpg",
-      "managerId": "ldephillips"
+      "managerId": "ldephillips",
+      "territory": ""
     },
     {
       "id": "mhutchison",
@@ -454,7 +480,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "ldephillips"
+      "managerId": "ldephillips",
+      "territory": ""
     },
     {
       "id": "pacevedo",
@@ -470,7 +497,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "pacevedo.jpg",
-      "managerId": "ldephillips"
+      "managerId": "ldephillips",
+      "territory": ""
     },
     {
       "id": "mboyer",
@@ -486,7 +514,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "morcutt"
+      "managerId": "morcutt",
+      "territory": ""
     },
     {
       "id": "lwhalen",
@@ -502,7 +531,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "morcutt"
+      "managerId": "morcutt",
+      "territory": ""
     },
     {
       "id": "hhanson",
@@ -518,7 +548,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "morcutt"
+      "managerId": "morcutt",
+      "territory": ""
     },
     {
       "id": "tmoore",
@@ -534,7 +565,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "tmoore.jpg",
-      "managerId": "morcutt"
+      "managerId": "morcutt",
+      "territory": ""
     },
     {
       "id": "abraham",
@@ -550,7 +582,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "abraham.jpg",
-      "managerId": "morcutt"
+      "managerId": "morcutt",
+      "territory": ""
     },
     {
       "id": "bashley",
@@ -566,7 +599,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "bashley.jpg",
-      "managerId": "morcutt"
+      "managerId": "morcutt",
+      "territory": ""
     },
     {
       "id": "lradeshak",
@@ -582,7 +616,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "kmauck"
+      "managerId": "kmauck",
+      "territory": ""
     },
     {
       "id": "teckert",
@@ -598,7 +633,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "lradeshak"
+      "managerId": "lradeshak",
+      "territory": ""
     },
     {
       "id": "jtaylor",
@@ -614,7 +650,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "jtaylor.jpg",
-      "managerId": "sallworth"
+      "managerId": "sallworth",
+      "territory": ""
     },
     {
       "id": "rwilliams",
@@ -630,7 +667,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "sallworth"
+      "managerId": "sallworth",
+      "territory": ""
     },
     {
       "id": "smagoc",
@@ -646,7 +684,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "sallworth"
+      "managerId": "sallworth",
+      "territory": ""
     },
     {
       "id": "eandersson",
@@ -662,7 +701,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "eandersson.jpg",
-      "managerId": "sallworth"
+      "managerId": "sallworth",
+      "territory": ""
     },
     {
       "id": "btschannen",
@@ -678,7 +718,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "bjudson"
+      "managerId": "bjudson",
+      "territory": ""
     },
     {
       "id": "dtschannen",
@@ -694,7 +735,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
-      "managerId": "bjudson"
+      "managerId": "bjudson",
+      "territory": ""
     },
     {
       "id": "pruben",
@@ -710,7 +752,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "pruben.jpg",
-      "managerId": "ddayal"
+      "managerId": "ddayal",
+      "territory": ""
     },
     {
       "id": "jbuzzell",
@@ -726,7 +769,8 @@
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "jbuzzell.jpg",
-      "managerId": "ddayal"
+      "managerId": "ddayal",
+      "territory": ""
     }
   ]
 }

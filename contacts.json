@@ -14,7 +14,7 @@
     "Product Management"
   ],
   "settings": {
-    "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/images/",
+    "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/",
     "imageExtension": ".png"
   },
   "contacts": [
@@ -31,7 +31,7 @@
       "linkedin": "https://linkedin.com/in/johnmatthews",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/jmatthews.jpg",
+      "image": "jmatthews.jpg",
       "managerId": "morcutt"
     },
     {
@@ -51,7 +51,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/morcutt.jpg",
+      "image": "morcutt.jpg",
       "managerId": ""
     },
     {
@@ -67,7 +67,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/acortes.jpg",
+      "image": "acortes.jpg",
       "managerId": "morcutt"
     },
     {
@@ -83,7 +83,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/pdeakins.jpg",
+      "image": "pdeakins.jpg",
       "managerId": "jmatthews"
     },
     {
@@ -99,7 +99,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/kmclenithan.jpg",
+      "image": "kmclenithan.jpg",
       "managerId": "jmatthews"
     },
     {
@@ -115,7 +115,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/twarner.jpg",
+      "image": "twarner.jpg",
       "managerId": "jmatthews"
     },
     {
@@ -131,7 +131,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/scotton.jpg",
+      "image": "scotton.jpg",
       "managerId": "acortes"
     },
     {
@@ -147,7 +147,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/bmccarver.jpg",
+      "image": "bmcarver.jpg",
       "managerId": "acortes"
     },
     {
@@ -163,7 +163,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/jscherer.jpg",
+      "image": "jscherer.jpg",
       "managerId": "acortes"
     },
     {
@@ -179,7 +179,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/khuffstetler.jpg",
+      "image": "",
       "managerId": "acortes"
     },
     {
@@ -195,7 +195,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/raranda.jpg",
+      "image": "raranda.jpg",
       "managerId": "jmatthews"
     },
     {
@@ -211,7 +211,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/jplagenza.jpg",
+      "image": "",
       "managerId": "jmatthews"
     },
     {
@@ -227,7 +227,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/mprokash.jpg",
+      "image": "mprokash.jpg",
       "managerId": "jmatthews"
     },
     {
@@ -243,7 +243,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/bwagner.jpg",
+      "image": "headshots/bwagner.jpg",
       "managerId": "acortes"
     },
     {
@@ -259,7 +259,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/",
+      "image": "kmauck.jpg",
       "managerId": ""
     },
     {
@@ -276,7 +276,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/ldephillips.jpg",
+      "image": "ldephillips.jpg",
       "managerId": ""
     },
     {
@@ -292,7 +292,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/ddayal.jpg",
+      "image": "ddayal.jpg",
       "managerId": "kmauck"
     },
     {
@@ -308,7 +308,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/glarson.jpg",
+      "image": "glarson.jpg",
       "managerId": "ddayal"
     },
     {
@@ -324,7 +324,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/sallworth.jpg",
+      "image": "sallworth.jpg",
       "managerId": ""
     },
     {
@@ -340,7 +340,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/vlilie.jpg",
+      "image": "vlilie.jpg",
       "managerId": "sallworth"
     },
     {
@@ -357,7 +357,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/mleoni.jpg",
+      "image": "mleoni.jpg",
       "managerId": "kmauck"
     },
     {
@@ -373,7 +373,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/bjudson.jpg",
+      "image": "bjudson.jpg",
       "managerId": "mleoni"
     },
     {
@@ -389,7 +389,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/dhenreckson.jpg",
+      "image": "dhenreckson.jpg",
       "managerId": "ldephillips"
     },
     {
@@ -405,7 +405,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/wanderson.jpg",
+      "image": "",
       "managerId": "morcutt"
     },
     {
@@ -421,7 +421,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/mcook.jpg",
+      "image": "mcook.jpg",
       "managerId": "ldephillips"
     },
     {
@@ -437,7 +437,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/bdavis.jpg",
+      "image": "bdavis.jpg",
       "managerId": "ldephillips"
     },
     {
@@ -453,7 +453,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/mhutchison.jpg",
+      "image": "",
       "managerId": "ldephillips"
     },
     {
@@ -469,7 +469,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/pacevedo.jpg",
+      "image": "pacevedo.jpg",
       "managerId": "ldephillips"
     },
     {
@@ -485,7 +485,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/mboyer.jpg",
+      "image": "",
       "managerId": "morcutt"
     },
     {
@@ -501,7 +501,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/lwhalen.jpg",
+      "image": "",
       "managerId": "morcutt"
     },
     {
@@ -517,7 +517,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/hhanson.jpg",
+      "image": "",
       "managerId": "morcutt"
     },
     {
@@ -533,7 +533,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/tmoore.jpg",
+      "image": "tmoore.jpg",
       "managerId": "morcutt"
     },
     {
@@ -549,7 +549,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/abraham.jpg",
+      "image": "abraham.jpg",
       "managerId": "morcutt"
     },
     {
@@ -565,7 +565,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/bashley.jpg",
+      "image": "bashley.jpg",
       "managerId": "morcutt"
     },
     {
@@ -581,7 +581,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/lradeshak.jpg",
+      "image": "",
       "managerId": "kmauck"
     },
     {
@@ -597,7 +597,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/teckert.jpg",
+      "image": "",
       "managerId": "lradeshak"
     },
     {
@@ -613,7 +613,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/jtaylor.jpg",
+      "image": "jtaylor.jpg",
       "managerId": "sallworth"
     },
     {
@@ -629,7 +629,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/rwilliams.jpg",
+      "image": "",
       "managerId": "sallworth"
     },
     {
@@ -645,7 +645,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/smagoc.jpg",
+      "image": "",
       "managerId": "sallworth"
     },
     {
@@ -661,7 +661,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/eandersson.jpg",
+      "image": "eandersson.jpg",
       "managerId": "sallworth"
     },
     {
@@ -677,7 +677,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/btschannen.jpg",
+      "image": "",
       "managerId": "bjudson"
     },
     {
@@ -693,7 +693,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/dtschannen.jpg",
+      "image": "",
       "managerId": "bjudson"
     },
     {
@@ -709,7 +709,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/pruben.jpg",
+      "image": "pruben.jpg",
       "managerId": "ddayal"
     },
     {
@@ -725,7 +725,7 @@
       "linkedin": "",
       "website": "https://matthewsmarking.com",
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/headshots/jbuzzell.jpg",
+      "image": "jbuzzell.jpg",
       "managerId": "ddayal"
     }
   ]

@@ -33,7 +33,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "jmatthews.jpg",
       "managerId": "morcutt",
-      "territory": "Western U.S. and Canada"
+      "territory": "Western U.S. and Canada",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "morcutt",
@@ -54,7 +56,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "morcutt.jpg",
       "managerId": "",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "acortes",
@@ -71,7 +75,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "acortes.jpg",
       "managerId": "morcutt",
-      "territory": "Eastern U.S. and Canada"
+      "territory": "Eastern U.S. and Canada",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "pdeakins",
@@ -88,7 +94,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "pdeakins.jpg",
       "managerId": "jmatthews",
-      "territory": "Kansas, Oklahoma, Texas"
+      "territory": "Kansas, Oklahoma, Texas",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "kmclenithan",
@@ -105,7 +113,13 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "kmclenithan.jpg",
       "managerId": "jmatthews",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [
+        "WA-ALL",
+        "OR-ALL",
+        "ID-ALL"
+      ],
+      "meetingUrl": ""
     },
     {
       "id": "twarner",
@@ -122,7 +136,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "twarner.jpg",
       "managerId": "jmatthews",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "scotton",
@@ -139,7 +155,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "scotton.jpg",
       "managerId": "acortes",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "bmccarver",
@@ -156,7 +174,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "bmccarver.jpg",
       "managerId": "acortes",
-      "territory": "Tennessee, Kentucky, Louisiana, Arkansas"
+      "territory": "Tennessee, Kentucky, Louisiana, Arkansas",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "jscherer",
@@ -173,7 +193,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "jscherer.jpg",
       "managerId": "acortes",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "khuffstetler",
@@ -190,7 +212,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "acortes",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "raranda",
@@ -207,7 +231,19 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "raranda.jpg",
       "managerId": "jmatthews",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [
+        "CA-SE",
+        "CA-SW",
+        "AZ-ALL",
+        "NM-ALL",
+        "CO-ALL",
+        "UT-SW",
+        "UT-SE",
+        "NV-SE",
+        "NV-SW"
+      ],
+      "meetingUrl": ""
     },
     {
       "id": "jplagenza",
@@ -224,7 +260,15 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "jmatthews",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [
+        "CA-NW",
+        "CA-NE",
+        "NV-NW",
+        "NV-NE",
+        "UT-NE"
+      ],
+      "meetingUrl": ""
     },
     {
       "id": "mprokash",
@@ -241,7 +285,15 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "mprokash.jpg",
       "managerId": "jmatthews",
-      "territory": "N. Illinois, Wisconsin, W. Indiana"
+      "territory": "N. Illinois, Wisconsin, W. Indiana",
+      "mapTerritories": [
+        "WI-ALL",
+        "IL-NW",
+        "IL-NE",
+        "IN-NE",
+        "IN-NW"
+      ],
+      "meetingUrl": ""
     },
     {
       "id": "bwagner",
@@ -258,7 +310,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "headshots/bwagner.jpg",
       "managerId": "acortes",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "kmauck",
@@ -275,7 +329,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "kmauck.jpg",
       "managerId": "",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "ldephillips",
@@ -293,7 +349,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "ldephillips.jpg",
       "managerId": "",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "ddayal",
@@ -310,7 +368,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "ddayal.jpg",
       "managerId": "kmauck",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "glarson",
@@ -327,7 +387,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "glarson.jpg",
       "managerId": "ddayal",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "sallworth",
@@ -344,7 +406,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "sallworth.jpg",
       "managerId": "",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "vlilie",
@@ -361,7 +425,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "vlilie.jpg",
       "managerId": "sallworth",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "mleoni",
@@ -379,7 +445,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "mleoni.jpg",
       "managerId": "kmauck",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "bjudson",
@@ -396,7 +464,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "bjudson.jpg",
       "managerId": "mleoni",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "dhenreckson",
@@ -413,7 +483,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "dhenreckson.jpg",
       "managerId": "ldephillips",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "wanderson",
@@ -430,7 +502,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "morcutt",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "mcook",
@@ -447,7 +521,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "mcook.jpg",
       "managerId": "ldephillips",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "bdavis",
@@ -464,7 +540,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "bdavis.jpg",
       "managerId": "ldephillips",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "mhutchison",
@@ -481,7 +559,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "ldephillips",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "pacevedo",
@@ -498,7 +578,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "pacevedo.jpg",
       "managerId": "ldephillips",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "mboyer",
@@ -515,7 +597,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "morcutt",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "lwhalen",
@@ -532,7 +616,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "morcutt",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "hhanson",
@@ -549,7 +635,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "morcutt",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "tmoore",
@@ -566,7 +654,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "tmoore.jpg",
       "managerId": "morcutt",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "abraham",
@@ -583,7 +673,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "abraham.jpg",
       "managerId": "morcutt",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "bashley",
@@ -600,7 +692,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "bashley.jpg",
       "managerId": "morcutt",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "lradeshak",
@@ -617,7 +711,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "kmauck",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "teckert",
@@ -634,7 +730,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "lradeshak",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "jtaylor",
@@ -651,7 +749,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "jtaylor.jpg",
       "managerId": "sallworth",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "rwilliams",
@@ -668,7 +768,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "sallworth",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "smagoc",
@@ -685,7 +787,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "sallworth",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "eandersson",
@@ -702,7 +806,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "eandersson.jpg",
       "managerId": "sallworth",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "btschannen",
@@ -719,7 +825,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "bjudson",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "dtschannen",
@@ -736,7 +844,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "",
       "managerId": "bjudson",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "pruben",
@@ -753,7 +863,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "pruben.jpg",
       "managerId": "ddayal",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     },
     {
       "id": "jbuzzell",
@@ -770,7 +882,9 @@
       "youtube": "https://www.youtube.com/user/MatthewsMarking",
       "image": "jbuzzell.jpg",
       "managerId": "ddayal",
-      "territory": ""
+      "territory": "",
+      "mapTerritories": [],
+      "meetingUrl": ""
     }
   ]
 }

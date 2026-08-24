@@ -35,7 +35,8 @@
       "managerId": "morcutt",
       "territory": "Western U.S. and Canada",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "morcutt",
@@ -58,7 +59,8 @@
       "managerId": "",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "acortes",
@@ -77,7 +79,8 @@
       "managerId": "morcutt",
       "territory": "Eastern U.S. and Canada",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "pdeakins",
@@ -95,8 +98,14 @@
       "image": "pdeakins.jpg",
       "managerId": "jmatthews",
       "territory": "Kansas, Oklahoma, Texas",
-      "mapTerritories": [],
-      "meetingUrl": ""
+      "mapTerritories": [
+        "KS-ALL",
+        "OK-ALL",
+        "TX-ALL",
+        "AR-SW"
+      ],
+      "meetingUrl": "",
+      "mapColor": "#a1887f"
     },
     {
       "id": "kmclenithan",
@@ -117,9 +126,11 @@
       "mapTerritories": [
         "WA-ALL",
         "OR-ALL",
-        "ID-ALL"
+        "ID-ALL",
+        "AK-ALL"
       ],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#fce4ec"
     },
     {
       "id": "twarner",
@@ -137,8 +148,19 @@
       "image": "twarner.jpg",
       "managerId": "jmatthews",
       "territory": "",
-      "mapTerritories": [],
-      "meetingUrl": ""
+      "mapTerritories": [
+        "MT-ALL",
+        "WY-ALL",
+        "ND-ALL",
+        "SD-ALL",
+        "NE-ALL",
+        "MN-ALL",
+        "IA-ALL",
+        "IL-SW",
+        "IL-SE"
+      ],
+      "meetingUrl": "",
+      "mapColor": "#ffee58"
     },
     {
       "id": "scotton",
@@ -156,8 +178,12 @@
       "image": "scotton.jpg",
       "managerId": "acortes",
       "territory": "",
-      "mapTerritories": [],
-      "meetingUrl": ""
+      "mapTerritories": [
+        "GA-ALL",
+        "FL-ALL"
+      ],
+      "meetingUrl": "",
+      "mapColor": "#ba68c8"
     },
     {
       "id": "bmccarver",
@@ -175,8 +201,17 @@
       "image": "bmccarver.jpg",
       "managerId": "acortes",
       "territory": "Tennessee, Kentucky, Louisiana, Arkansas",
-      "mapTerritories": [],
-      "meetingUrl": ""
+      "mapTerritories": [
+        "AR-NW",
+        "AR-NE",
+        "AR-SE",
+        "MS-ALL",
+        "LA-ALL",
+        "AL-ALL",
+        "TN-ALL"
+      ],
+      "meetingUrl": "",
+      "mapColor": "#f48eb1"
     },
     {
       "id": "jscherer",
@@ -194,8 +229,16 @@
       "image": "jscherer.jpg",
       "managerId": "acortes",
       "territory": "",
-      "mapTerritories": [],
-      "meetingUrl": ""
+      "mapTerritories": [
+        "PA-NW",
+        "PA-SW",
+        "NY-NW",
+        "NY-NE",
+        "VT-ALL",
+        "ME-NE"
+      ],
+      "meetingUrl": "",
+      "mapColor": "#d1c4e9"
     },
     {
       "id": "khuffstetler",
@@ -213,8 +256,13 @@
       "image": "",
       "managerId": "acortes",
       "territory": "",
-      "mapTerritories": [],
-      "meetingUrl": ""
+      "mapTerritories": [
+        "VA-ALL",
+        "NC-ALL",
+        "SC-ALL"
+      ],
+      "meetingUrl": "",
+      "mapColor": "#e57473"
     },
     {
       "id": "raranda",
@@ -241,9 +289,11 @@
         "UT-SW",
         "UT-SE",
         "NV-SE",
-        "NV-SW"
+        "NV-SW",
+        "HI-ALL"
       ],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#a5d6a7"
     },
     {
       "id": "jplagenza",
@@ -268,7 +318,8 @@
         "NV-NE",
         "UT-NE"
       ],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#f06292"
     },
     {
       "id": "mprokash",
@@ -293,7 +344,8 @@
         "IN-NE",
         "IN-NW"
       ],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#9ccc65"
     },
     {
       "id": "bwagner",
@@ -311,8 +363,16 @@
       "image": "headshots/bwagner.jpg",
       "managerId": "acortes",
       "territory": "",
-      "mapTerritories": [],
-      "meetingUrl": ""
+      "mapTerritories": [
+        "MI-ALL",
+        "IN-SW",
+        "IN-SE",
+        "OH-ALL",
+        "KY-ALL",
+        "WV-ALL"
+      ],
+      "meetingUrl": "",
+      "mapColor": "#42a5f5"
     },
     {
       "id": "kmauck",
@@ -331,7 +391,8 @@
       "managerId": "",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "ldephillips",
@@ -351,7 +412,8 @@
       "managerId": "",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "ddayal",
@@ -370,7 +432,8 @@
       "managerId": "kmauck",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "glarson",
@@ -389,7 +452,8 @@
       "managerId": "ddayal",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "sallworth",
@@ -408,7 +472,8 @@
       "managerId": "",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "vlilie",
@@ -427,7 +492,8 @@
       "managerId": "sallworth",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "mleoni",
@@ -447,7 +513,8 @@
       "managerId": "kmauck",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "bjudson",
@@ -466,7 +533,8 @@
       "managerId": "mleoni",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "dhenreckson",
@@ -485,7 +553,8 @@
       "managerId": "ldephillips",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "wanderson",
@@ -504,7 +573,8 @@
       "managerId": "morcutt",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "mcook",
@@ -523,7 +593,8 @@
       "managerId": "ldephillips",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "bdavis",
@@ -542,7 +613,8 @@
       "managerId": "ldephillips",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "mhutchison",
@@ -561,7 +633,8 @@
       "managerId": "ldephillips",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "pacevedo",
@@ -580,7 +653,8 @@
       "managerId": "ldephillips",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "mboyer",
@@ -599,7 +673,8 @@
       "managerId": "morcutt",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "lwhalen",
@@ -618,7 +693,8 @@
       "managerId": "morcutt",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "hhanson",
@@ -637,7 +713,8 @@
       "managerId": "morcutt",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "tmoore",
@@ -656,7 +733,8 @@
       "managerId": "morcutt",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "abraham",
@@ -675,7 +753,8 @@
       "managerId": "morcutt",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "bashley",
@@ -694,7 +773,8 @@
       "managerId": "morcutt",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "lradeshak",
@@ -713,7 +793,8 @@
       "managerId": "kmauck",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "teckert",
@@ -732,7 +813,8 @@
       "managerId": "lradeshak",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "jtaylor",
@@ -751,7 +833,8 @@
       "managerId": "sallworth",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "rwilliams",
@@ -770,7 +853,8 @@
       "managerId": "sallworth",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "smagoc",
@@ -789,7 +873,8 @@
       "managerId": "sallworth",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "eandersson",
@@ -808,7 +893,8 @@
       "managerId": "sallworth",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "btschannen",
@@ -827,7 +913,8 @@
       "managerId": "bjudson",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "dtschannen",
@@ -846,7 +933,8 @@
       "managerId": "bjudson",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "pruben",
@@ -865,7 +953,8 @@
       "managerId": "ddayal",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     },
     {
       "id": "jbuzzell",
@@ -884,7 +973,8 @@
       "managerId": "ddayal",
       "territory": "",
       "mapTerritories": [],
-      "meetingUrl": ""
+      "meetingUrl": "",
+      "mapColor": "#C4D92E"
     }
   ]
 }

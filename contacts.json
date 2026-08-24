@@ -236,7 +236,13 @@
         "NY-NW",
         "NY-NE",
         "VT-ALL",
-        "ME-NE"
+        "ME-NE",
+        "MD-ALL",
+        "DE-ALL",
+        "NJ-ALL",
+        "CT-ALL",
+        "MA-ALL",
+        "NH-ALL"
       ],
       "meetingUrl": "",
       "mapColor": "#d1c4e9"

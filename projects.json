@@ -22,6 +22,16 @@
 "24-Hour Return to Service",
 "Chemical & Stain Resistant"
 ]
+},
+{
+"name": "East Texas Manufacturing Facility",
+"image": "https://epoxyfloorsindy.com/wp-content/uploads/bb-plugin/cache/Indy-Commercial-Epoxy-Floor-Contractors-1-scaled-landscape-b6c4af1cd0cdc8581e99fc13ec6611ba-rgi8da46xhov.jpg",
+"description": "A 5,000 sq ft warehouse requiring minimal downtime. We used a fast-curing polyaspartic system that allowed them to resume forklift operations within 24 hours.",
+"bullets": [
+"Forklift Rated",
+"24-Hour Return to Service",
+"Chemical & Stain Resistant"
+]
 }
 ]
 },
@@ -48,20 +58,30 @@
 "Seamless Baseboards",
 "Wipes Clean Easily"
 ]
+},
+{
+"name": "Tyler New Construction Garage",
+"image": "https://greenmountainepoxyflooring.com/photos/flake-epoxy-garage-floor.webp",
+"description": "Protected a brand new garage floor before moving day. This homeowner opted for a clean, solid grey epoxy base with a durable clear topcoat for easy maintenance.",
+"bullets": [
+"Hot-Tire Resistant",
+"Seamless Baseboards",
+"Wipes Clean Easily"
+]
 }
 ]
 },
 "outdoor": {
 "title": "Outdoor & Patios",
-"description": "100% waterproof, sanitary, and easy-to-wash coatings perfect for animal care facilities, patios, and outdoor living spaces.",
+"description": "100% waterproof and easy-to-wash coatings perfect for patios and outdoor living spaces.",
 "projects": [
 {
-"name": "East Texas Rescue Kennel",
+"name": "East Texas Lakefront Patio",
 "image": "https://premieredgecs.com/wp-content/uploads/2026/03/Outdoor-Floor-Coating.jpg",
 "description": "A seamless, waterproof floor coating that prevents bacteria buildup and makes daily wash-downs incredibly fast and efficient.",
 "bullets": [
-"Sanitary & Antimicrobial",
 "100% Waterproof",
+"Efortless to clean",
 "Scratch Resistant"
 ]
 },
@@ -73,6 +93,16 @@
 "UV Stable (No Yellowing)",
 "High Traction for Bare Feet",
 "Cooler to the Touch"
+]
+},
+{
+"name": "East Texas Lakefront Patio",
+"image": "https://premieredgecs.com/wp-content/uploads/2026/03/Outdoor-Floor-Coating.jpg",
+"description": "A seamless, waterproof floor coating that prevents bacteria buildup and makes daily wash-downs incredibly fast and efficient.",
+"bullets": [
+"100% Waterproof",
+"Efortless to clean",
+"Scratch Resistant"
 ]
 }
 ]

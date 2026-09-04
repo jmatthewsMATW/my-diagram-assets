@@ -1,0 +1,80 @@
+{
+"commercial": {
+"title": "Commercial & Industrial",
+"description": "Heavy-duty applications built for forklift traffic, harsh chemicals, and rigorous safety protocols in East Texas.",
+"projects": [
+{
+"name": "Local Auto Repair Shop",
+"image": "https://greenmountainepoxyflooring.com/photos/commercial-epoxy-flooring.webp",
+"description": "Installed a high-impact, slip-resistant system designed specifically to withstand dropped tools, jack stands, and harsh automotive solvents. The floor was prepped with a heavy diamond grind.",
+"bullets": [
+"Extreme Impact Resistance",
+"Slip-Resistant Texture",
+"Safety Yellow Demarcations"
+]
+},
+{
+"name": "East Texas Manufacturing Facility",
+"image": "https://greenmountainepoxyflooring.com/photos/metallic-epoxy-floor.webp",
+"description": "A 5,000 sq ft warehouse requiring minimal downtime. We used a fast-curing polyaspartic system that allowed them to resume forklift operations within 24 hours.",
+"bullets": [
+"Forklift Rated",
+"24-Hour Return to Service",
+"Chemical & Stain Resistant"
+]
+}
+]
+},
+"residential": {
+"title": "Residential Garages",
+"description": "Explore our recent residential garage floor transformations. Every project features our industrial-grade, multi-layer polyaspartic coating system.",
+"projects": [
+{
+"name": "The Lindale 3-Car Overlay",
+"image": "https://greenmountainepoxyflooring.com/photos/flake-epoxy-garage-floor.webp",
+"description": "A complete overhaul of a heavily oil-stained 3-car garage. We ground the concrete down to the pores and applied a custom 'Nightfall' flake blend.",
+"bullets": [
+"2-Day Installation",
+"Custom Flake Color",
+"High-Gloss Polyaspartic Finish"
+]
+},
+{
+"name": "Tyler New Construction Garage",
+"image": "https://greenmountainepoxyflooring.com/photos/solid-color-epoxy.webp",
+"description": "Protected a brand new garage floor before moving day. This homeowner opted for a clean, solid grey epoxy base with a durable clear topcoat for easy maintenance.",
+"bullets": [
+"Hot-Tire Resistant",
+"Seamless Baseboards",
+"Wipes Clean Easily"
+]
+}
+]
+},
+"outdoor": {
+"title": "Outdoor & Patios",
+"description": "100% waterproof, sanitary, and easy-to-wash coatings perfect for animal care facilities, patios, and outdoor living spaces.",
+"projects": [
+{
+"name": "East Texas Rescue Kennel",
+"image": "https://static.wixstatic.com/media/722e7a_41f520556cd94355aa921f9dc789fdb8~mv2.jpg/v1/fill/w_2500,h_1875,al_c/722e7a_41f520556cd94355aa921f9dc789fdb8~mv2.jpg",
+"description": "A seamless, waterproof floor coating that prevents bacteria buildup and makes daily wash-downs incredibly fast and efficient.",
+"bullets": [
+"Sanitary & Antimicrobial",
+"100% Waterproof",
+"Scratch Resistant"
+]
+},
+{
+"name": "Backyard Pool Deck Retreat",
+"image": "https://greenmountainepoxyflooring.com/photos/quartz-epoxy-floor.webp",
+"description": "Resurfaced an aging, cracked concrete pool deck using a UV-stable polyaspartic coating with a broadcast quartz additive for maximum grip around wet areas.",
+"bullets": [
+"UV Stable (No Yellowing)",
+"High Traction for Bare Feet",
+"Cooler to the Touch"
+]
+}
+]
+}
+}

@@ -19768,22 +19768,22 @@
   },
   "sortOrder": {
     "productLines": [
+      "XIJ",
+      "VIJ",
+      "TIJ",
+      "TIJ Core",
+      "PIJ",
       "CO2 Standard",
       "CO2 Configurable",
       "Fiber Film",
       "Fiber Laser",
       "UV Laser",
-      "TIJ",
-      "LPA",
-      "PIJ",
-      "VIJ",
-      "XIJ",
-      "TIJ Core"
+      "LPA"
     ],
     "categories": {
       "CO2 Standard": [
-        "Laser Head",
         "Controller",
+        "Laser Head",
         "Communication",
         "Extraction",
         "Peripheral",
@@ -19793,62 +19793,63 @@
       ],
       "CO2 Configurable": [
         "Controller",
-        "Safety",
-        "Lens",
         "Print Head",
-        "Peripheral",
+        "Lens",
         "Communication",
-        "Mounting",
         "Extraction",
+        "Peripheral",
+        "Safety",
+        "Mounting",
         "Accessories"
       ],
       "Fiber Film": [
         "Controller",
+        "Laser Head",
+        "Lens",
         "Communication",
-        "Mounting",
         "Extraction",
         "Peripheral",
+        "Mounting",
         "Safety",
-        "Accessories",
-        "Laser Head",
-        "Lens"
+        "Accessories"
       ],
       "Fiber Laser": [
         "Controller",
+        "Laser Head",
+        "Lens",
         "Communication",
-        "Mounting",
         "Extraction",
         "Peripheral",
+        "Mounting",
         "Safety",
-        "Accessories",
-        "Lens",
-        "Laser Head"
+        "Accessories"
       ],
       "UV Laser": [
         "Controller",
+        "Print Head",
         "Lens",
         "Communication",
-        "Mounting",
         "Extraction",
         "Peripheral",
+        "Mounting",
         "Safety",
-        "Accessories",
-        "Print Head"
+        "Accessories"
       ],
       "TIJ": [
-        "Communication",
-        "Controller",
-        "Accessory",
-        "Print Head",
-        "Mounting",
-        "Maintenance",
         "VIApack",
+        "Controller",
+        "Print Head",
+        "Communication",
+        "Peripheral",
         "Fluid",
-        "Peripheral"
+        "Mounting",
+        "Accessory",
+        "Maintenance"
       ],
       "LPA": [
-        "Communication",
         "Controller",
+        "Print Head",
+        "Communication",
         "Accessories",
         "Applicator",
         "Arm",
@@ -19856,45 +19857,44 @@
         "Maintenance",
         "Mounting",
         "Pallet System",
-        "Peripheral",
-        "Print Head"
-      ],
-      "PIJ": [
-        "Communication",
-        "Controller",
-        "Maintenance",
-        "Print Head",
-        "Mounting",
-        "Fluid",
         "Peripheral"
       ],
-      "VIJ": [
-        "Communication",
+      "PIJ": [
         "Controller",
-        "Maintenance",
-        "Peripheral",
-        "Fluid Systems",
         "Print Head",
+        "Communication",
+        "Peripheral",
         "Fluid",
         "Mounting",
+        "Maintenance"
+      ],
+      "VIJ": [
+        "Bundle",
+        "Controller",
+        "Print Head",
+        "Communication",
         "Driver Module",
-        "Bundle"
+        "Fluid Systems",
+        "Peripheral",
+        "Mounting",
+        "Fluid",
+        "Maintenance"
       ],
       "XIJ": [
-        "Communication",
-        "Controller",
-        "Maintenance",
+        "System",
         "Mounting",
         "Fluid",
-        "System"
+        "Maintenance",
+        "Controller",
+        "Communication"
       ],
       "TIJ Core": [
-        "Communication",
-        "Peripheral",
-        "Maintenance",
-        "Mounting",
         "Complete System",
         "Fluid",
+        "Peripheral",
+        "Maintenance",
+        "Communication",
+        "Mounting",
         "Controller"
       ]
     },
@@ -19906,10 +19906,10 @@
           "15\"",
           "MLDS",
           "Macsa",
-          "OEM",
           "Licenses",
           "Mounting",
-          "Parts"
+          "Parts",
+          "OEM"
         ],
         "Laser Head": [
           "10W",
@@ -20051,15 +20051,15 @@
       },
       "Fiber Laser": {
         "Controller": [
-          "MLDS",
-          "Parts",
           "8\"",
           "12\"",
           "15\"",
+          "MLDS",
+          "Macsa",
           "Mounting",
-          "OEM",
           "Licenses",
-          "Macsa"
+          "Parts",
+          "OEM"
         ],
         "Communication": [
           "Ethernet Switch",
@@ -20102,15 +20102,15 @@
       },
       "UV Laser": {
         "Controller": [
-          "MLDS",
-          "Parts",
           "8\"",
           "12\"",
           "15\"",
-          "Mounting",
-          "OEM",
+          "MLDS",
+          "Macsa",
           "Licenses",
-          "Macsa"
+          "Mounting",
+          "Parts",
+          "OEM"
         ],
         "Lens": [],
         "Communication": [
@@ -20155,11 +20155,11 @@
           "PowerComm"
         ],
         "Controller": [
-          "Parts",
           "8\"",
           "12\"",
           "15\"",
           "Mounting",
+          "Parts",
           "OEM"
         ],
         "Accessory": [
@@ -20199,11 +20199,11 @@
           "Ethernet Cables"
         ],
         "Controller": [
-          "Parts",
           "8\"",
           "12\"",
           "15\"",
           "Mounting",
+          "Parts",
           "OEM"
         ],
         "Accessories": [
@@ -20270,11 +20270,11 @@
           "PowerComm"
         ],
         "Controller": [
-          "Parts",
           "8\"",
           "12\"",
           "15\"",
           "Mounting",
+          "Parts",
           "OEM"
         ],
         "Maintenance": [
@@ -20311,12 +20311,12 @@
           "Ethernet Cables"
         ],
         "Controller": [
-          "Parts",
           "8\"",
           "12\"",
           "15\"",
           "Mounting",
-          "OEM"
+          "OEM",
+          "Parts"
         ],
         "Maintenance": [],
         "Peripheral": [

@@ -9104,13 +9104,13 @@
       "category": "Peripheral",
       "subCategory": "",
       "subCategory2": "",
-      "price": "",
-      "leadTime": "",
+      "price": "395",
+      "leadTime": "2 Days",
       "bomOrder": "",
       "specs": "CABLE,BREAKOUT,TIJ CORE,CT1000",
       "image": "",
       "warning": "",
-      "notes": ""
+      "notes": "Works with L-Series photoeye, encoder, and lightstack accessories."
     },
     {
       "id": "71228848",
@@ -9774,23 +9774,6 @@
       "image": "",
       "warning": "",
       "notes": "Includes CT1000 Printhead, Spring Loaded Mount, and Power Supply"
-    },
-    {
-      "id": "41246474",
-      "priceBookEntryId": "01uOt00000JcAK5",
-      "name": "ACCESSORY,TIJ CORE,CT1000,FANOUT CBL",
-      "productLine": "TIJ Core",
-      "sapLevel3": "TIJ Core",
-      "category": "Peripheral",
-      "subCategory": "Cables",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "ACCESSORY,TIJ CORE,CT1000,FANOUT CBL",
-      "image": "",
-      "warning": "",
-      "notes": ""
     },
     {
       "id": "41246475",
@@ -19581,23 +19564,6 @@
       "bomOrder": "",
       "specs": "LICENSE KEY,COMML PRNTG PRO,PMPERIA™",
       "image": "License",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41039564",
-      "priceBookEntryId": "01uOt00000Jc9Cx",
-      "name": "MPERIA USB-to-Ethernet, IP65",
-      "productLine": "XIJ, VIJ, TIJ, PIJ, LPA, CO2 Standard, CO2 Configurable, Fiber Laser, Fiber Film, UV Laser, TIJ Core",
-      "sapLevel3": "Common HW",
-      "category": "Controller",
-      "subCategory": "15\"",
-      "subCategory2": "Parts",
-      "price": "237",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "CABLE,USB/ETHERNET,IP65,FOR Mperia™",
-      "image": "",
       "warning": "",
       "notes": ""
     }

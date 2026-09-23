@@ -19729,7 +19729,7 @@
     }
   ],
   "settings": {
-    "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/) that matches the part #. This used to pull the images in fine, but now I have to append the part number in the image override field to get it to pull in (e.g., https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/",
+    "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/",
     "imageExtension": ".png"
   },
   "sortOrder": {

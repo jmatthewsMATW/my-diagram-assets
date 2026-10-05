@@ -19614,6 +19614,38 @@
       "warning": "",
       "notes": "",
       "image": ""
+    },
+    {
+      "id": "41057963",
+      "priceBookEntryId": "",
+      "name": "Connector,1/8 Hose Barb, Valve-Body, EPR",
+      "productLine": "VIJ",
+      "category": "",
+      "subCategory": "",
+      "subCategory2": "",
+      "specs": "",
+      "price": "19",
+      "leadTime": "2 Weeks",
+      "bomOrder": "",
+      "warning": "",
+      "notes": "",
+      "image": ""
+    },
+    {
+      "id": "41057964",
+      "priceBookEntryId": "",
+      "name": "Connector,1/8 Hose Barb, No-Valve, Insert, EPR",
+      "productLine": "VIJ",
+      "category": "",
+      "subCategory": "",
+      "subCategory2": "",
+      "specs": "",
+      "price": "7.35",
+      "leadTime": "2 Weeks",
+      "bomOrder": "",
+      "warning": "",
+      "notes": "",
+      "image": ""
     }
   ],
   "rules": {

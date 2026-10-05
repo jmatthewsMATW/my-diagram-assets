@@ -19308,7 +19308,7 @@
       "leadTime": "4 weeks",
       "bomOrder": "2",
       "specs": "AXIAN,NODE,KIT",
-      "image": "Test",
+      "image": "",
       "warning": "",
       "notes": "Axian node that includes: Ink Delivery System (IDS) and Printhead | IDS power cord | Jetting Module (JM) | Diffuse photocell for Axian floor stand, M8 w/ extension cable"
     },
@@ -19325,7 +19325,7 @@
       "leadTime": "4 weeks",
       "bomOrder": "1",
       "specs": "AXIAN,SYSTEM,KIT",
-      "image": "Test",
+      "image": "",
       "warning": "",
       "notes": "Axian system that includes: AXIAN NODE KIT | MPERIA® 8\" with power cables, IP55"
     },
@@ -19529,7 +19529,7 @@
       "leadTime": "",
       "bomOrder": "",
       "specs": "LICENSE KEY,VIAEDIT,MPERIA™",
-      "image": "License",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LicenseKey.png",
       "warning": "",
       "notes": ""
     },
@@ -19546,7 +19546,7 @@
       "leadTime": "",
       "bomOrder": "",
       "specs": "LICENSE KEY,COMML PRNTG STD,MPERIA™",
-      "image": "License",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LicenseKey.png",
       "warning": "",
       "notes": ""
     },
@@ -19563,7 +19563,7 @@
       "leadTime": "",
       "bomOrder": "",
       "specs": "LICENSE KEY,COMML PRNTG PRO,PMPERIA™",
-      "image": "License",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LicenseKey.png",
       "warning": "",
       "notes": ""
     },

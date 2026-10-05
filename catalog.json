@@ -19058,40 +19058,6 @@
       "notes": "Diffuse photocell for Axian floor stand, M8 w/ extension cable"
     },
     {
-      "id": "71215713",
-      "priceBookEntryId": "01uOt00000JcABt",
-      "name": "INK CARTRIDGE, AXN-611, BLACK, 800ML",
-      "productLine": "XIJ",
-      "sapLevel3": "",
-      "category": "Fluid",
-      "subCategory": "Ink",
-      "subCategory2": "",
-      "price": "160",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "INK CARTRIDGE, AXN-611, BLACK, 800ML",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "71215714",
-      "priceBookEntryId": "01uOt00000JcABu",
-      "name": "AXN-600-CLN CLEANER CARTRIDGE, 800ML",
-      "productLine": "XIJ",
-      "sapLevel3": "",
-      "category": "Fluid",
-      "subCategory": "Cleaner",
-      "subCategory2": "",
-      "price": "75",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "AXN-600-CLN CLEANER CARTRIDGE, 800ML",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "71234822",
       "priceBookEntryId": "",
       "name": "Stand Storage Cabinet",
@@ -19121,7 +19087,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "",
       "specs": "INK,AXM-7000,COMBO PACK,4 INK,BLK",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71236822.png",
       "warning": "",
       "notes": "Combo fluid pack that includes: 4x 800ml ink cartridges, black, MEK base | 1x 250ml cleaner for JM maintenance | 1x lint free wipes"
     },
@@ -19138,7 +19104,7 @@
       "leadTime": "2 week",
       "bomOrder": "",
       "specs": "INK,AXM-7000,COMBO PACK,3 INK,1 CL,BLK",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71236823.png",
       "warning": "",
       "notes": "Combo fluid pack that includes: 3x 800ml ink cartridges, black,  MEK base | 1x 800ml cleaner cartridge, MEK/Isopropyl base | 1x 250ml cleaner for JM maintenance | 1x lint free wipes"
     },
@@ -19359,7 +19325,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "",
       "specs": "INK,AXM-7000,BLACK,SINGLE CARTRIDGE",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71236820.png",
       "warning": "",
       "notes": "single 800ml ink cartridge, MEK/Isopropyl base"
     },
@@ -19376,7 +19342,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "",
       "specs": "INK,AXM-7000C,CLEANER,SINGLE CARTRIDGE",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71236821.png",
       "warning": "",
       "notes": "Single 800ml cleaner cartridge, MEK/Isopropyl base for system flush and storage"
     },
@@ -19393,7 +19359,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "",
       "specs": "INK,AXM-7000,COMBO PACK,2 INK,2 CL,BLK",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71236824.png",
       "warning": "",
       "notes": "Combo fluid pack that includes: 2x 800ml ink cartridges, black,  MEK base | 2x 800ml cleaner cartridge, MEK/Isopropyl base | 1x 250ml cleaner for JM maintenance | 1x lint free wipes"
     },
@@ -19410,7 +19376,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "",
       "specs": "INK,AXM-7000,COMBO PACK,1 INK,1 CL,BLK",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71237569.png",
       "warning": "",
       "notes": "Combo fluid pack that includes: 1x 800ml MEK ink cartridge, 1x 800ml MEK cleaner cartridge, 1x 250ml cleaner for JM maintenance, 1x lint free wipes"
     },

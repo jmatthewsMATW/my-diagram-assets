@@ -8331,23 +8331,6 @@
       "notes": ""
     },
     {
-      "id": "71210659",
-      "priceBookEntryId": "01uOt00000Jc8l1",
-      "name": "INK,T-SERIES BLACK,PGMNT,1L,HP HOOD ONLY",
-      "productLine": "PIJ",
-      "sapLevel3": "PIJ",
-      "category": "Fluid",
-      "subCategory": "Accuscan-Water",
-      "subCategory2": "1L Bottle",
-      "price": "391",
-      "leadTime": "",
-      "bomOrder": "100",
-      "specs": "INK,T-SERIES BLACK,PGMNT,1L,HP HOOD ONLY",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "71231764",
       "priceBookEntryId": "01uOt00000JcAPp",
       "name": "AccuScan II Ink - Black",
@@ -9966,7 +9949,7 @@
       "id": "41227044",
       "priceBookEntryId": "01uOt00000JcACl",
       "name": "Photocell Reflector Mounting Bracket",
-      "productLine": "TIJ, CO2 Configurable, CO2 Standard, Fiber Film, Fiber Laser, TIJ, LPA, PIJ, UV Laser, VIJ",
+      "productLine": "PIJ",
       "sapLevel3": "Common HW",
       "category": "Peripheral",
       "subCategory": "Trigger",
@@ -10825,7 +10808,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,DPI1200,HIGH TEMP WHITE,6x1L",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterWhite.png",
       "warning": "",
       "notes": ""
     },
@@ -11216,23 +11199,6 @@
       "leadTime": "",
       "bomOrder": "85",
       "specs": "FLUSH BOX V-LINK 15M CABLE",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41206541",
-      "priceBookEntryId": "",
-      "name": "PUMP,HP,KIT",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Fluid Systems",
-      "subCategory": "HP",
-      "subCategory2": "",
-      "price": "1183",
-      "leadTime": "",
-      "bomOrder": "94",
-      "specs": "PUMP,HP,KIT",
       "image": "",
       "warning": "",
       "notes": ""
@@ -12931,7 +12897,7 @@
       "subCategory2": "",
       "price": "4519",
       "leadTime": "",
-      "bomOrder": "32",
+      "bomOrder": "33",
       "specs": "ENCL,V-LINK,W/MPERIA™ CONTROLLER",
       "image": "",
       "warning": "",
@@ -13256,7 +13222,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP905A,BLUE,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlue.png",
       "warning": "",
       "notes": ""
     },
@@ -13290,7 +13256,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP903A,GREEN,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterGreen.png",
       "warning": "",
       "notes": ""
     },
@@ -13307,7 +13273,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP902A,RED,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -13324,7 +13290,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP910A,SP ORANGE,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterOrange.png",
       "warning": "",
       "notes": ""
     },
@@ -13358,7 +13324,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP920A,WHITE,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterWhite.png",
       "warning": "",
       "notes": ""
     },
@@ -13392,7 +13358,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP930A,BLACK,PIGMENTED,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -13426,7 +13392,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP940,WHITE,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterWhite.png",
       "warning": "",
       "notes": ""
     },
@@ -13494,7 +13460,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP901A,BLACK,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -13579,7 +13545,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP922A,YELLOW,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterYellow.png",
       "warning": "",
       "notes": ""
     },
@@ -13681,7 +13647,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP970,WHITE,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterWhite.png",
       "warning": "",
       "notes": ""
     },
@@ -14072,7 +14038,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP650,BLACK,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14106,7 +14072,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP621,BLUE,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlue.png",
       "warning": "",
       "notes": ""
     },
@@ -14157,7 +14123,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP623,GREEN,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterGreen.png",
       "warning": "",
       "notes": ""
     },
@@ -14174,7 +14140,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP622,RED,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -14191,7 +14157,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP624,YELLOW,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterYellow.png",
       "warning": "",
       "notes": ""
     },
@@ -14259,7 +14225,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX670,BLACK,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14344,7 +14310,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP670,DW BLACK,6x1LI, SC",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14378,7 +14344,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP620A,BLACK,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14446,7 +14412,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI411,BLACK,(QD),6X1LI,SC",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14463,7 +14429,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI413,GREEN,(QD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterGreen.png",
       "warning": "",
       "notes": ""
     },
@@ -14497,7 +14463,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI414,RED,(QD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -14531,7 +14497,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI419,SP RED,(QD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -14599,7 +14565,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM6959,SP BLACK,(QD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14633,7 +14599,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI630,BLACK,PIGMENTED,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14667,7 +14633,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP411A,BLACK,(QD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14735,7 +14701,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX470A,BLACK,(QD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14820,7 +14786,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP420,BLAZE ORANGE,(QD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterOrange.png",
       "warning": "",
       "notes": ""
     },
@@ -15415,7 +15381,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP1020, WHITE INK,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterWhite.png",
       "warning": "",
       "notes": ""
     },
@@ -15432,7 +15398,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP1028, LIGHT BLUE INK,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlue.png",
       "warning": "",
       "notes": ""
     },
@@ -15823,7 +15789,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM6807,ORANGE,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterOrange.png",
       "warning": "",
       "notes": ""
     },
@@ -15857,7 +15823,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM6802,YELLOW,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterYellow.png",
       "warning": "",
       "notes": ""
     },
@@ -15891,7 +15857,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI240,PURPLE,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterPurple.png",
       "warning": "",
       "notes": ""
     },
@@ -15976,7 +15942,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP701,BLUE,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlue.png",
       "warning": "",
       "notes": ""
     },
@@ -16010,7 +15976,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP703,GREEN,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterGreen.png",
       "warning": "",
       "notes": ""
     },
@@ -16027,7 +15993,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP704,ORANGE,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterOrange.png",
       "warning": "",
       "notes": ""
     },
@@ -16061,7 +16027,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP702,RED,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -16078,7 +16044,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP706,RED/ORANGE,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -16163,7 +16129,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP719,SP RED,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -16180,7 +16146,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP750,BLACK,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -16197,7 +16163,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP730,BLACK,PIGMENTED,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -16231,7 +16197,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP808A,LIGHT BLUE,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlue.png",
       "warning": "",
       "notes": ""
     },
@@ -16265,7 +16231,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP804A,GREEN,6X1LI, CS",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterGreen.png",
       "warning": "",
       "notes": ""
     },
@@ -16282,7 +16248,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP807A,ORANGE,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterOrange.png",
       "warning": "",
       "notes": ""
     },
@@ -16333,7 +16299,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP800A,WHITE,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterWhite.png",
       "warning": "",
       "notes": ""
     },
@@ -16367,7 +16333,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP802A,YELLOW,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterYellow.png",
       "warning": "",
       "notes": ""
     },
@@ -16503,7 +16469,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP700A,BLACK,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -16520,7 +16486,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP710,SP YELLOW,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterYellow.png",
       "warning": "",
       "notes": ""
     },
@@ -16571,7 +16537,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM6808,LT. BLUE,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlue.png",
       "warning": "",
       "notes": ""
     },
@@ -16588,7 +16554,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM4005,BLACK ,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -16639,7 +16605,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM1001,BLACK ,(SB),6X1LI,SC",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -16656,7 +16622,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM1004,GREEN ,(SB),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterGreen.png",
       "warning": "",
       "notes": ""
     },
@@ -16673,7 +16639,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM1005,RED ,(SB),6X1LI,SC",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -16707,7 +16673,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM2000,BLACK ,(SB),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -16758,7 +16724,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM1700A,BLACK,BARCODE,(SB),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -16792,7 +16758,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI111,BLACK,(SB),6X1LI,SC",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -16843,7 +16809,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI101,BLACK,(SB),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -16877,7 +16843,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX173,GREEN,(SB),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterGreen.png",
       "warning": "",
       "notes": ""
     },
@@ -16894,7 +16860,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX172,RED,(SB),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -17047,7 +17013,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX170,BLACK,(SB),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -17098,7 +17064,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP-101,BLACK,(SB),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -17115,7 +17081,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP-105,RED,(SB),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -17302,7 +17268,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,JAM3000,BLACK,(WBII),6X1LI,SC",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -17353,7 +17319,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP300A,BLACK,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -17404,7 +17370,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX370A,BLACK,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -17455,7 +17421,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP380,BLACK,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -17557,7 +17523,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX375A,BLUE,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlue.png",
       "warning": "",
       "notes": ""
     },
@@ -17591,7 +17557,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX372A,RED,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterRed.png",
       "warning": "",
       "notes": ""
     },
@@ -17625,7 +17591,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX373A,GREEN,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterGreen.png",
       "warning": "",
       "notes": ""
     },
@@ -17693,7 +17659,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP350 BLACK PIGMENTED WB INK,6x1L",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -17965,40 +17931,6 @@
       "leadTime": "6 weeks",
       "bomOrder": "41",
       "specs": "ISU,HP ADVANCED,1 ALARM",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41010564",
-      "priceBookEntryId": "",
-      "name": "NIPPLE,TUBE,5100 HPISU",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Fluid Systems",
-      "subCategory": "HP",
-      "subCategory2": "",
-      "price": "8.4",
-      "leadTime": "",
-      "bomOrder": "46",
-      "specs": "NIPPLE,TUBE,5100 HPISU",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41243965",
-      "priceBookEntryId": "",
-      "name": "INK SUPPLY,HP,W/O BASKET OR ACCESORIES",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Fluid Systems",
-      "subCategory": "HP",
-      "subCategory2": "",
-      "price": "1010.21",
-      "leadTime": "",
-      "bomOrder": "41",
-      "specs": "INK SUPPLY,HP,W/O BASKET OR ACCESORIES",
       "image": "",
       "warning": "",
       "notes": ""

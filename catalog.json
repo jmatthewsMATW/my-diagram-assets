@@ -10745,23 +10745,6 @@
       "notes": ""
     },
     {
-      "id": "40000004",
-      "priceBookEntryId": "",
-      "name": "PHOTOCELL,DOD,8000,SERIES",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Peripheral",
-      "subCategory": "Trigger",
-      "subCategory2": "",
-      "price": "523",
-      "leadTime": "",
-      "bomOrder": "61",
-      "specs": "PHOTOCELL,DOD,8000,SERIES",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "40000058",
       "priceBookEntryId": "",
       "name": "Eliminizer",
@@ -12547,40 +12530,6 @@
       "notes": ""
     },
     {
-      "id": "41005793",
-      "priceBookEntryId": "01uOt00000M6ww6",
-      "name": "RESERVOIR",
-      "productLine": "VIJ",
-      "sapLevel3": "Contact Inks",
-      "category": "Fluid Systems",
-      "subCategory": "Maintenance",
-      "subCategory2": "",
-      "price": "143",
-      "leadTime": "",
-      "bomOrder": "94",
-      "specs": "RESERVOIR",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41005924",
-      "priceBookEntryId": "01uOt00000M6ww0",
-      "name": "SENSOR,PRESSURE,ASSY",
-      "productLine": "VIJ",
-      "sapLevel3": "Contact Inks",
-      "category": "Fluid Systems",
-      "subCategory": "Maintenance",
-      "subCategory2": "",
-      "price": "381",
-      "leadTime": "",
-      "bomOrder": "50",
-      "specs": "SENSOR,PRESSURE,ASSY",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41006172",
       "priceBookEntryId": "",
       "name": "Basic Stand Assembly with Adjustment",
@@ -12596,23 +12545,6 @@
       "image": "",
       "warning": "",
       "notes": "Includes an ink module mount bracket (41002692). Add the required controller shelf(s) as needed"
-    },
-    {
-      "id": "41006920",
-      "priceBookEntryId": "01uOt00000Jc8mh",
-      "name": "VALVE,CHECK,EPDM O-RING (FLOWJET)",
-      "productLine": "VIJ",
-      "sapLevel3": "Common HW",
-      "category": "Fluid Systems",
-      "subCategory": "Flowjet",
-      "subCategory2": "",
-      "price": "31.25",
-      "leadTime": "",
-      "bomOrder": "49",
-      "specs": "VALVE,CHECK,EPDM O-RING (FLOWJET)",
-      "image": "",
-      "warning": "",
-      "notes": ""
     },
     {
       "id": "41008215",
@@ -16690,7 +16622,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "100",
       "specs": "INK,AXM-7000,COMBO PACK,4 INK,BLK",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71236822.png",
+      "image": "",
       "warning": "",
       "notes": "Combo fluid pack that includes: 4x 800ml ink cartridges, black, MEK base | 1x 250ml cleaner for JM maintenance | 1x lint free wipes"
     },
@@ -16707,7 +16639,7 @@
       "leadTime": "2 week",
       "bomOrder": "100",
       "specs": "INK,AXM-7000,COMBO PACK,3 INK,1 CL,BLK",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71236823.png",
+      "image": "",
       "warning": "",
       "notes": "Combo fluid pack that includes: 3x 800ml ink cartridges, black,  MEK base | 1x 800ml cleaner cartridge, MEK/Isopropyl base | 1x 250ml cleaner for JM maintenance | 1x lint free wipes"
     },
@@ -16775,7 +16707,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "74",
       "specs": "STAND,AXIAN,PRINT HEAD ARM",
-      "image": "Test",
+      "image": "",
       "warning": "",
       "notes": ""
     },
@@ -16928,7 +16860,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "100",
       "specs": "INK,AXM-7000,BLACK,SINGLE CARTRIDGE",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71236820.png",
+      "image": "",
       "warning": "",
       "notes": "single 800ml ink cartridge, MEK/Isopropyl base"
     },
@@ -16945,7 +16877,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "110",
       "specs": "INK,AXM-7000C,CLEANER,SINGLE CARTRIDGE",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71236821.png",
+      "image": "",
       "warning": "",
       "notes": "Single 800ml cleaner cartridge, MEK/Isopropyl base for system flush and storage"
     },
@@ -16962,7 +16894,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "100",
       "specs": "INK,AXM-7000,COMBO PACK,2 INK,2 CL,BLK",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71236824.png",
+      "image": "",
       "warning": "",
       "notes": "Combo fluid pack that includes: 2x 800ml ink cartridges, black,  MEK base | 2x 800ml cleaner cartridge, MEK/Isopropyl base | 1x 250ml cleaner for JM maintenance | 1x lint free wipes"
     },
@@ -16979,7 +16911,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "100",
       "specs": "INK,AXM-7000,COMBO PACK,1 INK,1 CL,BLK",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/71237569.png",
+      "image": "",
       "warning": "",
       "notes": "Combo fluid pack that includes: 1x 800ml MEK ink cartridge, 1x 800ml MEK cleaner cartridge, 1x 250ml cleaner for JM maintenance, 1x lint free wipes"
     },

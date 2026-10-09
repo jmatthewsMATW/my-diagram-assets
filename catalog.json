@@ -10745,40 +10745,6 @@
       "notes": ""
     },
     {
-      "id": "71203044",
-      "priceBookEntryId": "01uOt00000JcACM",
-      "name": "INK,DPI1200,HIGH TEMPERATURE WHITE,2",
-      "productLine": "VIJ",
-      "sapLevel3": "",
-      "category": "Fluid",
-      "subCategory": "High Temp",
-      "subCategory2": "",
-      "price": "764",
-      "leadTime": "",
-      "bomOrder": "110",
-      "specs": "INK,DPI1200,HIGH TEMPERATURE WHITE,2",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "71203045",
-      "priceBookEntryId": "01uOt00000JcACN",
-      "name": "INK,DPI1200,HIGH TEMPERATURE WHITE,4",
-      "productLine": "VIJ",
-      "sapLevel3": "",
-      "category": "Fluid",
-      "subCategory": "High Temp",
-      "subCategory2": "",
-      "price": "904",
-      "leadTime": "",
-      "bomOrder": "110",
-      "specs": "INK,DPI1200,HIGH TEMPERATURE WHITE,4",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "40000004",
       "priceBookEntryId": "",
       "name": "PHOTOCELL,DOD,8000,SERIES",
@@ -13307,7 +13273,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP900C,CLEANER,5GL,BNG",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -13324,7 +13290,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP900C,CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -13681,7 +13647,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP620C,CLEANER,5GL,BNG",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -13698,7 +13664,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP620C,CLEANER,6X1LI,SC",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -13749,7 +13715,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP620C,CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -14276,7 +14242,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP-400C,(QD),CLEANER,5GL,BNG",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -14293,7 +14259,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP-400C,(QD),CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -14327,7 +14293,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP1020C, CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -14412,7 +14378,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP700C,(FD),CLEANER,5GL,BNG",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -14582,7 +14548,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP709,UV,(FD),5GL,BNG",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -14599,7 +14565,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP709,UV,(FD),6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -14854,7 +14820,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP700C,(FD),CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -14990,7 +14956,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP610C,CLEANER,5GL,BNG",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15007,7 +14973,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP610C,CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15228,7 +15194,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP-100C,(SB),CLEANER,5GL,BNG",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15245,7 +15211,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP-100C,(SB),CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15364,7 +15330,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,PX370C,CLEANER,5GL,WB",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15381,7 +15347,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,PX370C,CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15415,7 +15381,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP380C,CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15636,7 +15602,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP350C CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15653,7 +15619,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP350C CLEANER,PL",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15687,7 +15653,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP-300C,(WB),CLEANER,5GL,WB",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15704,7 +15670,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP-300C,(WBII),CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },
@@ -15738,7 +15704,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,DPI-320C,(WB),CLEANER,6X1LI",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LiterCleaner.png",
       "warning": "",
       "notes": ""
     },

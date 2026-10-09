@@ -13086,7 +13086,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP901A,BLACK,DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -13380,23 +13380,6 @@
       "notes": ""
     },
     {
-      "id": "71076718",
-      "priceBookEntryId": "",
-      "name": "INK,SCP940,CHEP WHITE,5GL,BNG",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Fluid",
-      "subCategory": "Acetone",
-      "subCategory2": "Ink Pigment",
-      "price": "617",
-      "leadTime": "",
-      "bomOrder": "100",
-      "specs": "INK,SCP940,CHEP WHITE,5GL,BNG",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "71078093",
       "priceBookEntryId": "",
       "name": "INK,SCP922A,YELLOW,5GL,BNG",
@@ -13460,7 +13443,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP990A,BLACK,DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -13613,7 +13596,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP623,GREEN,DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMGreen.png",
       "warning": "",
       "notes": ""
     },
@@ -13834,7 +13817,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP670,DW BLACK INK,DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -13885,7 +13868,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP620A,BLACK,DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -13902,7 +13885,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI411,BLACK,(QD),DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14123,7 +14106,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI411,VL BLACK,DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14208,7 +14191,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX470A,BLACK,(QD),DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14259,7 +14242,7 @@
       "leadTime": "",
       "bomOrder": "110",
       "specs": "INK,SCP411A,BLACK,(QD),DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14276,7 +14259,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI416,SP BLACK,(QD),DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14327,7 +14310,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI501,BLACK,DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -14446,7 +14429,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP700A,BLACK,(FD),DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -15109,7 +15092,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP610A,DW,BLACK,DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -15177,7 +15160,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX170,BLACK,(SB),DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -15279,7 +15262,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP300A,BLACK,DR,WB",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -15330,7 +15313,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,PX370A,BLACK,DR,WB",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -15551,7 +15534,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP380,BLACK,5GAL",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -15568,7 +15551,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP350 BLACK PIGMENTED WB INK,PL",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GPlasticBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -15585,7 +15568,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,SCP350 BLACK PIGMENTED WB INK,DR",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/DMBlack.png",
       "warning": "",
       "notes": ""
     },
@@ -15738,7 +15721,7 @@
       "leadTime": "",
       "bomOrder": "100",
       "specs": "INK,DPI-320,WHITE,PIGMNT,(WB),5GL,PL",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/5GMWhite.png",
       "warning": "",
       "notes": ""
     },

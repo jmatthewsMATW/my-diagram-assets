@@ -9805,7 +9805,7 @@
       "leadTime": "2 days",
       "bomOrder": "100",
       "specs": "INK,TIJ CORE,CTH-6000,BLK,SU",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
       "warning": "",
       "notes": ""
     },
@@ -9822,7 +9822,7 @@
       "leadTime": "4 - 6 weeks",
       "bomOrder": "100",
       "specs": "INK,TIJ CORE,CTH-6009,WHT,SU",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/WhiteCartridge.png",
       "warning": "",
       "notes": ""
     },
@@ -9839,7 +9839,7 @@
       "leadTime": "2 days",
       "bomOrder": "100",
       "specs": "INK,TIJ CORE,CTH-1300,BLK,SU",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
       "warning": "Must be sold in multiples of 6",
       "notes": ""
     },
@@ -9856,7 +9856,7 @@
       "leadTime": "2 days",
       "bomOrder": "100",
       "specs": "INK,TIJ CORE,CTH-1000,BLK,SU",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
       "warning": "Must be sold in multiples of 6",
       "notes": ""
     },
@@ -10399,7 +10399,7 @@
       "price": "342",
       "leadTime": "2 weeks",
       "bomOrder": "61",
-      "specs": "KIT,PHOTOCELL,WITH BRACKET,T-SERIES",
+      "specs": "Red Beam, 5m (16.5ft), includes bracket (41001407)",
       "image": "",
       "warning": "",
       "notes": "Includes Sensor bracket 41001407"

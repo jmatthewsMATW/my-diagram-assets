@@ -19028,5 +19028,18 @@
         }
       }
     }
-  }
+  },
+  "channelGroups": [
+    "CO2 Standard",
+    "CO2 Configurable",
+    "Fiber Film",
+    "Fiber Laser",
+    "UV Laser",
+    "TIJ",
+    "PIJ",
+    "VIJ",
+    "TIJ Core",
+    "XIJ",
+    "LPA"
+  ]
 }

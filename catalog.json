@@ -11442,23 +11442,6 @@
       "notes": ""
     },
     {
-      "id": "41004600",
-      "priceBookEntryId": "",
-      "name": "MANIFOLD,ASSEMBLY,FLOWJET,",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Fluid Systems",
-      "subCategory": "Flowjet",
-      "subCategory2": "",
-      "price": "1463",
-      "leadTime": "",
-      "bomOrder": "46",
-      "specs": "MANIFOLD,ASSEMBLY,FLOWJET,",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41006632",
       "priceBookEntryId": "",
       "name": "PICKUP,PAIL 204L/55G,ASSY W TUBE,FILTER",
@@ -12207,23 +12190,6 @@
       "notes": ""
     },
     {
-      "id": "41210928",
-      "priceBookEntryId": "",
-      "name": "VALVE,3-WAY,8000, 3W",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Fluid Systems",
-      "subCategory": "Maintenance",
-      "subCategory2": "",
-      "price": "359",
-      "leadTime": "",
-      "bomOrder": "49",
-      "specs": "VALVE,3-WAY,8000, 3W",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41211627",
       "priceBookEntryId": "01uOt00000KQEgi",
       "name": "FITTING,STR ADAPTER,1/2\" X 1/4\"T,PUSH-IN",
@@ -12321,23 +12287,6 @@
       "leadTime": "",
       "bomOrder": "61",
       "specs": "ENCODER BRACKET,TRU-TRAC",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41001398",
-      "priceBookEntryId": "",
-      "name": "BRACKET,MOUNTING",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Mounting",
-      "subCategory": "Bracket",
-      "subCategory2": "",
-      "price": "88",
-      "leadTime": "",
-      "bomOrder": "72",
-      "specs": "BRACKET,MOUNTING",
       "image": "",
       "warning": "",
       "notes": ""
@@ -12746,23 +12695,6 @@
       "leadTime": "",
       "bomOrder": "94",
       "specs": "CONTAINER,BOTTLE,1 LITER,WIDE MOUTH",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "11000650",
-      "priceBookEntryId": "",
-      "name": "CONTAINER, BOTTLE, 4 LITER/1 GAL",
-      "productLine": "VIJ",
-      "sapLevel3": "Common HW",
-      "category": "Fluid Systems",
-      "subCategory": "Maintenance",
-      "subCategory2": "",
-      "price": "15",
-      "leadTime": "",
-      "bomOrder": "94",
-      "specs": "CONTAINER,BOTTLE,4L/1GAL",
       "image": "",
       "warning": "",
       "notes": ""
@@ -15602,23 +15534,6 @@
       "leadTime": "",
       "bomOrder": "47",
       "specs": "TUBE,PICK-UP,CISU,ASSEMBLY",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41206445",
-      "priceBookEntryId": "",
-      "name": "ISU \"Cisu\" 10VDC, 110V CORD",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Fluid Systems",
-      "subCategory": "CISU",
-      "subCategory2": "",
-      "price": "5804",
-      "leadTime": "",
-      "bomOrder": "94",
-      "specs": "ISU \"Cisu\" 10VDC, 110V CORD",
       "image": "",
       "warning": "",
       "notes": ""
@@ -19086,6 +19001,76 @@
       {
         "label": "Mount",
         "productId": "40000409"
+      }
+    ],
+    "XIJ": [
+      {
+        "label": "System",
+        "productId": "71237544"
+      },
+      {
+        "label": "Mounting",
+        "productId": "71237547"
+      },
+      {
+        "label": "Encoder",
+        "productId": "71227374"
+      },
+      {
+        "label": "Fluid",
+        "productId": "71237569"
+      },
+      {
+        "label": "Maintenance",
+        "productId": "71237545"
+      }
+    ],
+    "TIJ": [
+      {
+        "label": "Controller",
+        "productId": "71216721"
+      },
+      {
+        "label": "Printhead",
+        "productId": "41039277"
+      },
+      {
+        "label": "Trigger",
+        "productId": "41205507"
+      },
+      {
+        "label": "Encoder",
+        "productId": "41037143"
+      },
+      {
+        "label": "Mounting",
+        "productId": "41043894"
+      }
+    ],
+    "PIJ": [
+      {
+        "label": "Controller",
+        "productId": "41204972"
+      },
+      {
+        "label": "Printhead",
+        "productId": "71201977"
+      },
+      {
+        "label": "Trigger",
+        "productId": "41205507"
+      },
+      {
+        "label": "Encoder",
+        "productId": "41037143"
+      },
+      {
+        "label": "PH Bracket",
+        "productId": "41038731"
+      },
+      {
+        "label": "Stand",
+        "productId": "41038867"
       }
     ]
   }

@@ -303,6 +303,7 @@
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,9.3,60MM,BEXP,IP54",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 SD.png",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 SD.png",
       "warning": "",
       "notes": ""
     },
@@ -2189,7 +2190,7 @@
       "leadTime": "8-10 Weeks",
       "bomOrder": "58",
       "specs": "COOL UNIT,AD350CU,230V,START/STOP&FILT.S",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/AD350CU Chiller.png",
       "warning": "",
       "notes": ""
     },

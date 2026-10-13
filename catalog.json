@@ -28,7 +28,7 @@
       "specs": "MARCA Lite Software, USB, Dongle Key",
       "price": "979",
       "leadTime": "",
-      "image": "UI",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/UI.png",
       "notes": "Only Text Messages",
       "warning": "",
       "bomOrder": "9",
@@ -200,7 +200,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "15",
       "specs": "LASER,MPERIA,10W,10.6,60MM,IP54",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 SD.png",
       "warning": "",
       "notes": ""
     },
@@ -217,7 +217,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "15",
       "specs": "LASER,MPERIA,10W,10.6,100MM,IP54",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 SD.png",
       "warning": "",
       "notes": ""
     },
@@ -234,7 +234,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,10.6,60MM,IP54",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 SD.png",
       "warning": "",
       "notes": ""
     },
@@ -251,7 +251,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,9.3,60MM,IP54",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 SD.png",
       "warning": "",
       "notes": ""
     },
@@ -268,7 +268,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,9.3,100MM,IP54",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 SD.png",
       "warning": "",
       "notes": ""
     },
@@ -285,7 +285,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,10.6,60MM,BEXP,IP54",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 SD.png",
       "warning": "",
       "notes": ""
     },
@@ -302,7 +302,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,9.3,60MM,BEXP,IP54",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 SD.png",
       "warning": "",
       "notes": ""
     },
@@ -319,7 +319,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,10.6,60MM,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -336,7 +336,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,9.3,60MM,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -353,7 +353,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,10.6,100MM,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -370,7 +370,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,9.3,100MM,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -387,7 +387,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,10.6,60MM,BEXP,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -404,7 +404,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,9.3,60MM,BEXP,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -455,7 +455,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,10.2,100MM,BEXP,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -506,7 +506,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "19",
       "specs": "LASER,MPERIA,80W,10.6,60MM,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 80W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -523,7 +523,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "19",
       "specs": "LASER,MPERIA,80W,9.3,60MM,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 80W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -540,7 +540,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "19",
       "specs": "LASER,MPERIA,80W,10.6,100MM,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 80W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -557,7 +557,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "19",
       "specs": "LASER,MPERIA,80W,9.3,100MM,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 80W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -574,7 +574,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "19",
       "specs": "LASER,MPERIA,80W,10.6,60MM,BEXP,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 80W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -591,7 +591,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "19",
       "specs": "LASER,MPERIA,80W,9.3,60MM,BEXP,IP65",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 80W CO2 WD.png",
       "warning": "",
       "notes": ""
     },
@@ -727,7 +727,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,10.6,100MM,IP54",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 DE.png",
       "warning": "",
       "notes": ""
     },
@@ -744,7 +744,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,10.6,100MM,BEXP,IP55",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 DE.png",
       "warning": "",
       "notes": ""
     },
@@ -761,7 +761,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "17",
       "specs": "LASER,MPERIA,30W,10.6,250MM,BEXP,IP54",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA 10W 30W CO2 DE.png",
       "warning": "",
       "notes": ""
     },
@@ -1577,7 +1577,7 @@
       "leadTime": "",
       "bomOrder": "9",
       "specs": "MARCE Lite Software, USB Extra License",
-      "image": "UI",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/UI.png",
       "warning": "",
       "notes": "Extra License"
     },
@@ -1594,7 +1594,7 @@
       "leadTime": "",
       "bomOrder": "56",
       "specs": "LASER, FUME EXTRACTOR AD 1000IQ 115VAC",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/AD1000.png",
       "warning": "",
       "notes": ""
     },
@@ -1628,7 +1628,7 @@
       "leadTime": "",
       "bomOrder": "9",
       "specs": "LASER,MPERIA,PROFINET LICENSE",
-      "image": "License",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LicenseKey.png",
       "warning": "",
       "notes": ""
     },
@@ -1883,7 +1883,7 @@
       "leadTime": "",
       "bomOrder": "9",
       "specs": "LASER,MPERIA,OPC-UA LICENSE",
-      "image": "License",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LicenseKey.png",
       "warning": "",
       "notes": ""
     },
@@ -1900,7 +1900,7 @@
       "leadTime": "6-8 Weeks",
       "bomOrder": "8",
       "specs": "SOFTWARE,LASER,MPERIA,DESKTOP",
-      "image": "UI",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LicenseKey.png",
       "warning": "",
       "notes": "Extra License"
     },
@@ -1917,7 +1917,7 @@
       "leadTime": "",
       "bomOrder": "9",
       "specs": "MARCA Full Graphic Interface Package USB",
-      "image": "UI",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LicenseKey.png",
       "warning": "",
       "notes": "Complete Software, Default Full Package"
     },
@@ -1934,7 +1934,7 @@
       "leadTime": "",
       "bomOrder": "9",
       "specs": "MARCA Barcode Generator",
-      "image": "License",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LicenseKey.png",
       "warning": "",
       "notes": ""
     },
@@ -2223,7 +2223,7 @@
       "leadTime": "",
       "bomOrder": "66",
       "specs": "DIODE POINTER MPERIA 9,3 (SE/DE)",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/Message Marking Area.png",
       "warning": "",
       "notes": ""
     },
@@ -2393,7 +2393,7 @@
       "leadTime": "",
       "bomOrder": "56",
       "specs": "FUME EXTRACTOR AD 250 POWDER COATED 250V",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/AD250.png",
       "warning": "",
       "notes": ""
     },
@@ -2410,7 +2410,7 @@
       "leadTime": "",
       "bomOrder": "56",
       "specs": "FUME EXTRACTOR AD 250 POWDER COATED 115V",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/AD250.png",
       "warning": "",
       "notes": ""
     },
@@ -2427,7 +2427,7 @@
       "leadTime": "",
       "bomOrder": "56",
       "specs": "FUME EXTRACTOR AD250 STAINLESS STEEL 250",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/AD250.png",
       "warning": "",
       "notes": ""
     },
@@ -2444,7 +2444,7 @@
       "leadTime": "",
       "bomOrder": "56",
       "specs": "FUME EXTRACTOR AD250 STAINLESS STEEL 115",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/AD250.png",
       "warning": "",
       "notes": ""
     },
@@ -2461,7 +2461,7 @@
       "leadTime": "",
       "bomOrder": "56",
       "specs": "FUME,EXT,AD,PVC,90-250VAC(325M3/H)",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/ADPVCiQ.png",
       "warning": "",
       "notes": ""
     },
@@ -2512,7 +2512,7 @@
       "leadTime": "",
       "bomOrder": "56",
       "specs": "FUME EXTRACTOR AD 350 POWDER COATED 115V",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/AD350.png",
       "warning": "",
       "notes": ""
     },

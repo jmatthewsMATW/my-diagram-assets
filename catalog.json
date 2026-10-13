@@ -19040,5 +19040,37 @@
     "VIJ",
     "TIJ Core",
     "XIJ"
-  ]
+  ],
+  "configurationGuides": {
+    "VIJ": [
+      {
+        "label": "Controller",
+        "productId": "41204972"
+      },
+      {
+        "label": "Printhead",
+        "productId": "41039609"
+      },
+      {
+        "label": "V-Link",
+        "productId": "41044911"
+      },
+      {
+        "label": "Fluid Pump",
+        "productId": "40000595"
+      },
+      {
+        "label": "Trigger",
+        "productId": "41205507"
+      },
+      {
+        "label": "Encoder",
+        "productId": "41037143"
+      },
+      {
+        "label": "Mount",
+        "productId": "40000409"
+      }
+    ]
+  }
 }

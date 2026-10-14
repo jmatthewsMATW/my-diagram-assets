@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
   "meta": {
-    "publishedAt": "2026-10-14T01:55:25.416Z",
-    "version": "2026.10.13-2055",
+    "publishedAt": "2026-10-14T15:40:05.960Z",
+    "version": "2026.10.14-1040",
     "audience": "channel"
   },
   "products": [
@@ -2723,20 +2723,6 @@
       "notes": ""
     },
     {
-      "id": "71203335",
-      "name": "INK,SCANTRUE,MAINTENANCE SPRAY,4 PACK",
-      "productLine": "PIJ",
-      "category": "Fluid",
-      "subCategory": "ScanTrue",
-      "subCategory2": "Cleaner",
-      "leadTime": "",
-      "bomOrder": "110",
-      "specs": "INK,SCANTRUE,MAINTENANCE SPRAY,4 PACK",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "61003589",
       "name": "RPR,T-SERIES,T-100 PRINTHEAD 768",
       "productLine": "PIJ",
@@ -3490,20 +3476,6 @@
       "specs": "INK,TIJ,ATF-7100,SU-B BLK,SB,DYE",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
       "warning": "Must be sold in multiples of 2",
-      "notes": ""
-    },
-    {
-      "id": "71234914",
-      "name": "INK,TIJ,LS-7011U,SU-B BLK,SB,DYE",
-      "productLine": "TIJ",
-      "category": "Fluid",
-      "subCategory": "MEK",
-      "subCategory2": "Ink Dye",
-      "leadTime": "",
-      "bomOrder": "100",
-      "specs": "INK,TIJ,LS-7011U,SU-B BLK,SB,DYE",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
       "notes": ""
     },
     {
@@ -4765,20 +4737,6 @@
       "image": "",
       "warning": "",
       "notes": "8400 Encoder (40000176) or 8400 photocell (40000004) to MPERIA® V-Link (one adaptor required for photocell and one required for encoder)"
-    },
-    {
-      "id": "41058641",
-      "name": "CABLE,ADAPTER,V-LINK TO FLUSH BOX",
-      "productLine": "VIJ",
-      "category": "Fluid Systems",
-      "subCategory": "LCIS, Flowjet, HP",
-      "subCategory2": "",
-      "leadTime": "",
-      "bomOrder": "85",
-      "specs": "CABLE,ADAPTER,V-LINK TO FLUSH BOX",
-      "image": "",
-      "warning": "",
-      "notes": ""
     },
     {
       "id": "41205523",
@@ -6262,7 +6220,12 @@
       "specs": "BUNDLE,CONTROLLER,MPERIA 8\",V-SERIES",
       "image": "",
       "warning": "",
-      "notes": "Controls up to 32 Valves (e.g. 4 x 7V, 2 x 16V, 1 x 32V) - 8000+ printheads (Maxi, Midi, Mini)"
+      "notes": "Controls up to 32 Valves (e.g. 4 x 7V, 2 x 16V, 1 x 32V) - 8000+ printheads (Maxi, Midi, Mini)",
+      "includes": {
+        "41044911": 1,
+        "41214186": 1,
+        "71216721": 1
+      }
     },
     {
       "id": "41044911",
@@ -8491,20 +8454,6 @@
       "notes": ""
     },
     {
-      "id": "71238089",
-      "name": "INK,BD061626-1,BLACK,WB,PIG,TOTE",
-      "productLine": "VIJ",
-      "category": "Fluid",
-      "subCategory": "Water",
-      "subCategory2": "Ink Pigment",
-      "leadTime": "",
-      "bomOrder": "100",
-      "specs": "INK,BD061626-1,BLACK,WB,PIG,TOTE",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/275Black.png",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41013068",
       "name": "GASKET,CISU INK CAP",
       "productLine": "VIJ",
@@ -9254,7 +9203,7 @@
       "subCategory": "Peripheral",
       "subCategory2": "Trigger",
       "leadTime": "2 weeks",
-      "bomOrder": "",
+      "bomOrder": "61",
       "specs": "AXIAN TRIGGER KIT PHOTOCELL DIFUSE",
       "image": "",
       "warning": "",
@@ -9408,7 +9357,7 @@
       "subCategory": "Peripheral",
       "subCategory2": "Encoder",
       "leadTime": "2 weeks",
-      "bomOrder": "",
+      "bomOrder": "61",
       "specs": "AXIAN LINEAR ENCODER",
       "image": "",
       "warning": "",
@@ -9551,20 +9500,6 @@
       "bomOrder": "81",
       "specs": "MPERIA 8\" CONTROLLER CABLE, M12/M12, 3M",
       "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "86002180",
-      "name": "LICENSE KEY,PLUG IN ZPL CONNECT,MPERIA™",
-      "productLine": "VIJ, TIJ, PIJ, CO2 Standard, CO2 Configurable, Fiber Laser, Fiber Film, UV Laser",
-      "category": "Controller",
-      "subCategory": "8\", 12\", 15\"",
-      "subCategory2": "License",
-      "leadTime": "",
-      "bomOrder": "9",
-      "specs": "LICENSE KEY,PLUG IN ZPL CONNECT,MPERIA™",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LicenseKey.png",
       "warning": "",
       "notes": ""
     },
@@ -10131,14 +10066,6 @@
       "message": "Each V-Link support up to 32 Valves",
       "splittable": false,
       "consumers": {
-        "40000207": 16,
-        "40000208": 16,
-        "40000209": 16,
-        "40000211": 16,
-        "40000604": 32,
-        "40000605": 32,
-        "40000607": 32,
-        "40000608": 32,
         "41038227": 7,
         "41038228": 7,
         "41038229": 7,
@@ -10189,7 +10116,88 @@
       }
     }
   ],
-  "templates": [],
+  "templates": [
+    {
+      "id": "T1791982400810",
+      "name": "XIJ Complete",
+      "productLine": "XIJ",
+      "items": {
+        "71237544": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "71237545": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "71237547": {
+          "qty": 1,
+          "customNotes": ""
+        }
+      },
+      "cartOrder": [
+        "71237544",
+        "71237547",
+        "71237545"
+      ],
+      "customProducts": {}
+    },
+    {
+      "id": "T1791982788448",
+      "name": "V-Link Bundle w/ 32V FD Maxi, HP Pump, Encoder, Trigger, Conveyor Mount",
+      "productLine": "VIJ",
+      "items": {
+        "40000301": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "40000409": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "40000595": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "40000605": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "41036086": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "41037143": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "41038254": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "41038689": {
+          "qty": 1,
+          "customNotes": ""
+        },
+        "71229309": {
+          "qty": 1,
+          "customNotes": ""
+        }
+      },
+      "cartOrder": [
+        "71229309",
+        "41038254",
+        "40000605",
+        "40000595",
+        "40000301",
+        "41036086",
+        "41037143",
+        "41038689",
+        "40000409"
+      ],
+      "customProducts": {}
+    }
+  ],
   "settings": {
     "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/",
     "imageExtension": ".png"
@@ -11562,7 +11570,7 @@
       },
       {
         "label": "Encoder",
-        "productId": "71227374"
+        "productId": "41227374"
       },
       {
         "label": "Fluid",

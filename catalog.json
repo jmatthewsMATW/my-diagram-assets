@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
   "meta": {
-    "publishedAt": "2026-10-14T01:55:25.416Z",
-    "version": "2026.10.13-2055",
+    "publishedAt": "2026-10-14T15:40:05.960Z",
+    "version": "2026.10.14-1040",
     "audience": "internal"
   },
   "products": [
@@ -871,7 +871,8 @@
       "specs": "SWITCH,ETHERNET,5 PORT,DIN RAIL MOUNT",
       "image": "",
       "warning": "",
-      "notes": ""
+      "notes": "",
+      "internalNotes": ""
     },
     {
       "id": "41039351",
@@ -3118,40 +3119,6 @@
       "notes": ""
     },
     {
-      "id": "41212589",
-      "priceBookEntryId": "01uOt00000JcAQT",
-      "name": "AP100141 APPLICATOR PAD CUSTOM 110X310",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Applicator",
-      "subCategory": "",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "21",
-      "specs": "AP100141 APPLICATOR PAD CUSTOM 110X310",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41212798",
-      "priceBookEntryId": "01uOt00000JcAQN",
-      "name": "P101545 Arm eWipe 240 (eWipe L)",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Applicator",
-      "subCategory": "",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "21",
-      "specs": "P101545 Arm eWipe 240 (eWipe L)",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41245637",
       "priceBookEntryId": "01uOt00000Jc8lG",
       "name": "100-110-183,QuickTamp Airless G2 1000",
@@ -3266,23 +3233,6 @@
       "leadTime": "",
       "bomOrder": "21",
       "specs": "A100262_MB BlowVac Applicator",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "11202324",
-      "priceBookEntryId": "01uOt00000JcAPL",
-      "name": "A100386,APPLICATOR PAD HOLDER WIPE LARGE",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Applicator",
-      "subCategory": "Pad",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "21",
-      "specs": "A100386,APPLICATOR PAD HOLDER WIPE LARGE",
       "image": "",
       "warning": "",
       "notes": ""
@@ -4087,23 +4037,6 @@
       "notes": ""
     },
     {
-      "id": "41238206",
-      "priceBookEntryId": "01uOt00000JcAJP",
-      "name": "AP100410 Applicator Pad 101x65 SideBrush",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Applicator",
-      "subCategory": "Pad",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "21",
-      "specs": "AP100410 Applicator Pad 101x65 SideBrush",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41240674",
       "priceBookEntryId": "01uOt00000JcAJY",
       "name": "AP150140,APPLICATOR PAD 150X140",
@@ -4286,40 +4219,6 @@
       "leadTime": "",
       "bomOrder": "21",
       "specs": "K100297 BELT eTAMP 500",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41218004",
-      "priceBookEntryId": "01uOt00000JcA7G",
-      "name": "K100152 QuickTamp G2 shaft 1000 kit",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Applicator",
-      "subCategory": "Tamp",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "21",
-      "specs": "K100152 QuickTamp G2 shaft 1000 kit",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41220807",
-      "priceBookEntryId": "01uOt00000JcA8q",
-      "name": "A100180_MB TAMP APPLICATOR",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Applicator",
-      "subCategory": "Tamp",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "21",
-      "specs": "A100180_MB TAMP APPLICATOR",
       "image": "",
       "warning": "",
       "notes": ""
@@ -4524,23 +4423,6 @@
       "leadTime": "",
       "bomOrder": "21",
       "specs": "K100406 QUICKTAMP G2 200 APPLICATOR",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41213261",
-      "priceBookEntryId": "",
-      "name": "A100325 WIPE APPLICATOR",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Applicator",
-      "subCategory": "Wipe",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "21",
-      "specs": "A100325 WIPE APPLICATOR",
       "image": "",
       "warning": "",
       "notes": ""
@@ -5192,23 +5074,6 @@
       "notes": ""
     },
     {
-      "id": "71201971",
-      "priceBookEntryId": "01uOt00000JcANa",
-      "name": "K100114 STATUS BEACON FLEXWIPE",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Flex Wipe",
-      "subCategory": "Beacon",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "21",
-      "specs": "K100114 STATUS BEACON FLEXWIPE",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41227463",
       "priceBookEntryId": "01uOt00000JcAN8",
       "name": "K100391,FLEX WIPE,MOTORIZED,STAND XL,T63",
@@ -5255,23 +5120,6 @@
       "leadTime": "",
       "bomOrder": "21",
       "specs": "K101056,FLEXWIPE SCANNER KIT",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "11202820",
-      "priceBookEntryId": "01uOt00000JcAPM",
-      "name": "A100517 CONTROL PANEL",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Maintenance",
-      "subCategory": "",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "A100517 CONTROL PANEL",
       "image": "",
       "warning": "",
       "notes": ""
@@ -5476,23 +5324,6 @@
       "leadTime": "",
       "bomOrder": "",
       "specs": "A100260 ADJUSTABLE LABEL GUIDE KIT 6\"",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41210461",
-      "priceBookEntryId": "01uOt00000JcAQP",
-      "name": "S100457 eTAMP RETURN SENSOR",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Maintenance",
-      "subCategory": "",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "S100457 eTAMP RETURN SENSOR",
       "image": "",
       "warning": "",
       "notes": ""
@@ -5753,23 +5584,6 @@
       "notes": ""
     },
     {
-      "id": "41214054",
-      "priceBookEntryId": "01uOt00000JcAJr",
-      "name": "S101030 SUCTION CUP",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Maintenance",
-      "subCategory": "",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "S101030 SUCTION CUP",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41214492",
       "priceBookEntryId": "01uOt00000Jc8iW",
       "name": "S100467 QUARTER LOCK",
@@ -6003,23 +5817,6 @@
       "leadTime": "",
       "bomOrder": "",
       "specs": "P100050 RIBBON DRIVE / LABEL REWIND BELT",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41220980",
-      "priceBookEntryId": "01uOt00000Jc8lt",
-      "name": "K100166 QUICK TAMP G2 SHAFT 1200 KIT",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Maintenance",
-      "subCategory": "",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "K100166 QUICK TAMP G2 SHAFT 1200 KIT",
       "image": "",
       "warning": "",
       "notes": ""
@@ -6399,23 +6196,6 @@
       "notes": ""
     },
     {
-      "id": "41222138",
-      "priceBookEntryId": "01uOt00000Jc8mX",
-      "name": "K100151 QUICKTAMP G2 SHAFT 800 KIT",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Maintenance",
-      "subCategory": "",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "K100151 QUICKTAMP G2 SHAFT 800 KIT",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41222139",
       "priceBookEntryId": "01uOt00000McK4K",
       "name": "K100148 QUICKTAMP G2 SUPPORT ROLLER KIT",
@@ -6530,23 +6310,6 @@
       "leadTime": "",
       "bomOrder": "",
       "specs": "A100211_REWIND SHAFT 6\" COMPL.",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41227205",
-      "priceBookEntryId": "01uOt00000JcAMy",
-      "name": "P101937 QUICK TAMP G2 SHAFT 400",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Maintenance",
-      "subCategory": "",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "P101937 QUICK TAMP G2 SHAFT 400",
       "image": "",
       "warning": "",
       "notes": ""
@@ -6739,23 +6502,6 @@
       "notes": ""
     },
     {
-      "id": "71201974",
-      "priceBookEntryId": "01uOt00000Jc8mK",
-      "name": "K100150 QuickTamp G2 shaft 600 kit",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Maintenance",
-      "subCategory": "",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "K100150 QuickTamp G2 shaft 600 kit",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41213299",
       "priceBookEntryId": "01uOt00000JcAJq",
       "name": "SP100004 BELT APPL.MOTOR COMPL.W. BELT",
@@ -6785,40 +6531,6 @@
       "leadTime": "",
       "bomOrder": "",
       "specs": "K100100 Kit brake band and springs, D43",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41212797",
-      "priceBookEntryId": "",
-      "name": "S101061 Motor Belt T2 L210 B10",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Maintenance",
-      "subCategory": "",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "S101061 Motor Belt T2 L210 B10",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41213169",
-      "priceBookEntryId": "",
-      "name": "A100265 STEPPER MOTOR",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Maintenance",
-      "subCategory": "Motor",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "",
-      "specs": "A100265 STEPPER MOTOR",
       "image": "",
       "warning": "",
       "notes": ""
@@ -7045,23 +6757,6 @@
       "notes": ""
     },
     {
-      "id": "41201419",
-      "priceBookEntryId": "",
-      "name": "S403400 Holder Tube, 50 mm, 500 mm",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Mounting",
-      "subCategory": "Print Head",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "74",
-      "specs": "S403400 Holder Tube, 50 mm, 500 mm",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "11202822",
       "priceBookEntryId": "01uOt00000Jc8hZ",
       "name": "P101171,FLOOR MOUNT PLATE",
@@ -7096,40 +6791,6 @@
       "notes": ""
     },
     {
-      "id": "41205076",
-      "priceBookEntryId": "",
-      "name": "A100248 BASE STAND ALU 1500",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Mounting",
-      "subCategory": "Stand",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "74",
-      "specs": "A100248 BASE STAND ALU 1500",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41205077",
-      "priceBookEntryId": "",
-      "name": "A100249 STAND BASE ALU 2000",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Mounting",
-      "subCategory": "Stand",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "74",
-      "specs": "A100249 STAND BASE ALU 2000",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41210554",
       "priceBookEntryId": "",
       "name": "A100479 FLEX MOUNT LARGE COMPL.",
@@ -7142,23 +6803,6 @@
       "leadTime": "",
       "bomOrder": "74",
       "specs": "A100479 FLEX MOUNT LARGE COMPL.",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "41210774",
-      "priceBookEntryId": "",
-      "name": "A100474 FIXED STAND 2000 XL",
-      "productLine": "LPA",
-      "sapLevel3": "LPA",
-      "category": "Mounting",
-      "subCategory": "Stand",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "74",
-      "specs": "A100474 FIXED STAND 2000 XL",
       "image": "",
       "warning": "",
       "notes": ""
@@ -8490,23 +8134,6 @@
       "notes": ""
     },
     {
-      "id": "71203335",
-      "priceBookEntryId": "01uOt00000JcAMf",
-      "name": "INK,SCANTRUE,MAINTENANCE SPRAY,4 PACK",
-      "productLine": "PIJ",
-      "sapLevel3": "PIJ",
-      "category": "Fluid",
-      "subCategory": "ScanTrue",
-      "subCategory2": "Cleaner",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "110",
-      "specs": "INK,SCANTRUE,MAINTENANCE SPRAY,4 PACK",
-      "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "61003589",
       "priceBookEntryId": "01uOt00000JcAMO",
       "name": "RPR,T-SERIES,T-100 PRINTHEAD 768",
@@ -9422,23 +9049,6 @@
       "specs": "INK,TIJ,ATF-7100,SU-B BLK,SB,DYE",
       "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
       "warning": "Must be sold in multiples of 2",
-      "notes": ""
-    },
-    {
-      "id": "71234914",
-      "priceBookEntryId": "01uOt00000Jc8Sk",
-      "name": "INK,TIJ,LS-7011U,SU-B BLK,SB,DYE",
-      "productLine": "TIJ",
-      "sapLevel3": "TIJ",
-      "category": "Fluid",
-      "subCategory": "MEK",
-      "subCategory2": "Ink Dye",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "100",
-      "specs": "INK,TIJ,LS-7011U,SU-B BLK,SB,DYE",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/BlackCartridge.png",
-      "warning": "",
       "notes": ""
     },
     {
@@ -10970,23 +10580,6 @@
       "image": "",
       "warning": "",
       "notes": "8400 Encoder (40000176) or 8400 photocell (40000004) to MPERIA® V-Link (one adaptor required for photocell and one required for encoder)"
-    },
-    {
-      "id": "41058641",
-      "priceBookEntryId": "",
-      "name": "CABLE,ADAPTER,V-LINK TO FLUSH BOX",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Fluid Systems",
-      "subCategory": "LCIS, Flowjet, HP",
-      "subCategory2": "",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "85",
-      "specs": "CABLE,ADAPTER,V-LINK TO FLUSH BOX",
-      "image": "",
-      "warning": "",
-      "notes": ""
     },
     {
       "id": "41205523",
@@ -12788,7 +12381,12 @@
       "specs": "BUNDLE,CONTROLLER,MPERIA 8\",V-SERIES",
       "image": "",
       "warning": "",
-      "notes": "Controls up to 32 Valves (e.g. 4 x 7V, 2 x 16V, 1 x 32V) - 8000+ printheads (Maxi, Midi, Mini)"
+      "notes": "Controls up to 32 Valves (e.g. 4 x 7V, 2 x 16V, 1 x 32V) - 8000+ printheads (Maxi, Midi, Mini)",
+      "includes": {
+        "41044911": 1,
+        "41214186": 1,
+        "71216721": 1
+      }
     },
     {
       "id": "41044911",
@@ -15494,23 +15092,6 @@
       "notes": ""
     },
     {
-      "id": "71238089",
-      "priceBookEntryId": "",
-      "name": "INK,BD061626-1,BLACK,WB,PIG,TOTE",
-      "productLine": "VIJ",
-      "sapLevel3": "VIJ",
-      "category": "Fluid",
-      "subCategory": "Water",
-      "subCategory2": "Ink Pigment",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "100",
-      "specs": "INK,BD061626-1,BLACK,WB,PIG,TOTE",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/275Black.png",
-      "warning": "",
-      "notes": ""
-    },
-    {
       "id": "41013068",
       "priceBookEntryId": "",
       "name": "GASKET,CISU INK CAP",
@@ -16422,7 +16003,7 @@
       "subCategory2": "Trigger",
       "price": "439",
       "leadTime": "2 weeks",
-      "bomOrder": "",
+      "bomOrder": "61",
       "specs": "AXIAN TRIGGER KIT PHOTOCELL DIFUSE",
       "image": "",
       "warning": "",
@@ -16609,7 +16190,7 @@
       "subCategory2": "Encoder",
       "price": "725",
       "leadTime": "2 weeks",
-      "bomOrder": "",
+      "bomOrder": "61",
       "specs": "AXIAN LINEAR ENCODER",
       "image": "",
       "warning": "",
@@ -16782,23 +16363,6 @@
       "bomOrder": "81",
       "specs": "MPERIA 8\" CONTROLLER CABLE, M12/M12, 3M",
       "image": "",
-      "warning": "",
-      "notes": ""
-    },
-    {
-      "id": "86002180",
-      "priceBookEntryId": "01uOt00000Jc8bv",
-      "name": "LICENSE KEY,PLUG IN ZPL CONNECT,MPERIA™",
-      "productLine": "VIJ, TIJ, PIJ, LPA, CO2 Standard, CO2 Configurable, Fiber Laser, Fiber Film, UV Laser",
-      "sapLevel3": "",
-      "category": "Controller",
-      "subCategory": "8\", 12\", 15\"",
-      "subCategory2": "License",
-      "price": "",
-      "leadTime": "",
-      "bomOrder": "9",
-      "specs": "LICENSE KEY,PLUG IN ZPL CONNECT,MPERIA™",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/LicenseKey.png",
       "warning": "",
       "notes": ""
     },
@@ -17416,9 +16980,6 @@
       "40000600": [
         "41036087"
       ],
-      "41010064": [
-        "41010290"
-      ],
       "41036087": [
         "40000600",
         "40000598"
@@ -17456,14 +17017,6 @@
       "message": "Each V-Link support up to 32 Valves",
       "splittable": false,
       "consumers": {
-        "40000207": 16,
-        "40000208": 16,
-        "40000209": 16,
-        "40000211": 16,
-        "40000604": 32,
-        "40000605": 32,
-        "40000607": 32,
-        "40000608": 32,
         "41038227": 7,
         "41038228": 7,
         "41038229": 7,
@@ -17516,17 +17069,23 @@
   ],
   "templates": [
     {
-      "id": "T1",
-      "name": "Core 10W Pack",
-      "productLine": "CO2 Lasers",
+      "id": "T1791982400810",
+      "name": "XIJ Complete",
+      "productLine": "XIJ",
       "items": {
-        "41243056": {
+        "71237544": {
           "qty": 1,
           "customNotes": "",
           "discount": 0,
           "surcharge": 0
         },
-        "71234626": {
+        "71237545": {
+          "qty": 1,
+          "customNotes": "",
+          "discount": 0,
+          "surcharge": 0
+        },
+        "71237547": {
           "qty": 1,
           "customNotes": "",
           "discount": 0,
@@ -17534,9 +17093,84 @@
         }
       },
       "cartOrder": [
-        "71234626",
-        "41243056"
-      ]
+        "71237544",
+        "71237547",
+        "71237545"
+      ],
+      "customProducts": {}
+    },
+    {
+      "id": "T1791982788448",
+      "name": "V-Link Bundle w/ 32V FD Maxi, HP Pump, Encoder, Trigger, Conveyor Mount",
+      "productLine": "VIJ",
+      "items": {
+        "40000301": {
+          "qty": 1,
+          "customNotes": "",
+          "discount": 0,
+          "surcharge": 0
+        },
+        "40000409": {
+          "qty": 1,
+          "customNotes": "",
+          "discount": 0,
+          "surcharge": 0
+        },
+        "40000595": {
+          "qty": 1,
+          "customNotes": "",
+          "discount": 0,
+          "surcharge": 0
+        },
+        "40000605": {
+          "qty": 1,
+          "customNotes": "",
+          "discount": 0,
+          "surcharge": 0
+        },
+        "41036086": {
+          "qty": 1,
+          "customNotes": "",
+          "discount": 0,
+          "surcharge": 0
+        },
+        "41037143": {
+          "qty": 1,
+          "customNotes": "",
+          "discount": 0,
+          "surcharge": 0
+        },
+        "41038254": {
+          "qty": 1,
+          "customNotes": "",
+          "discount": 0,
+          "surcharge": 0
+        },
+        "41038689": {
+          "qty": 1,
+          "customNotes": "",
+          "discount": 0,
+          "surcharge": 0
+        },
+        "71229309": {
+          "qty": 1,
+          "customNotes": "",
+          "discount": 0,
+          "surcharge": 0
+        }
+      },
+      "cartOrder": [
+        "71229309",
+        "41038254",
+        "40000605",
+        "40000595",
+        "40000301",
+        "41036086",
+        "41037143",
+        "41038689",
+        "40000409"
+      ],
+      "customProducts": {}
     }
   ],
   "settings": {
@@ -19078,7 +18712,7 @@
       },
       {
         "label": "Encoder",
-        "productId": "71227374"
+        "productId": "41227374"
       },
       {
         "label": "Fluid",

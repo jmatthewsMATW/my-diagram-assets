@@ -1,4 +1,10 @@
 {
+  "schemaVersion": 3,
+  "meta": {
+    "publishedAt": "2026-10-14T01:55:25.416Z",
+    "version": "2026.10.13-2055",
+    "audience": "internal"
+  },
   "products": [
     {
       "id": "71234626",
@@ -17440,6 +17446,74 @@
       ]
     }
   },
+  "capacityRules": [
+    {
+      "id": "CR1791942167111",
+      "name": "V-Link Capacity",
+      "providerId": "41044911",
+      "capacity": 32,
+      "unit": "Valves",
+      "message": "Each V-Link support up to 32 Valves",
+      "splittable": false,
+      "consumers": {
+        "40000207": 16,
+        "40000208": 16,
+        "40000209": 16,
+        "40000211": 16,
+        "40000604": 32,
+        "40000605": 32,
+        "40000607": 32,
+        "40000608": 32,
+        "41038227": 7,
+        "41038228": 7,
+        "41038229": 7,
+        "41038230": 7,
+        "41038231": 7,
+        "41038232": 7,
+        "41038233": 7,
+        "41038235": 7,
+        "41038236": 7,
+        "41038237": 16,
+        "41038238": 16,
+        "41038239": 16,
+        "41038240": 16,
+        "41038241": 16,
+        "41038242": 16,
+        "41038243": 16,
+        "41038244": 16,
+        "41038245": 16,
+        "41038246": 32,
+        "41038247": 32,
+        "41038248": 32,
+        "41038249": 32,
+        "41038250": 32,
+        "41038251": 32,
+        "41038252": 32,
+        "41038253": 32,
+        "41038254": 32,
+        "41039595": 7,
+        "41039598": 7,
+        "41039599": 7,
+        "41039601": 16,
+        "41039602": 16,
+        "41039604": 16,
+        "41039606": 16,
+        "41039608": 32,
+        "41039609": 32,
+        "41039611": 32,
+        "41039612": 32,
+        "41039614": 7,
+        "41039617": 7,
+        "41039618": 16,
+        "41039619": 16,
+        "41039620": 32,
+        "41039621": 32,
+        "41039622": 7,
+        "41039627": 16,
+        "41039630": 32
+      }
+    }
+  ],
   "templates": [
     {
       "id": "T1",
@@ -17467,7 +17541,9 @@
   ],
   "settings": {
     "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/",
-    "imageExtension": ".png"
+    "imageExtension": ".png",
+    "defaultTerms": "Net 30 days",
+    "quoteExpirationDays": 30
   },
   "sortOrder": {
     "productLines": [
@@ -18960,18 +19036,6 @@
       }
     }
   },
-  "channelGroups": [
-    "CO2 Standard",
-    "CO2 Configurable",
-    "Fiber Film",
-    "Fiber Laser",
-    "UV Laser",
-    "TIJ",
-    "PIJ",
-    "VIJ",
-    "TIJ Core",
-    "XIJ"
-  ],
   "configurationGuides": {
     "VIJ": [
       {
@@ -19073,5 +19137,17 @@
         "productId": "41038867"
       }
     ]
-  }
+  },
+  "channelGroups": [
+    "CO2 Standard",
+    "CO2 Configurable",
+    "Fiber Film",
+    "Fiber Laser",
+    "UV Laser",
+    "TIJ",
+    "PIJ",
+    "VIJ",
+    "TIJ Core",
+    "XIJ"
+  ]
 }

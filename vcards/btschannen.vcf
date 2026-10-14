@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tschannen;Brent;;;
+FN:Brent Tschannen
+ORG:Matthews Marking Systems
+TITLE:Applications Engineer
+TEL;TYPE=WORK,VOICE:(330) 241-0752
+EMAIL;TYPE=PREF,INTERNET:btschannen@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

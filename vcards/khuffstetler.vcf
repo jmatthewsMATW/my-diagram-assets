@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Huffstetler;Kevin;;;
+FN:Kevin Huffstetler
+ORG:Matthews Marking Systems
+TITLE:Sales Engineer
+TEL;TYPE=WORK,VOICE:(704) 530-7365
+EMAIL;TYPE=PREF,INTERNET:khuffstetler@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

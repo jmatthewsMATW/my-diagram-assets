@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:McLenithan;Kyle;;;
+FN:Kyle McLenithan
+ORG:Matthews Marking Systems
+TITLE:Sales Engineer
+TEL;TYPE=WORK,VOICE:(971) 252-9043
+EMAIL;TYPE=PREF,INTERNET:kmclenithan@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

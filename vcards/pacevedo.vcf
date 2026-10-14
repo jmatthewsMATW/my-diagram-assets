@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Acevedo;Paco;;;
+FN:Paco Acevedo
+ORG:Matthews Marking Systems
+TITLE:Channel Sales Engineer
+TEL;TYPE=WORK,VOICE:(412) 335-7554
+EMAIL;TYPE=PREF,INTERNET:facevedo@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

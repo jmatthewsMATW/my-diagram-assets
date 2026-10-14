@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Henreckson;Daniel;;;
+FN:Daniel Henreckson
+ORG:Matthews Marking Systems
+TITLE:Sales Enablement
+EMAIL;TYPE=PREF,INTERNET:dhenreckson@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

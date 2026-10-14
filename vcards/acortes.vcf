@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cortes;Antonio;;;
+FN:Antonio Cortes
+ORG:Matthews Marking Systems
+TITLE:Eastern Regional Manager
+TEL;TYPE=WORK,VOICE:(412) 638-0361
+EMAIL;TYPE=PREF,INTERNET:cortes@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

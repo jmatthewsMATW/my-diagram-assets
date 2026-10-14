@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Ashley;Bill;;;
+FN:Bill Ashley
+ORG:Matthews Marking Systems
+TITLE:Key Accounts Manager
+TEL;TYPE=WORK,VOICE:(704) 467-9682
+EMAIL;TYPE=PREF,INTERNET:bashley@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

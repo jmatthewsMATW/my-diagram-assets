@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Scherer;John;;;
+FN:John Scherer
+ORG:Matthews Marking Systems
+TITLE:Sales Engineer
+TEL;TYPE=WORK,VOICE:(716) 253-0654
+EMAIL;TYPE=PREF,INTERNET:jscherer@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

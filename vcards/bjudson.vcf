@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Judson;Burton;;;
+FN:Burton Judson
+ORG:Matthews Marking Systems
+TITLE:Applications Engineering Manager
+TEL;TYPE=WORK,VOICE:(412) 310-2186
+EMAIL;TYPE=PREF,INTERNET:bjudson@matthewsintl.com
+URL:https://matthewsmarking.com
+END:VCARD

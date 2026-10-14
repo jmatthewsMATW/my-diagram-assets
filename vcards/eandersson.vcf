@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Andersson;Emma;;;
+FN:Emma Andersson
+ORG:Matthews Marking Systems
+TITLE:Product Manager - MPERIA® and A-Series
+EMAIL;TYPE=PREF,INTERNET:emma.andersson@matw.se
+URL:https://matthewsmarking.com
+END:VCARD

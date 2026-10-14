@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Anderson;Wayne;;;
+FN:Wayne Anderson
+ORG:Matthews Marking Systems
+TITLE:Business Development Manager
+TEL;TYPE=WORK,VOICE:(678) 876-2519
+EMAIL;TYPE=PREF,INTERNET:wayne.anderson@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

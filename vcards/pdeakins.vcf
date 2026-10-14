@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Deakins;Phillip;;;
+FN:Phillip Deakins
+ORG:Matthews Marking Systems
+TITLE:Sales Engineer
+TEL;TYPE=WORK,VOICE:(405) 331-4096
+EMAIL;TYPE=PREF,INTERNET:phillip.deakins@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

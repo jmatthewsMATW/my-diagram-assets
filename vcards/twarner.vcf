@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Warner;Trent;;;
+FN:Trent Warner
+ORG:Matthews Marking Systems
+TITLE:Sales Engineer
+TEL;TYPE=WORK,VOICE:(309) 666-1778
+EMAIL;TYPE=PREF,INTERNET:trwarner@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

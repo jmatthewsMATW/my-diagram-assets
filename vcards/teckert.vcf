@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Eckert;Tim;;;
+FN:Tim Eckert
+ORG:Matthews Marking Systems
+TITLE:Customer Experience Manager
+TEL;TYPE=WORK,VOICE:(412) 665-2500
+EMAIL;TYPE=PREF,INTERNET:teckert@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Wagner;Bryan;;;
+FN:Bryan Wagner
+ORG:Matthews Marking Systems
+TITLE:Sales Engineer
+TEL;TYPE=WORK,VOICE:(330) 406-8833
+EMAIL;TYPE=PREF,INTERNET:bryan.wagner@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

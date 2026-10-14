@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Moore;Toby;;;
+FN:Toby Moore
+ORG:Matthews Marking Systems
+TITLE:Key Accounts Manager
+TEL;TYPE=WORK,VOICE:(360) 201-8653
+EMAIL;TYPE=PREF,INTERNET:amoore@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

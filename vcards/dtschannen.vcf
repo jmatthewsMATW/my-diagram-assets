@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tschannen;Dean;;;
+FN:Dean Tschannen
+ORG:Matthews Marking Systems
+TITLE:Applications Engineer
+TEL;TYPE=WORK,VOICE:(330) 317-5105
+EMAIL;TYPE=PREF,INTERNET:dtschannen@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

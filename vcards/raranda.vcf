@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Aranda;Rick;;;
+FN:Rick Aranda
+ORG:Matthews Marking Systems
+TITLE:Sales Engineer
+TEL;TYPE=WORK,VOICE:(951) 716-1861
+EMAIL;TYPE=PREF,INTERNET:raranda@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

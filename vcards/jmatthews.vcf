@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Matthews;John;;;
+FN:John Matthews
+ORG:Matthews Marking Systems
+TITLE:Regional Sales Manager
+TEL;TYPE=WORK,VOICE:(712) 852-6836
+EMAIL;TYPE=PREF,INTERNET:jmatthews@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

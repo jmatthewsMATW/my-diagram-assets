@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Plagenza;Justin;;;
+FN:Justin Plagenza
+ORG:Matthews Marking Systems
+TITLE:Sales Engineer
+TEL;TYPE=WORK,VOICE:(925) 234-3012
+EMAIL;TYPE=PREF,INTERNET:justin.plagenza@matw.com
+URL:https://matthewsmarking.com
+END:VCARD

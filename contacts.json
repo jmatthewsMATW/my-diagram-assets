@@ -15,7 +15,9 @@
   ],
   "settings": {
     "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/",
-    "imageExtension": ".png"
+    "imageExtension": ".png",
+    "vcardBaseUrl": "https://jmatthewsmatw.github.io/my-diagram-assets/vcards/",
+    "profileBaseUrl": ""
   },
   "contacts": [
     {

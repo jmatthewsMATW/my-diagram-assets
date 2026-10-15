@@ -17,7 +17,9 @@
     "imageBaseUrl": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/",
     "imageExtension": ".png",
     "vcardBaseUrl": "https://jmatthewsmatw.github.io/my-diagram-assets/vcards/",
-    "profileBaseUrl": ""
+    "profileBaseUrl": "",
+    "directoryUrl": "https://view-su1.highspot.com/viewer/84782c905728e51d6076617aa012b0a7",
+    "directoryLabel": "Matthews Team Directory"
   },
   "contacts": [
     {

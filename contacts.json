@@ -82,9 +82,24 @@
       "image": "acortes.jpg",
       "managerId": "morcutt",
       "territory": "Eastern U.S. and Canada",
-      "mapTerritories": [],
+      "mapTerritories": [
+        "NY-ALL",
+        "VT-ALL",
+        "NH-ALL",
+        "ME-ALL",
+        "MA-ALL",
+        "CT-ALL",
+        "RI-ALL",
+        "NU-ALL",
+        "MB-ALL",
+        "ON-ALL",
+        "QC-ALL",
+        "NL-ALL",
+        "NB-ALL",
+        "NS-ALL"
+      ],
       "meetingUrl": "",
-      "mapColor": "#C4D92E"
+      "mapColor": "#0322bf"
     },
     {
       "id": "pdeakins",
@@ -133,7 +148,12 @@
         "ID-ALL",
         "AK-ALL",
         "MT-ALL",
-        "WY-ALL"
+        "WY-ALL",
+        "BC-ALL",
+        "AB-ALL",
+        "SK-ALL",
+        "YT-ALL",
+        "NT-ALL"
       ],
       "meetingUrl": "",
       "mapColor": "#fce4ec"
@@ -217,39 +237,6 @@
       ],
       "meetingUrl": "",
       "mapColor": "#f48eb1"
-    },
-    {
-      "id": "jscherer",
-      "name": "John Scherer",
-      "role": "Standard",
-      "title": "Sales Engineer",
-      "teams": [
-        "Eastern Sales"
-      ],
-      "phone": "(716) 253-0654",
-      "email": "jscherer@matw.com",
-      "linkedin": "https://www.linkedin.com/in/john-scherer-73825813/",
-      "website": "https://matthewsmarking.com",
-      "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "jscherer.jpg",
-      "managerId": "acortes",
-      "territory": "",
-      "mapTerritories": [
-        "PA-NW",
-        "PA-SW",
-        "NY-NW",
-        "NY-NE",
-        "VT-ALL",
-        "ME-NE",
-        "MD-ALL",
-        "DE-ALL",
-        "NJ-ALL",
-        "CT-ALL",
-        "MA-ALL",
-        "NH-ALL"
-      ],
-      "meetingUrl": "",
-      "mapColor": "#d1c4e9"
     },
     {
       "id": "khuffstetler",
@@ -656,10 +643,10 @@
       "managerId": "morcutt",
       "territory": "",
       "mapTerritories": [
-        "NJ-NE",
-        "NJ-SE",
-        "PA-SE",
-        "PA-NE"
+        "PA-ALL",
+        "NJ-ALL",
+        "MD-ALL",
+        "DE-ALL"
       ],
       "meetingUrl": "",
       "mapColor": "#C4D92E"

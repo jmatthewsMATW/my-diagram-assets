@@ -131,7 +131,9 @@
         "WA-ALL",
         "OR-ALL",
         "ID-ALL",
-        "AK-ALL"
+        "AK-ALL",
+        "MT-ALL",
+        "WY-ALL"
       ],
       "meetingUrl": "",
       "mapColor": "#fce4ec"
@@ -153,8 +155,6 @@
       "managerId": "jmatthews",
       "territory": "",
       "mapTerritories": [
-        "MT-ALL",
-        "WY-ALL",
         "ND-ALL",
         "SD-ALL",
         "NE-ALL",
@@ -292,45 +292,16 @@
       "managerId": "jmatthews",
       "territory": "",
       "mapTerritories": [
-        "CA-SE",
-        "CA-SW",
         "AZ-ALL",
         "NM-ALL",
         "CO-ALL",
-        "UT-SW",
-        "UT-SE",
-        "NV-SE",
-        "NV-SW",
-        "HI-ALL"
+        "HI-ALL",
+        "CA-ALL",
+        "UT-ALL",
+        "NV-ALL"
       ],
       "meetingUrl": "",
       "mapColor": "#a5d6a7"
-    },
-    {
-      "id": "jplagenza",
-      "name": "Justin Plagenza",
-      "role": "Standard",
-      "title": "Sales Engineer",
-      "teams": [
-        "Western Sales"
-      ],
-      "phone": "(925) 234-3012",
-      "email": "justin.plagenza@matw.com",
-      "linkedin": "https://www.linkedin.com/in/justin-plagenza-a51616a4/",
-      "website": "https://matthewsmarking.com",
-      "youtube": "https://www.youtube.com/user/MatthewsMarking",
-      "image": "",
-      "managerId": "jmatthews",
-      "territory": "",
-      "mapTerritories": [
-        "CA-NW",
-        "CA-NE",
-        "NV-NW",
-        "NV-NE",
-        "UT-NE"
-      ],
-      "meetingUrl": "",
-      "mapColor": "#f06292"
     },
     {
       "id": "mprokash",
@@ -670,11 +641,11 @@
     },
     {
       "id": "mboyer",
-      "name": "Madilyn Boyer",
+      "name": "Maddie Boyer",
       "role": "Standard",
       "title": "Business Development",
       "teams": [
-        "Business Development"
+        "Eastern Sales"
       ],
       "phone": "(724) 712-0979",
       "email": "madilyn.boyer@matw.com",
@@ -684,7 +655,12 @@
       "image": "",
       "managerId": "morcutt",
       "territory": "",
-      "mapTerritories": [],
+      "mapTerritories": [
+        "NJ-NE",
+        "NJ-SE",
+        "PA-SE",
+        "PA-NE"
+      ],
       "meetingUrl": "",
       "mapColor": "#C4D92E"
     },

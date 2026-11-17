@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
   "meta": {
-    "publishedAt": "2026-10-14T15:40:05.960Z",
-    "version": "2026.10.14-1040",
+    "publishedAt": "2026-11-17T21:18:03.221Z",
+    "version": "2026.11.17-1518",
     "audience": "internal"
   },
   "products": [
@@ -1057,7 +1057,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "6",
       "specs": "CONTROLLER,MPERIA™,ENCL,STD,W/O E SWITCH",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_Encl.png",
+      "image": "",
       "warning": "",
       "notes": "Includes power supply"
     },
@@ -1074,7 +1074,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "4",
       "specs": "CONTROLLER,MPERIA,STD,ALUM,IP40",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_12.png",
+      "image": "",
       "warning": "",
       "notes": "Includes power supply"
     },
@@ -1091,7 +1091,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "5",
       "specs": "CONTROLLER,MPERIA™,H.E.,IP65,15\"",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_HE.png",
+      "image": "",
       "warning": "",
       "notes": "Includes power supply"
     },
@@ -1108,7 +1108,7 @@
       "leadTime": "2 weeks",
       "bomOrder": "3",
       "specs": "CONTROLLER,8\",MPERIA™,STANDALONE",
-      "image": "https://raw.githubusercontent.com/jmatthewsMATW/my-diagram-assets/main/assets/MPERIA_8.png",
+      "image": "",
       "warning": "",
       "notes": "Includes power supply"
     },
@@ -16891,6 +16891,14 @@
           "message": "Required"
         }
       ],
+      "41036087": [
+        {
+          "id": "40000600",
+          "qty": 1,
+          "message": "Required",
+          "perUnit": true
+        }
+      ],
       "41039350": [
         {
           "id": "41039352",
@@ -16981,8 +16989,8 @@
         "41036087"
       ],
       "41036087": [
-        "40000600",
-        "40000598"
+        "40000598",
+        "40000599"
       ],
       "41039276": [
         "41039275"
@@ -17009,13 +17017,84 @@
   },
   "capacityRules": [
     {
+      "id": "CR1794947250438",
+      "name": "OEM VLink Capacity",
+      "providerId": "41214508",
+      "capacity": 32,
+      "unit": "Valves",
+      "message": "Each V-Link supports up to 32 Valves",
+      "splittable": true,
+      "consumers": {
+        "41038227": 7,
+        "41038228": 7,
+        "41038229": 7,
+        "41038230": 7,
+        "41038231": 7,
+        "41038232": 7,
+        "41038233": 7,
+        "41038235": 7,
+        "41038236": 7,
+        "41038237": 16,
+        "41038238": 16,
+        "41038239": 16,
+        "41038240": 16,
+        "41038241": 16,
+        "41038242": 16,
+        "41038243": 16,
+        "41038244": 16,
+        "41038245": 16,
+        "41038246": 32,
+        "41038247": 32,
+        "41038248": 32,
+        "41038249": 32,
+        "41038250": 32,
+        "41038251": 32,
+        "41038252": 32,
+        "41038253": 32,
+        "41038254": 32,
+        "41039595": 7,
+        "41039598": 7,
+        "41039599": 7,
+        "41039601": 16,
+        "41039602": 16,
+        "41039604": 16,
+        "41039606": 16,
+        "41039608": 32,
+        "41039609": 32,
+        "41039611": 32,
+        "41039612": 32,
+        "41039614": 7,
+        "41039617": 7,
+        "41039618": 16,
+        "41039619": 16,
+        "41039620": 32,
+        "41039621": 32,
+        "41039622": 7,
+        "41039627": 16,
+        "41039630": 32
+      }
+    },
+    {
+      "id": "CR1794945419907",
+      "name": "Ethernet Power",
+      "providerId": "41039352",
+      "capacity": 1,
+      "unit": "Switch",
+      "message": "",
+      "splittable": false,
+      "consumers": {
+        "41039350": 1,
+        "41039351": 1
+      }
+    },
+    {
       "id": "CR1791942167111",
       "name": "V-Link Capacity",
       "providerId": "41044911",
       "capacity": 32,
       "unit": "Valves",
-      "message": "Each V-Link support up to 32 Valves",
-      "splittable": false,
+      "message": "Each V-Link supports up to 32 Valves",
+      "splittable": true,
       "consumers": {
         "41038227": 7,
         "41038228": 7,
